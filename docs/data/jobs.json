@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:08:37+00:00",
+ "updated": "2026-11-09T20:38:43+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -71,6 +71,27 @@
     "AR"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Student Position in Physics Derivatives Cooled Department",
+   "company": "SCD",
+   "title": "Student Position in Physics Derivatives Cooled Department",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Student",
+   "posted": "",
+   "score": 75,
+   "reasons": [
+    "משרת סטודנט",
+    "פיזיקה",
+    "רקע אלקטרו-אופטי",
+    "MATLAB",
+    "Python"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -165,6 +186,24 @@
     "אלקטרו-אופטיקה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R20589",
+   "company": "MKS Ophir",
+   "title": "סטודנט/ית להנדסת מכונות/אופטיקה",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/XMLNAME-2027-Spring-Industrial-Engineer-Undergraduate-Intern_R20589",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted Yesterday",
+   "score": 64,
+   "reasons": [
+    "משרת סטודנט",
+    "אופטיקה/פוטוניקה בכותרת"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -494,6 +533,23 @@
    "initial": true
   },
   {
+   "id": "MKS Ophir|R20492",
+   "company": "MKS Ophir",
+   "title": "Optics Cleaner/עובד/ת להכנת עדשות אופטיות לציפוי",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem-Optics/Optics-Cleaner------_R20492",
+   "location": "Israel Jerusalem Optics",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 49,
+   "reasons": [
+    "אופטיקה/פוטוניקה בכותרת"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|20029",
    "company": "Elbit Systems",
    "title": "Hardware and Software System Engineer",
@@ -764,6 +820,47 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/E5.D60/",
+   "company": "Camtek",
+   "title": "Computer System Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/E5.D60/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 39,
+   "reasons": [
+    "הנדסת מערכות",
+    "אינטרפרומטריה",
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Research Physicist",
+   "company": "SCD",
+   "title": "Research Physicist",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 39,
+   "reasons": [
+    "פיזיקה",
+    "רקע אלקטרו-אופטי",
+    "MATLAB",
+    "Python",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -1396,6 +1493,27 @@
    "initial": true
   },
   {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/70.866/",
+   "company": "Camtek",
+   "title": "Director of Physics",
+   "url": "https://www.camtek.com/careers/open-positions/70.866/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 30,
+   "reasons": [
+    "פיזיקה",
+    "Zemax",
+    "רקע אלקטרו-אופטי",
+    "אינטרפרומטריה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21190",
    "company": "Elbit Systems",
    "title": "System Engineer",
@@ -1761,6 +1879,24 @@
    "initial": true
   },
   {
+   "id": "MKS Ophir|R19676",
+   "company": "MKS Ophir",
+   "title": "טכנאי/ת ייצור רכיבים אופטיים מדויקים/ Optical Precision Manufacturing Technician",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem-Optics/-------Optical-Precision-Manufacturing-Technician_R19676",
+   "location": "Israel Jerusalem Optics",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 28,
+   "reasons": [
+    "אופטיקה/פוטוניקה בכותרת",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Applied Materials|R2517464",
    "company": "Applied Materials",
    "title": "Electron Optics Devices Software Engineer",
@@ -1966,6 +2102,42 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/18.E44/",
+   "company": "Camtek",
+   "title": "Application Development Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/18.E44/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 26,
+   "reasons": [
+    "אינטרפרומטריה",
+    "MATLAB",
+    "Python"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R20637",
+   "company": "MKS Ophir",
+   "title": "2027 Spring Software Engineer Undergraduate Intern",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/XMLNAME-2027-Spring-Software-Engineer-Undergraduate-Intern_R20637",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 26,
+   "reasons": [
+    "משרת סטודנט"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -2369,6 +2541,76 @@
    "initial": true
   },
   {
+   "id": "SCD|סטודנט/ית שירות לקוחות",
+   "company": "SCD",
+   "title": "סטודנט/ית שירות לקוחות",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Student",
+   "posted": "",
+   "score": 25,
+   "reasons": [
+    "משרת סטודנט"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|סטודנט/ית לילה",
+   "company": "SCD",
+   "title": "סטודנט/ית לילה",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 25,
+   "reasons": [
+    "משרת סטודנט",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|סטודנט/ית לייצור",
+   "company": "SCD",
+   "title": "סטודנט/ית לייצור",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Student",
+   "posted": "",
+   "score": 25,
+   "reasons": [
+    "משרת סטודנט"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|סטודנט/ית ביצוע מעקב הזמנות & תמיכה ביבוא יצוא",
+   "company": "SCD",
+   "title": "סטודנט/ית ביצוע מעקב הזמנות & תמיכה ביבוא יצוא",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 25,
+   "reasons": [
+    "משרת סטודנט",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19621",
    "company": "Elbit Systems",
    "title": "EMC Student",
@@ -2580,6 +2822,27 @@
    "initial": true
   },
   {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/16.37E/",
+   "company": "Camtek",
+   "title": "Motion platforms System Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/16.37E/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 24,
+   "reasons": [
+    "הנדסת מערכות",
+    "רקע אלקטרו-אופטי",
+    "אינטרפרומטריה",
+    "MATLAB",
+    "Python"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|20688",
    "company": "Elbit Systems",
    "title": "Vulnerability Researcher",
@@ -2713,6 +2976,25 @@
    "initial": true
   },
   {
+   "id": "SCD|מהנדס/ת נתונים",
+   "company": "SCD",
+   "title": "מהנדס/ת נתונים",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 23,
+   "reasons": [
+    "MATLAB",
+    "Python",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19859",
    "company": "Elbit Systems",
    "title": "אינגרטור.ית למערכות DIRCM",
@@ -2843,6 +3125,27 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/AE.55E/",
+   "company": "Camtek",
+   "title": "System Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/AE.55E/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 22,
+   "reasons": [
+    "הנדסת מערכות",
+    "רקע אלקטרו-אופטי",
+    "אינטרפרומטריה",
+    "MATLAB",
+    "Python"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -3091,6 +3394,24 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/C0.61C/",
+   "company": "Camtek",
+   "title": "Integrator",
+   "url": "https://www.camtek.com/careers/open-positions/C0.61C/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 21,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -3525,6 +3846,24 @@
    "initial": true
   },
   {
+   "id": "SCD|מהנדס/ת צב”דים",
+   "company": "SCD",
+   "title": "מהנדס/ת צב”דים",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 18,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21063",
    "company": "Elbit Systems",
    "title": "אינטגרטור.ית למערכות תצפית",
@@ -3786,6 +4125,23 @@
    "initial": true
   },
   {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/4C.C17/",
+   "company": "Camtek",
+   "title": "Support Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/4C.C17/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 17,
+   "reasons": [
+    "אינטרפרומטריה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19022",
    "company": "Elbit Systems",
    "title": "System Engineer",
@@ -3976,6 +4332,26 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/35.277/",
+   "company": "Camtek",
+   "title": "PM & System Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/35.277/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 15,
+   "reasons": [
+    "הנדסת מערכות",
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -4356,6 +4732,69 @@
    "initial": true
   },
   {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/8C.370/",
+   "company": "Camtek",
+   "title": "Algorithm Developer",
+   "url": "https://www.camtek.com/careers/open-positions/8C.370/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 13,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "אינטרפרומטריה",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/8C.370-51.705/",
+   "company": "Camtek",
+   "title": "Algorithm Developer",
+   "url": "https://www.camtek.com/careers/open-positions/8C.370-51.705/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 13,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "אינטרפרומטריה",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/7D.C4C/",
+   "company": "Camtek",
+   "title": "Applied AI Researcher",
+   "url": "https://www.camtek.com/careers/open-positions/7D.C4C/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 13,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "אינטרפרומטריה",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|20000",
    "company": "Elbit Systems",
    "title": "Program Manager - High‑Power Laser Systems",
@@ -4421,6 +4860,43 @@
     "מטרולוגיה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/24.725/",
+   "company": "Camtek",
+   "title": "R&D Lab Integrator",
+   "url": "https://www.camtek.com/careers/open-positions/24.725/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 12,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/1A.D41/",
+   "company": "Camtek",
+   "title": "Support NPI Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/1A.D41/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 12,
+   "reasons": [
+    "אינטרפרומטריה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -5131,6 +5607,36 @@
    "initial": true
   },
   {
+   "id": "SCD|מהנדס/ת ניהול תצורה",
+   "company": "SCD",
+   "title": "מהנדס/ת ניהול תצורה",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "QA",
+   "posted": "",
+   "score": 10,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מהנדס/ת איכות בייצור",
+   "company": "SCD",
+   "title": "מהנדס/ת איכות בייצור",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 10,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21163",
    "company": "Elbit Systems",
    "title": "Integration and Testing Engineer",
@@ -5520,6 +6026,27 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Senior Physicist",
+   "company": "SCD",
+   "title": "Senior Physicist",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 7,
+   "reasons": [
+    "פיזיקה",
+    "רקע אלקטרו-אופטי",
+    "MATLAB",
+    "Python",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -7389,6 +7916,96 @@
    "initial": true
   },
   {
+   "id": "MKS Ophir|R22859",
+   "company": "MKS Ophir",
+   "title": "Talent Acquisition Specialist- temp for 8 months",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Talent-Acquisition-Specialist_R22859",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 12 Days Ago",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R21379",
+   "company": "MKS Ophir",
+   "title": "Facilities Specialist / איש/ת אחזקה",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Facilities-Specialist-----_R21379",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23070",
+   "company": "MKS Ophir",
+   "title": "Temporary Shipper/Receiver - מחסנאי/ת זמני/ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Temporary-Shipper-Receiver------_R23070",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23069-1",
+   "company": "MKS Ophir",
+   "title": "Temporary Shipper/Receiver - מחסנאי/ת זמני/ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Temporary-Shipper-Receiver------_R23069-1",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23068",
+   "company": "MKS Ophir",
+   "title": "Temporary Shipper/Receiver - מחסנאי/ת זמני/ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Temporary-Shipper-Receiver------_R23068",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R20033",
+   "company": "MKS Ophir",
+   "title": "מחסנאי/ת זמני/ת ל9 חודשים /  Temp. Distribution Coordinator",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem-Instruments/----9-----Temp-Distribution-Coordinator_R20033",
+   "location": "Israel Jerusalem Instruments",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19290",
    "company": "Elbit Systems",
    "title": "Senior System Engineer (Optical Communications)- Relocation",
@@ -7808,6 +8425,27 @@
    "initial": true
   },
   {
+   "id": "SCD|מהנדס/ת ניסויים במעבדת תנאי סביבה",
+   "company": "SCD",
+   "title": "מהנדס/ת ניסויים במעבדת תנאי סביבה",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 4,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "MATLAB",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19867",
    "company": "Elbit Systems",
    "title": "Test Systems Development Engineer",
@@ -8051,6 +8689,44 @@
     "מוליכים למחצה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|R&D Operations Planning Engineer",
+   "company": "SCD",
+   "title": "R&D Operations Planning Engineer",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 3,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "דורש 3+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מהנדס/ת תהליך רטובים (Wet Process Engineer)",
+   "company": "SCD",
+   "title": "מהנדס/ת תהליך רטובים (Wet Process Engineer)",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 3,
+   "reasons": [
+    "מוליכים למחצה",
+    "דורש 3+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   },
   {
@@ -14946,26 +15622,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20508",
-   "company": "Elbit Systems",
-   "title": "Mechanical Quality Inspector",
-   "url": "https://elbitsystemscareer.com/job/?jid=20508",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-18T12:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19346",
    "company": "Elbit Systems",
    "title": "Operations Quality Inspector",
@@ -14976,6 +15632,26 @@
    "score": 1,
    "reasons": [
     "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20508",
+   "company": "Elbit Systems",
+   "title": "Mechanical Quality Inspector",
+   "url": "https://elbitsystemscareer.com/job/?jid=20508",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-18T12:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 10+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15136,6 +15812,26 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20556",
+   "company": "Elbit Systems",
+   "title": "Head of Quality – Electronics Manufacturing Center",
+   "url": "https://elbitsystemscareer.com/job/?jid=20556",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-27T09:46:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19811",
    "company": "Elbit Systems",
    "title": "Design for Testability (DFT) Engineer",
@@ -15147,26 +15843,6 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20556",
-   "company": "Elbit Systems",
-   "title": "Head of Quality – Electronics Manufacturing Center",
-   "url": "https://elbitsystemscareer.com/job/?jid=20556",
-   "location": "Shfela, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-27T09:46:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
@@ -30939,6 +31615,961 @@
     "רפואי"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/CD.658/",
+   "company": "Camtek",
+   "title": "AI SW Infrastructure Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/CD.658/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "Python",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/62.276/",
+   "company": "Camtek",
+   "title": "Applied AI Research Team Leader",
+   "url": "https://www.camtek.com/careers/open-positions/62.276/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "אינטרפרומטריה",
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/0D.826/",
+   "company": "Camtek",
+   "title": "Configuration Control & Documentation Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/0D.826/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/C6.370/",
+   "company": "Camtek",
+   "title": "Configuration Control Team Leader",
+   "url": "https://www.camtek.com/careers/open-positions/C6.370/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש בדיוק את התואר שלך",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/B6.37C/",
+   "company": "Camtek",
+   "title": "Hardware Manager",
+   "url": "https://www.camtek.com/careers/open-positions/B6.37C/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "אינטרפרומטריה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/97.37A/",
+   "company": "Camtek",
+   "title": "NPI Procurement Specialist",
+   "url": "https://www.camtek.com/careers/open-positions/97.37A/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/0A.37A/",
+   "company": "Camtek",
+   "title": "R&D Technical Project Manager",
+   "url": "https://www.camtek.com/careers/open-positions/0A.37A/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "אינטרפרומטריה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/1F.073/",
+   "company": "Camtek",
+   "title": "Technical Project Manager",
+   "url": "https://www.camtek.com/careers/open-positions/1F.073/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "משרה בכירה",
+    "דורש 6+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Innoviz|CA.47E",
+   "company": "Innoviz",
+   "title": "Business Development Director – Defense Industry (DC Metropolitan Area - Remote)",
+   "url": "https://innoviz.tech/careers-3/co/usa/CA.47E/business-development-director-defense-industry-dc-metropolitan-area-remote/all",
+   "location": "Santa Clara, US",
+   "department": "Business",
+   "posted": "2026-11-09T07:50:11Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Innoviz|CF.E6E",
+   "company": "Innoviz",
+   "title": "Director of Sales & Business Development - EU Defense & Security",
+   "url": "https://innoviz.tech/careers-3/co/israel/CF.E6E/director-of-sales-business-development-eu-defense-security",
+   "location": "Rosh Ha'Ayin, IL",
+   "department": "Business",
+   "posted": "2026-11-09T18:03:16Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Innoviz|BE.47D",
+   "company": "Innoviz",
+   "title": "Field Application Engineer (FAE) - Munich, Germany",
+   "url": "https://innoviz.tech/careers-3/co/germany/BE.47D/field-application-engineer-fae-munich-germany/all",
+   "location": "Munich, DE",
+   "department": "Business",
+   "posted": "2026-11-09T17:02:39Z",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R17586",
+   "company": "MKS Ophir",
+   "title": "Finishing operator/מבקר/ת איכות",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Finishing-operator---_R17586",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון",
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R20830",
+   "company": "MKS Ophir",
+   "title": "Buyer",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Buyer_R20830",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R21699",
+   "company": "MKS Ophir",
+   "title": "Production Tech / טכנאי/ת בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech------_R21699",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R21895-1",
+   "company": "MKS Ophir",
+   "title": "FP&A Analyst",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/FP-A-Analyst_R21895-1",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R22230",
+   "company": "MKS Ophir",
+   "title": "Production Tech/ טכנאית בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech----_R22230",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23117",
+   "company": "MKS Ophir",
+   "title": "Production Tech/ טכנאית בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech----_R23117",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R22817-1",
+   "company": "MKS Ophir",
+   "title": "Plasma coater/טכנאי/ת ציפוי פלזמה",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Plasma-coater----_R22817-1",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23118-1",
+   "company": "MKS Ophir",
+   "title": "Production Tech / טכנאי/ת בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech------_R23118-1",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R22687",
+   "company": "MKS Ophir",
+   "title": "Mechanical Engineer Student/סטודנט.ית להנדסה מכנית",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Mechanical-Engineer-Student---_R22687",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 19 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרת סטודנט",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23740",
+   "company": "MKS Ophir",
+   "title": "Senior Software Engineer",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Rehovot/Senior-Software-Engineer_R23740",
+   "location": "Israel Rehovot",
+   "department": "",
+   "posted": "Posted 4 Days Ago",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23474",
+   "company": "MKS Ophir",
+   "title": "Assembler /מרכיב/ה מכאני/ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Assembler-----_R23474",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 6 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23430-1",
+   "company": "MKS Ophir",
+   "title": "Shipper/Receiver מחסנאי\\ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Shipper-Receiver--_R23430-1",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 6 Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23473",
+   "company": "MKS Ophir",
+   "title": "Assembler /מרכיב/ה מכאני/ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Assembler-----_R23473",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 6 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23487",
+   "company": "MKS Ophir",
+   "title": "Mechanical Engineer/מהנדס/ת מכונות",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Mechanical-Engineer---_R23487",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 4 Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Senior Research Scientist – III-V Epitaxy",
+   "company": "SCD",
+   "title": "Senior Research Scientist – III-V Epitaxy",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "משרה בכירה",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|ראש צוות הנדסת תהליך – פוטוליטוגרפיה ותהליכים רטובים",
+   "company": "SCD",
+   "title": "ראש צוות הנדסת תהליך – פוטוליטוגרפיה ותהליכים רטובים",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|ראש צוות הנדסת זיווד",
+   "company": "SCD",
+   "title": "ראש צוות הנדסת זיווד",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|ראש צוות הנדסת FPA",
+   "company": "SCD",
+   "title": "ראש צוות הנדסת FPA",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|טכנאי/ת צב”ד",
+   "company": "SCD",
+   "title": "טכנאי/ת צב”ד",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מבקר/ת איכות",
+   "company": "SCD",
+   "title": "מבקר/ת איכות",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "QA",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|ראש צוות הנדסת יבשים",
+   "company": "SCD",
+   "title": "ראש צוות הנדסת יבשים",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Technical Lead – Hardware Engineering",
+   "company": "SCD",
+   "title": "Technical Lead – Hardware Engineering",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "רקע אלקטרו-אופטי",
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מהנדס/ת פיתוח תהליכים",
+   "company": "SCD",
+   "title": "מהנדס/ת פיתוח תהליכים",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "דורש 5+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Analog / Mixed-Signal VLSI Designer",
+   "company": "SCD",
+   "title": "Analog / Mixed-Signal VLSI Designer",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Senior Digital VLSI Engineer",
+   "company": "SCD",
+   "title": "Senior Digital VLSI Engineer",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מנהל/ת פרויקט צב”דים",
+   "company": "SCD",
+   "title": "מנהל/ת פרויקט צב”דים",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מלחימ/ה",
+   "company": "SCD",
+   "title": "מלחימ/ה",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מהנדס/ת תכנון ייצור וניהול פרויקטים (הנדסת תעשייה וניהול)",
+   "company": "SCD",
+   "title": "מהנדס/ת תכנון ייצור וניהול פרויקטים (הנדסת תעשייה וניהול)",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Material Planner",
+   "company": "SCD",
+   "title": "Material Planner",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|קניין/ית",
+   "company": "SCD",
+   "title": "קניין/ית",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "דורש 5+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Opto-Mechanical Design Engineer",
+   "company": "SCD",
+   "title": "Opto-Mechanical Design Engineer",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|ראש צוות הנדסת אלקטרוניקה",
+   "company": "SCD",
+   "title": "ראש צוות הנדסת אלקטרוניקה",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 3+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מנהל/ת פרויקט פיתוח- לייזרים",
+   "company": "SCD",
+   "title": "מנהל/ת פרויקט פיתוח- לייזרים",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "לייזרים/LiDAR",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|High Speed Board Designer",
+   "company": "SCD",
+   "title": "High Speed Board Designer",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "דורש 7+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|דירקטור/ית שיווק ומכירות יחידה עסקית ישראל",
+   "company": "SCD",
+   "title": "דירקטור/ית שיווק ומכירות יחידה עסקית ישראל",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Sales, Marketing & BD",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "תחום פחות רלוונטי",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|הנדסאי/ת אחזקת ציוד",
+   "company": "SCD",
+   "title": "הנדסאי/ת אחזקת ציוד",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון",
+    "משרת טכנאי/הנדסאי",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|מהנדס/ת תהליכי אוטומציה – מכונות Pick &Place ובונדרים",
+   "company": "SCD",
+   "title": "מהנדס/ת תהליכי אוטומציה – מכונות Pick &Place ובונדרים",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|Integrator",
+   "company": "SCD",
+   "title": "Integrator",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "MATLAB",
+    "Python",
+    "דורש 5+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|R&D Project Manager",
+   "company": "SCD",
+   "title": "R&D Project Manager",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "R&D",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "SCD|טכנאי/ת קו ייצור (חדרים נקיים)",
+   "company": "SCD",
+   "title": "טכנאי/ת קו ייצור (חדרים נקיים)",
+   "url": "https://www.scd-infrared.com/find-a-job/",
+   "location": "Misgav, Israel",
+   "department": "Operation",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
   }
  ]
