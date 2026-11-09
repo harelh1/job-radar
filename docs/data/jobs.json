@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:38:43+00:00",
+ "updated": "2026-11-09T20:40:20+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -823,26 +823,6 @@
    "initial": true
   },
   {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/E5.D60/",
-   "company": "Camtek",
-   "title": "Computer System Engineer",
-   "url": "https://www.camtek.com/careers/open-positions/E5.D60/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 39,
-   "reasons": [
-    "הנדסת מערכות",
-    "אינטרפרומטריה",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
    "id": "SCD|Research Physicist",
    "company": "SCD",
    "title": "Research Physicist",
@@ -857,6 +837,26 @@
     "MATLAB",
     "Python",
     "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/E5.D60/",
+   "company": "Camtek",
+   "title": "Computer System Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/E5.D60/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 39,
+   "reasons": [
+    "הנדסת מערכות",
+    "אינטרפרומטריה",
+    "Python",
+    "עבודת מעבדה"
    ],
    "kind": "full",
    "tags": [],
@@ -2105,6 +2105,23 @@
    "initial": true
   },
   {
+   "id": "MKS Ophir|R20637",
+   "company": "MKS Ophir",
+   "title": "2027 Spring Software Engineer Undergraduate Intern",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/XMLNAME-2027-Spring-Software-Engineer-Undergraduate-Intern_R20637",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 26,
+   "reasons": [
+    "משרת סטודנט"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
    "id": "Camtek|https://www.camtek.com/careers/open-positions/18.E44/",
    "company": "Camtek",
    "title": "Application Development Engineer",
@@ -2119,23 +2136,6 @@
     "Python"
    ],
    "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R20637",
-   "company": "MKS Ophir",
-   "title": "2027 Spring Software Engineer Undergraduate Intern",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/XMLNAME-2027-Spring-Software-Engineer-Undergraduate-Intern_R20637",
-   "location": "Israel Jerusalem",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 26,
-   "reasons": [
-    "משרת סטודנט"
-   ],
-   "kind": "student",
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
@@ -31618,474 +31618,6 @@
    "initial": true
   },
   {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/CD.658/",
-   "company": "Camtek",
-   "title": "AI SW Infrastructure Engineer",
-   "url": "https://www.camtek.com/careers/open-positions/CD.658/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "אינטרפרומטריה",
-    "Python",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/62.276/",
-   "company": "Camtek",
-   "title": "Applied AI Research Team Leader",
-   "url": "https://www.camtek.com/careers/open-positions/62.276/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "אינטרפרומטריה",
-    "Python",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/0D.826/",
-   "company": "Camtek",
-   "title": "Configuration Control & Documentation Engineer",
-   "url": "https://www.camtek.com/careers/open-positions/0D.826/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "אינטרפרומטריה",
-    "עבודת מעבדה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/C6.370/",
-   "company": "Camtek",
-   "title": "Configuration Control Team Leader",
-   "url": "https://www.camtek.com/careers/open-positions/C6.370/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "אינטרפרומטריה",
-    "עבודת מעבדה",
-    "דורש בדיוק את התואר שלך",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/B6.37C/",
-   "company": "Camtek",
-   "title": "Hardware Manager",
-   "url": "https://www.camtek.com/careers/open-positions/B6.37C/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "אינטרפרומטריה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/97.37A/",
-   "company": "Camtek",
-   "title": "NPI Procurement Specialist",
-   "url": "https://www.camtek.com/careers/open-positions/97.37A/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "אינטרפרומטריה",
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/0A.37A/",
-   "company": "Camtek",
-   "title": "R&D Technical Project Manager",
-   "url": "https://www.camtek.com/careers/open-positions/0A.37A/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "אינטרפרומטריה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/1F.073/",
-   "company": "Camtek",
-   "title": "Technical Project Manager",
-   "url": "https://www.camtek.com/careers/open-positions/1F.073/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "אינטרפרומטריה",
-    "משרה בכירה",
-    "דורש 6+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Innoviz|CA.47E",
-   "company": "Innoviz",
-   "title": "Business Development Director – Defense Industry (DC Metropolitan Area - Remote)",
-   "url": "https://innoviz.tech/careers-3/co/usa/CA.47E/business-development-director-defense-industry-dc-metropolitan-area-remote/all",
-   "location": "Santa Clara, US",
-   "department": "Business",
-   "posted": "2026-11-09T07:50:11Z",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון",
-    "דורש סיווג ביטחוני"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Innoviz|CF.E6E",
-   "company": "Innoviz",
-   "title": "Director of Sales & Business Development - EU Defense & Security",
-   "url": "https://innoviz.tech/careers-3/co/israel/CF.E6E/director-of-sales-business-development-eu-defense-security",
-   "location": "Rosh Ha'Ayin, IL",
-   "department": "Business",
-   "posted": "2026-11-09T18:03:16Z",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Innoviz|BE.47D",
-   "company": "Innoviz",
-   "title": "Field Application Engineer (FAE) - Munich, Germany",
-   "url": "https://innoviz.tech/careers-3/co/germany/BE.47D/field-application-engineer-fae-munich-germany/all",
-   "location": "Munich, DE",
-   "department": "Business",
-   "posted": "2026-11-09T17:02:39Z",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R17586",
-   "company": "MKS Ophir",
-   "title": "Finishing operator/מבקר/ת איכות",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Finishing-operator---_R17586",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון",
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R20830",
-   "company": "MKS Ophir",
-   "title": "Buyer",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Buyer_R20830",
-   "location": "Israel Jerusalem",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R21699",
-   "company": "MKS Ophir",
-   "title": "Production Tech / טכנאי/ת בד\"ס",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech------_R21699",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted 22 Days Ago",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R21895-1",
-   "company": "MKS Ophir",
-   "title": "FP&A Analyst",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/FP-A-Analyst_R21895-1",
-   "location": "Israel Jerusalem",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R22230",
-   "company": "MKS Ophir",
-   "title": "Production Tech/ טכנאית בד\"ס",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech----_R22230",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted 22 Days Ago",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R23117",
-   "company": "MKS Ophir",
-   "title": "Production Tech/ טכנאית בד\"ס",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech----_R23117",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted 22 Days Ago",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R22817-1",
-   "company": "MKS Ophir",
-   "title": "Plasma coater/טכנאי/ת ציפוי פלזמה",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Plasma-coater----_R22817-1",
-   "location": "Israel Jerusalem",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R23118-1",
-   "company": "MKS Ophir",
-   "title": "Production Tech / טכנאי/ת בד\"ס",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech------_R23118-1",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted 22 Days Ago",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R22687",
-   "company": "MKS Ophir",
-   "title": "Mechanical Engineer Student/סטודנט.ית להנדסה מכנית",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Mechanical-Engineer-Student---_R22687",
-   "location": "Israel Jerusalem",
-   "department": "",
-   "posted": "Posted 19 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרת סטודנט",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "student",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R23740",
-   "company": "MKS Ophir",
-   "title": "Senior Software Engineer",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Rehovot/Senior-Software-Engineer_R23740",
-   "location": "Israel Rehovot",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R23474",
-   "company": "MKS Ophir",
-   "title": "Assembler /מרכיב/ה מכאני/ת",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Assembler-----_R23474",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted 6 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R23430-1",
-   "company": "MKS Ophir",
-   "title": "Shipper/Receiver מחסנאי\\ת",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Shipper-Receiver--_R23430-1",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted 6 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R23473",
-   "company": "MKS Ophir",
-   "title": "Assembler /מרכיב/ה מכאני/ת",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Assembler-----_R23473",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted 6 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "MKS Ophir|R23487",
-   "company": "MKS Ophir",
-   "title": "Mechanical Engineer/מהנדס/ת מכונות",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Mechanical-Engineer---_R23487",
-   "location": "Israel Jerusalem",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
    "id": "SCD|Senior Research Scientist – III-V Epitaxy",
    "company": "SCD",
    "title": "Senior Research Scientist – III-V Epitaxy",
@@ -32566,6 +32098,474 @@
    "reasons": [
     "תחום פחות רלוונטי",
     "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R17586",
+   "company": "MKS Ophir",
+   "title": "Finishing operator/מבקר/ת איכות",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Finishing-operator---_R17586",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון",
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R20830",
+   "company": "MKS Ophir",
+   "title": "Buyer",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Buyer_R20830",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R21699",
+   "company": "MKS Ophir",
+   "title": "Production Tech / טכנאי/ת בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech------_R21699",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R21895-1",
+   "company": "MKS Ophir",
+   "title": "FP&A Analyst",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/FP-A-Analyst_R21895-1",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R22230",
+   "company": "MKS Ophir",
+   "title": "Production Tech/ טכנאית בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech----_R22230",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23117",
+   "company": "MKS Ophir",
+   "title": "Production Tech/ טכנאית בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech----_R23117",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R22817-1",
+   "company": "MKS Ophir",
+   "title": "Plasma coater/טכנאי/ת ציפוי פלזמה",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Plasma-coater----_R22817-1",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23118-1",
+   "company": "MKS Ophir",
+   "title": "Production Tech / טכנאי/ת בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech------_R23118-1",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R22687",
+   "company": "MKS Ophir",
+   "title": "Mechanical Engineer Student/סטודנט.ית להנדסה מכנית",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Mechanical-Engineer-Student---_R22687",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 19 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרת סטודנט",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23740",
+   "company": "MKS Ophir",
+   "title": "Senior Software Engineer",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Rehovot/Senior-Software-Engineer_R23740",
+   "location": "Israel Rehovot",
+   "department": "",
+   "posted": "Posted 4 Days Ago",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23474",
+   "company": "MKS Ophir",
+   "title": "Assembler /מרכיב/ה מכאני/ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Assembler-----_R23474",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 6 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23430-1",
+   "company": "MKS Ophir",
+   "title": "Shipper/Receiver מחסנאי\\ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Shipper-Receiver--_R23430-1",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 6 Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23473",
+   "company": "MKS Ophir",
+   "title": "Assembler /מרכיב/ה מכאני/ת",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Assembler-----_R23473",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted 6 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "MKS Ophir|R23487",
+   "company": "MKS Ophir",
+   "title": "Mechanical Engineer/מהנדס/ת מכונות",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Jerusalem/Mechanical-Engineer---_R23487",
+   "location": "Israel Jerusalem",
+   "department": "",
+   "posted": "Posted 4 Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/CD.658/",
+   "company": "Camtek",
+   "title": "AI SW Infrastructure Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/CD.658/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "Python",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/62.276/",
+   "company": "Camtek",
+   "title": "Applied AI Research Team Leader",
+   "url": "https://www.camtek.com/careers/open-positions/62.276/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "אינטרפרומטריה",
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/0D.826/",
+   "company": "Camtek",
+   "title": "Configuration Control & Documentation Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/0D.826/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/C6.370/",
+   "company": "Camtek",
+   "title": "Configuration Control Team Leader",
+   "url": "https://www.camtek.com/careers/open-positions/C6.370/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש בדיוק את התואר שלך",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/B6.37C/",
+   "company": "Camtek",
+   "title": "Hardware Manager",
+   "url": "https://www.camtek.com/careers/open-positions/B6.37C/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "אינטרפרומטריה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/97.37A/",
+   "company": "Camtek",
+   "title": "NPI Procurement Specialist",
+   "url": "https://www.camtek.com/careers/open-positions/97.37A/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/0A.37A/",
+   "company": "Camtek",
+   "title": "R&D Technical Project Manager",
+   "url": "https://www.camtek.com/careers/open-positions/0A.37A/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "אינטרפרומטריה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/1F.073/",
+   "company": "Camtek",
+   "title": "Technical Project Manager",
+   "url": "https://www.camtek.com/careers/open-positions/1F.073/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "משרה בכירה",
+    "דורש 6+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Innoviz|CA.47E",
+   "company": "Innoviz",
+   "title": "Business Development Director – Defense Industry (DC Metropolitan Area - Remote)",
+   "url": "https://innoviz.tech/careers-3/co/usa/CA.47E/business-development-director-defense-industry-dc-metropolitan-area-remote/all",
+   "location": "Santa Clara, US",
+   "department": "Business",
+   "posted": "2026-11-09T07:50:11Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Innoviz|CF.E6E",
+   "company": "Innoviz",
+   "title": "Director of Sales & Business Development - EU Defense & Security",
+   "url": "https://innoviz.tech/careers-3/co/israel/CF.E6E/director-of-sales-business-development-eu-defense-security",
+   "location": "Rosh Ha'Ayin, IL",
+   "department": "Business",
+   "posted": "2026-11-09T18:03:16Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Innoviz|BE.47D",
+   "company": "Innoviz",
+   "title": "Field Application Engineer (FAE) - Munich, Germany",
+   "url": "https://innoviz.tech/careers-3/co/germany/BE.47D/field-application-engineer-fae-munich-germany/all",
+   "location": "Munich, DE",
+   "department": "Business",
+   "posted": "2026-11-09T17:02:39Z",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [],
