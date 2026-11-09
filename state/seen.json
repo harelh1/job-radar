@@ -1575,7 +1575,92 @@
    "Research Physicist": "2026-11-09T20:38:42+00:00",
    "R&D Project Manager": "2026-11-09T20:38:42+00:00",
    "טכנאי/ת קו ייצור (חדרים נקיים)": "2026-11-09T20:38:42+00:00"
+  },
+  "Xsight Labs": {
+   "74.A66": "2026-11-09T21:25:56+00:00",
+   "C7.479": "2026-11-09T21:25:56+00:00",
+   "AE.471": "2026-11-09T21:25:56+00:00",
+   "94.272": "2026-11-09T21:25:56+00:00",
+   "24.478": "2026-11-09T21:25:56+00:00",
+   "5B.279": "2026-11-09T21:25:56+00:00",
+   "20.F65": "2026-11-09T21:25:56+00:00",
+   "C3.270": "2026-11-09T21:25:56+00:00",
+   "F1.56C": "2026-11-09T21:25:56+00:00",
+   "FD.662": "2026-11-09T21:25:56+00:00",
+   "5B.274": "2026-11-09T21:25:56+00:00",
+   "EB.46B": "2026-11-09T21:25:56+00:00",
+   "8D.17D": "2026-11-09T21:25:56+00:00",
+   "F0.664": "2026-11-09T21:25:56+00:00",
+   "2D.85B": "2026-11-09T21:25:56+00:00",
+   "BB.27D": "2026-11-09T21:25:56+00:00",
+   "24.47D": "2026-11-09T21:25:56+00:00",
+   "6B.272": "2026-11-09T21:25:56+00:00",
+   "5D.47C": "2026-11-09T21:25:56+00:00"
   }
  },
- "tg_offset": 981000149
+ "tg_offset": 981000152,
+ "shown": [
+  "Elbit Systems|20626",
+  "Elbit Systems|20928",
+  "Elbit Systems|21120",
+  "Elbit Systems|21156",
+  "Elbit Systems|21174",
+  "KLA (Orbotech)|2640817-1",
+  "Lumus|3A.759",
+  "MKS Ophir|R20589",
+  "Nova|BD.667",
+  "SCD|Student Position in Physics Derivatives Cooled Department"
+ ],
+ "last_ranked": [
+  {
+   "id": "Elbit Systems|21156",
+   "title": "Electro-Optical Systems Engineering – Student position",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "KLA (Orbotech)|2640817-1",
+   "title": "Physicist - Electro Optics Engineer",
+   "company": "KLA (Orbotech)"
+  },
+  {
+   "id": "Lumus|3A.759",
+   "title": "Optical Design Engineer-– Advanced R&D",
+   "company": "Lumus"
+  },
+  {
+   "id": "SCD|Student Position in Physics Derivatives Cooled Department",
+   "title": "Student Position in Physics Derivatives Cooled Department",
+   "company": "SCD"
+  },
+  {
+   "id": "Elbit Systems|21174",
+   "title": "Electro-Optical Integration Specialist",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Nova|BD.667",
+   "title": "New Technology Research Experimental Physicist",
+   "company": "Nova"
+  },
+  {
+   "id": "Elbit Systems|20626",
+   "title": "Electro-Optics Operational Research Eng",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Elbit Systems|20928",
+   "title": "System Engineering Student – Algorithms Team",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "MKS Ophir|R20589",
+   "title": "סטודנט/ית להנדסת מכונות/אופטיקה",
+   "company": "MKS Ophir"
+  },
+  {
+   "id": "Elbit Systems|21120",
+   "title": "Optical Designer",
+   "company": "Elbit Systems"
+  }
+ ]
 }
