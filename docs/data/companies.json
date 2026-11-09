@@ -1,0 +1,333 @@
+{
+ "updated": "2026-11-09T20:02:54+00:00",
+ "pending": [
+  {
+   "name": "Rafael",
+   "reason": "אתר המשרות חסום לסריקה אוטומטית (הגנת בוטים)"
+  },
+  {
+   "name": "Israel Aerospace Industries (IAI / Elta)",
+   "reason": "אתר המשרות חסום לסריקה אוטומטית (הגנת בוטים)"
+  },
+  {
+   "name": "Camtek",
+   "reason": "עמוד המשרות נטען ב-JavaScript"
+  },
+  {
+   "name": "Innoviz",
+   "reason": "עמוד המשרות נטען ב-JavaScript"
+  },
+  {
+   "name": "MKS Ophir",
+   "reason": "לא נמצא מקור משרות קריא"
+  },
+  {
+   "name": "SCD",
+   "reason": "לא נמצא מקור משרות קריא"
+  },
+  {
+   "name": "Apple Israel",
+   "reason": "האתר לא הגיב לסריקה"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Elbit Systems",
+   "type": "elbit",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 538
+   },
+   "careers_url": "https://elbitsystemscareer.com/jobs/",
+   "note": null
+  },
+  {
+   "name": "KLA (Orbotech)",
+   "type": "workday",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 83
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Applied Materials",
+   "type": "workday",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 74
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Intel",
+   "type": "workday",
+   "tags": [
+    "מוליכים למחצה"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 17
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "NVIDIA",
+   "type": "workday",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 410
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Marvell",
+   "type": "workday",
+   "tags": [
+    "מוליכים למחצה"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 8
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "HP Indigo",
+   "type": "workday",
+   "tags": [
+    "דימות"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 16
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Nova",
+   "type": "comeet",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 47
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Lumus",
+   "type": "comeet",
+   "tags": [
+    "אופטיקה",
+    "AR"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 1
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "TriEye",
+   "type": "comeet",
+   "tags": [
+    "אלקטרו-אופטיקה",
+    "גלאים"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 3
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Lumenis",
+   "type": "comeet",
+   "tags": [
+    "לייזרים",
+    "רפואי"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 7
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Arbe Robotics",
+   "type": "comeet",
+   "tags": [
+    "רדאר",
+    "רכב"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 8
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Rail Vision",
+   "type": "comeet",
+   "tags": [
+    "אלקטרו-אופטיקה",
+    "דימות"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 5
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Quantum Machines",
+   "type": "comeet",
+   "tags": [
+    "קוונטים"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 24
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "OpticSolution",
+   "type": "careerspage",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 20
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Mobileye",
+   "type": "links",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 153
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Tower Semiconductor",
+   "type": "links",
+   "tags": [
+    "מוליכים למחצה"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 22
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Opsys",
+   "type": "links",
+   "tags": [
+    "LiDAR",
+    "אלקטרו-אופטיקה"
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 8
+   },
+   "careers_url": null,
+   "note": null
+  },
+  {
+   "name": "Xsight Labs",
+   "type": "links",
+   "tags": [
+    "מוליכים למחצה"
+   ],
+   "status": {
+    "ok": false,
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "last_try": "2026-11-09T20:02:53+00:00"
+   },
+   "careers_url": null,
+   "note": null
+  }
+ ]
+}

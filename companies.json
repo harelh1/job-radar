@@ -7,7 +7,14 @@
     "ביטחוני",
     "אלקטרו-אופטיקה"
    ],
-   "careers_url": "https://elbitsystemscareer.com/jobs/"
+   "careers_url": "https://elbitsystemscareer.com/jobs/",
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 538
+   },
+   "initialized": true
   },
   {
    "name": "KLA (Orbotech)",
@@ -19,7 +26,14 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 83
+   },
+   "initialized": true
   },
   {
    "name": "Applied Materials",
@@ -31,7 +45,14 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 74
+   },
+   "initialized": true
   },
   {
    "name": "Intel",
@@ -42,7 +63,14 @@
    "israel_only": true,
    "tags": [
     "מוליכים למחצה"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 17
+   },
+   "initialized": true
   },
   {
    "name": "NVIDIA",
@@ -54,7 +82,14 @@
    "tags": [
     "מוליכים למחצה",
     "פוטוניקה"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 410
+   },
+   "initialized": true
   },
   {
    "name": "Marvell",
@@ -65,7 +100,14 @@
    "israel_only": true,
    "tags": [
     "מוליכים למחצה"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 8
+   },
+   "initialized": true
   },
   {
    "name": "HP Indigo",
@@ -76,7 +118,14 @@
    "israel_only": true,
    "tags": [
     "דימות"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 16
+   },
+   "initialized": true
   },
   {
    "name": "Nova",
@@ -87,7 +136,14 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה אופטית"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 47
+   },
+   "initialized": true
   },
   {
    "name": "Lumus",
@@ -98,7 +154,14 @@
    "tags": [
     "אופטיקה",
     "AR"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 1
+   },
+   "initialized": true
   },
   {
    "name": "TriEye",
@@ -109,7 +172,14 @@
    "tags": [
     "אלקטרו-אופטיקה",
     "גלאים"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 3
+   },
+   "initialized": true
   },
   {
    "name": "Lumenis",
@@ -120,7 +190,14 @@
    "tags": [
     "לייזרים",
     "רפואי"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 7
+   },
+   "initialized": true
   },
   {
    "name": "Arbe Robotics",
@@ -131,7 +208,14 @@
    "tags": [
     "רדאר",
     "רכב"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 8
+   },
+   "initialized": true
   },
   {
    "name": "Rail Vision",
@@ -142,7 +226,14 @@
    "tags": [
     "אלקטרו-אופטיקה",
     "דימות"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 5
+   },
+   "initialized": true
   },
   {
    "name": "Quantum Machines",
@@ -152,7 +243,14 @@
    "israel_only": true,
    "tags": [
     "קוונטים"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 24
+   },
+   "initialized": true
   },
   {
    "name": "OpticSolution",
@@ -162,7 +260,14 @@
    "tags": [
     "אופטיקה",
     "ירושלים"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 20
+   },
+   "initialized": true
   },
   {
    "name": "Mobileye",
@@ -174,7 +279,14 @@
     "רכב",
     "דימות",
     "ירושלים"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 153
+   },
+   "initialized": true
   },
   {
    "name": "Tower Semiconductor",
@@ -184,7 +296,14 @@
    "location": "Israel",
    "tags": [
     "מוליכים למחצה"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 22
+   },
+   "initialized": true
   },
   {
    "name": "Opsys",
@@ -195,7 +314,14 @@
    "tags": [
     "LiDAR",
     "אלקטרו-אופטיקה"
-   ]
+   ],
+   "status": {
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-09T20:02:53+00:00",
+    "count": 8
+   },
+   "initialized": true
   },
   {
    "name": "Xsight Labs",
@@ -205,7 +331,12 @@
    "need_israel_check": true,
    "tags": [
     "מוליכים למחצה"
-   ]
+   ],
+   "status": {
+    "ok": false,
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "last_try": "2026-11-09T20:02:53+00:00"
+   }
   }
  ],
  "pending": [
