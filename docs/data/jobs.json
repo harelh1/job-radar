@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T21:32:30+00:00",
+ "updated": "2026-11-09T22:15:30+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -27543,27 +27543,6 @@
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 6+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2026431",
-   "company": "NVIDIA",
-   "title": "Senior NPI Engineering Build Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-NPI-Engineering-Build-Manager_JR2026431",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
