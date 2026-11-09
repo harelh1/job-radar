@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:02:54+00:00",
+ "updated": "2026-11-09T20:04:36+00:00",
  "pending": [
   {
    "name": "Rafael",
@@ -41,7 +41,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 538
    },
    "careers_url": "https://elbitsystemscareer.com/jobs/",
@@ -57,7 +57,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 83
    },
    "careers_url": null,
@@ -73,7 +73,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 74
    },
    "careers_url": null,
@@ -88,7 +88,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 17
    },
    "careers_url": null,
@@ -104,7 +104,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 410
    },
    "careers_url": null,
@@ -117,10 +117,11 @@
     "מוליכים למחצה"
    ],
    "status": {
-    "ok": true,
-    "error": null,
+    "ok": false,
+    "error": "TimeoutError: The read operation timed out",
     "last_ok": "2026-11-09T20:02:53+00:00",
-    "count": 8
+    "count": 8,
+    "last_try": "2026-11-09T20:04:36+00:00"
    },
    "careers_url": null,
    "note": null
@@ -134,7 +135,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 16
    },
    "careers_url": null,
@@ -150,7 +151,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 47
    },
    "careers_url": null,
@@ -166,7 +167,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 1
    },
    "careers_url": null,
@@ -182,7 +183,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 3
    },
    "careers_url": null,
@@ -198,7 +199,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 7
    },
    "careers_url": null,
@@ -214,7 +215,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 8
    },
    "careers_url": null,
@@ -230,7 +231,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 5
    },
    "careers_url": null,
@@ -245,7 +246,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 24
    },
    "careers_url": null,
@@ -261,7 +262,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 20
    },
    "careers_url": null,
@@ -278,7 +279,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 153
    },
    "careers_url": null,
@@ -293,7 +294,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-09T20:02:53+00:00",
+    "last_ok": "2026-11-09T20:04:36+00:00",
     "count": 22
    },
    "careers_url": null,
@@ -307,10 +308,11 @@
     "אלקטרו-אופטיקה"
    ],
    "status": {
-    "ok": true,
-    "error": null,
+    "ok": false,
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
     "last_ok": "2026-11-09T20:02:53+00:00",
-    "count": 8
+    "count": 8,
+    "last_try": "2026-11-09T20:04:36+00:00"
    },
    "careers_url": null,
    "note": null
@@ -324,7 +326,7 @@
    "status": {
     "ok": false,
     "error": "HTTPError: HTTP Error 429: Too Many Requests",
-    "last_try": "2026-11-09T20:02:53+00:00"
+    "last_try": "2026-11-09T20:04:36+00:00"
    },
    "careers_url": null,
    "note": null
