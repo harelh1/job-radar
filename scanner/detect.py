@@ -80,6 +80,10 @@ def from_page(name, url, html_=None):
 
 
 def detect(name, url=None):
+    if url and "scd-infrared.com" in url:
+        cfg = {"type": "scd", "url": "https://www.scd-infrared.com/find-a-job/"}
+        if _try(cfg):
+            return cfg, "זיהיתי את אתר המשרות של SCD"
     if url:
         try:
             cfg = from_page(name, url)
@@ -87,7 +91,14 @@ def detect(name, url=None):
             return None, f"לא הצלחתי לפתוח את הקישור ({type(e).__name__})"
         if cfg:
             return cfg, f"זיהיתי מערכת {cfg['type']}"
-        cfg = {"type": "links", "url": url, "need_israel_check": False}
+        cfg = {"type": "links", "url": url, "need_israel_check": True}
+        try:
+            page = fetch(url)
+            # Comeet-style position ids in the site's own URLs (e.g. /open-positions/CD.658/)
+            if len(re.findall(r'href="[^"]*/[0-9A-F]{2}\.[0-9A-F]{3}', page)) >= 2:
+                cfg["pattern"] = r"/[0-9A-F]{2}\.[0-9A-F]{3}(?:-[0-9A-F]{2}\.[0-9A-F]{3})?/?$"
+        except Exception:
+            pass
         jobs = _try(cfg)
         if jobs:
             return cfg, f"לא זיהיתי מערכת גיוס מוכרת, אז אעקוב אחרי קישורי המשרות בעמוד ({len(jobs)} נמצאו)"

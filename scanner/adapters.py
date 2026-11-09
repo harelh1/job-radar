@@ -189,6 +189,36 @@ def elbit(c):
     return out
 
 
+# ---------------------------------------------------------------- SCD (WordPress accordion list, paginated)
+def scd(c):
+    base = c.get("url", "https://www.scd-infrared.com/find-a-job/")
+    out, seen = [], set()
+    for page_no in range(1, 15):
+        url = base if page_no == 1 else f"{base.rstrip('/')}/page/{page_no}/"
+        try:
+            page = fetch(url)
+        except Exception:
+            if page_no == 1:
+                raise
+            break
+        items = re.split(r'<div class="acc_item">', page)[1:]
+        if not items:
+            break
+        for it in items:
+            m = re.search(r'<h2 class=["\']acc_title["\']>(.*?)<div class=["\']job_term["\']>(.*?)</div>', it, re.S)
+            if not m:
+                continue
+            title = strip_html(re.sub(r'<div class=["\']plus_anim["\']>.*?</div>', "", m.group(1), flags=re.S))
+            if not title or title in seen:
+                continue
+            seen.add(title)
+            d = re.search(r'<div class="acc_desc">(.*?)(?:<form|<div class="float_form"|$)', it, re.S)
+            out.append({"key": title, "title": title, "url": base, "location": "Misgav, Israel",
+                        "department": strip_html(m.group(2)), "description": strip_html(d.group(1) if d else "")[:8000],
+                        "posted": ""})
+    return out
+
+
 # ---------------------------------------------------------------- careers-page.com
 def careerspage(c):
     html_ = fetch(f"https://careers-page.com/{c['slug']}")
@@ -219,10 +249,12 @@ def links(c):
             continue
         seen.add(href)
         text = strip_html(m.group(2))
-        generic = not text or len(text) < 4 or re.fullmatch(GENERIC_TEXT, text, re.I)
+        generic = not text or len(text) < 4 or re.fullmatch(r"(?:" + GENERIC_TEXT + r")[\s>»›→←‹«<.:!-]*", text, re.I)
         if generic:
             slug = [s for s in urllib.parse.urlparse(href).path.split("/") if s]
-            words = [s for s in slug if not re.fullmatch(r"[0-9a-f-]{8,}|[0-9A-F]{2}\.[0-9A-F]{3}|\d+|jobs?|careers?|positions?", s, re.I)]
+            words = [s for s in slug if not re.fullmatch(
+                r"[0-9a-f-]{8,}|[0-9A-F]{2}\.[0-9A-F]{3}.*|\d+|jobs?|careers?|(?:open-)?positions?|openings?|vacancies|en|he",
+                s, re.I)]
             text = (words[-1] if words else "").replace("-", " ").replace("_", " ").strip().title()
         out.append({"key": href, "title": text[:150], "url": href, "location": c.get("location", ""),
                     "department": "", "description": "", "posted": "", "_page": True,
@@ -264,5 +296,5 @@ def page_detail(job, need_location):
 ADAPTERS = {
     "comeet": comeet, "workday": workday, "greenhouse": greenhouse, "lever": lever,
     "smartrecruiters": smartrecruiters, "ashby": ashby, "workable": workable, "elbit": elbit,
-    "careerspage": careerspage, "links": links,
+    "careerspage": careerspage, "links": links, "scd": scd,
 }
