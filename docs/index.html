@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Radar</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f5f6f8; --card:#fff; --ink:#15181d; --muted:#667085; --line:#e4e7ec;
+  --accent:#4f46e5; --accent-soft:#eef0ff;
+  --hi:#0f9f6e; --hi-soft:#e3f6ef; --mid:#b7791f; --mid-soft:#fdf3e1; --lo:#98a2b3; --lo-soft:#f2f4f7;
+  --new:#e11d48;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0e1116; --card:#161b22; --ink:#e6e9ee; --muted:#9aa4b2; --line:#262d36;
+    --accent:#8b8cff; --accent-soft:#23254a;
+    --hi:#34d399; --hi-soft:#0f2e24; --mid:#f2b55a; --mid-soft:#33270f; --lo:#7d8794; --lo-soft:#1d232b;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0e1116; --card:#161b22; --ink:#e6e9ee; --muted:#9aa4b2; --line:#262d36;
+  --accent:#8b8cff; --accent-soft:#23254a;
+  --hi:#34d399; --hi-soft:#0f2e24; --mid:#f2b55a; --mid-soft:#33270f; --lo:#7d8794; --lo-soft:#1d232b;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Heebo,system-ui,sans-serif;font-size:15px;line-height:1.45}
+a{color:var(--accent)}
+.wrap{max-width:980px;margin:0 auto;padding:20px 16px 60px}
+header{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+h1{margin:0;font-size:26px;font-weight:800;letter-spacing:-.3px}
+.sub{color:var(--muted);font-size:13px}
+.tabs{display:flex;gap:6px}
+.tab{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 14px;border-radius:999px;cursor:pointer;font:inherit;font-weight:500}
+.tab.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+.stat b{display:block;font-size:22px;font-weight:800}
+.stat span{color:var(--muted);font-size:12.5px}
+.filters{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;margin-bottom:14px;position:sticky;top:0;z-index:5}
+.filters input[type=search],.filters select{font:inherit;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:8px;padding:7px 10px}
+.filters input[type=search]{flex:1 1 200px;min-width:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{font:inherit;border:0;background:transparent;color:var(--muted);padding:6px 11px;cursor:pointer}
+.seg button.on{background:var(--accent-soft);color:var(--accent);font-weight:700}
+.range{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}
+.range input{accent-color:var(--accent);width:120px}
+.list{display:flex;flex-direction:column;gap:10px}
+.job{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;display:grid;grid-template-columns:64px 1fr;gap:14px;align-items:start}
+.score{width:64px;height:64px;border-radius:14px;display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:800;font-size:20px}
+.score small{font-size:10.5px;font-weight:500;opacity:.85}
+.s-hi{background:var(--hi-soft);color:var(--hi)} .s-mid{background:var(--mid-soft);color:var(--mid)} .s-lo{background:var(--lo-soft);color:var(--lo)}
+.job h3{margin:0 0 3px;font-size:16.5px;font-weight:700;overflow-wrap:anywhere}
+.job h3 a{color:inherit;text-decoration:none}.job h3 a:hover{color:var(--accent)}
+.meta{color:var(--muted);font-size:13px;display:flex;flex-wrap:wrap;gap:4px 12px}
+.chips{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.chip{font-size:12px;padding:2px 8px;border-radius:999px;background:var(--lo-soft);color:var(--muted)}
+.chip.k{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.chip.new{background:var(--new);color:#fff;font-weight:700}
+.chip.why{background:transparent;border:1px solid var(--line)}
+.empty{text-align:center;color:var(--muted);padding:40px 0}
+.more{display:block;margin:14px auto 0;font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:8px 18px;cursor:pointer}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+th,td{padding:9px 12px;border-bottom:1px solid var(--line);text-align:right;font-size:14px}
+th{color:var(--muted);font-weight:500;font-size:12.5px}
+.ok{color:var(--hi)} .bad{color:var(--new)}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:14px}
+.box h2{margin:0 0 6px;font-size:17px}
+code{background:var(--lo-soft);padding:1px 6px;border-radius:5px;font-size:13px;direction:ltr;unicode-bidi:embed}
+@media (max-width:640px){
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .job{grid-template-columns:52px 1fr;gap:10px;padding:12px}
+  .score{width:52px;height:52px;font-size:17px}
+  .filters{position:static}
+  td:nth-child(3),th:nth-child(3){display:none}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>📡 Job Radar</h1>
+      <div class="sub" id="updated">טוען…</div>
+    </div>
+    <div class="tabs">
+      <button class="tab on" data-tab="jobs">משרות</button>
+      <button class="tab" data-tab="companies">חברות</button>
+    </div>
+  </header>
+
+  <section id="jobs">
+    <div class="stats" id="stats"></div>
+    <div class="filters">
+      <input type="search" id="q" placeholder="חיפוש: אופטיקה, לייזר, Zemax, ירושלים…">
+      <div class="seg" id="kind">
+        <button data-v="all" class="on">הכל</button><button data-v="student">🎓 סטודנט</button><button data-v="full">💼 מלאה</button>
+      </div>
+      <select id="company"><option value="">כל החברות</option></select>
+      <div class="range">התאמה מינימלית <input type="range" id="min" min="0" max="90" step="5" value="40"> <b id="minv">40%</b></div>
+      <div class="seg" id="sort"><button data-v="score" class="on">לפי התאמה</button><button data-v="new">הכי חדשות</button></div>
+    </div>
+    <div class="list" id="list"></div>
+    <button class="more" id="more" hidden>הצג עוד</button>
+  </section>
+
+  <section id="companies" hidden>
+    <div class="box">
+      <h2>➕ להוסיף חברה</h2>
+      שלח לבוט בטלגרם: <code>/add שם החברה</code><br>
+      אם הבוט לא מצא לבד – הוסף קישור לעמוד המשרות: <code>/add שם החברה https://...</code><br>
+      <span class="sub">או פשוט בקש מ-Claude בצ'אט להוסיף אותה. פקודות נוספות: <code>/list</code> <code>/top</code> <code>/remove</code> <code>/min 60</code></span>
+    </div>
+    <table><thead><tr><th>חברה</th><th>משרות בישראל</th><th>תחום</th><th>סטטוס</th></tr></thead><tbody id="ctable"></tbody></table>
+    <div class="box" id="pendingBox" hidden style="margin-top:14px">
+      <h2>⏳ ממתינות לזיהוי</h2>
+      <div class="sub">חברות שעוד לא מצאתי להן מקור משרות שאפשר לסרוק. שלח קישור לעמוד המשרות שלהן, או בקש מ-Claude.</div>
+      <ul id="pending"></ul>
+    </div>
+  </section>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const store = { get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+                set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} } };
+const st = { kind: "all", sort: "score", min: store.get("min", 40), q: "", company: "", shown: 60 };
+let JOBS = [], lastVisit = store.get("lastVisit", null);
+
+function ago(iso){
+  if(!iso) return "";
+  const m = (Date.now() - new Date(iso)) / 60000;
+  if (m < 60) return `לפני ${Math.max(1, Math.round(m))} דק׳`;
+  if (m < 1440) return `לפני ${Math.round(m/60)} שע׳`;
+  return `לפני ${Math.round(m/1440)} ימים`;
+}
+function cls(s){ return s >= 75 ? "s-hi" : s >= 55 ? "s-mid" : "s-lo"; }
+function isNew(j){ return !j.initial && j.first_seen && ((lastVisit && j.first_seen > lastVisit) || (Date.now() - new Date(j.first_seen)) < 864e5); }
+
+function render(){
+  const q = st.q.trim().toLowerCase();
+  let rows = JOBS.filter(j => j.score >= st.min
+    && (st.kind === "all" || j.kind === st.kind)
+    && (!st.company || j.company === st.company)
+    && (!q || [j.title, j.company, j.location, j.department, (j.reasons||[]).join(" "), (j.tags||[]).join(" ")].join(" ").toLowerCase().includes(q)));
+  rows.sort(st.sort === "score" ? (a,b) => b.score - a.score || (b.first_seen||"").localeCompare(a.first_seen||"")
+                                : (a,b) => (b.first_seen||"").localeCompare(a.first_seen||"") || b.score - a.score);
+  $("#list").innerHTML = rows.slice(0, st.shown).map(j => `
+    <article class="job">
+      <div class="score ${cls(j.score)}">${j.score}%<small>התאמה</small></div>
+      <div>
+        <h3><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h3>
+        <div class="meta"><span>🏢 ${esc(j.company)}</span>${j.location ? `<span>📍 ${esc(j.location)}</span>` : ""}<span>🕒 ${ago(j.first_seen)}</span></div>
+        <div class="chips">
+          ${isNew(j) ? '<span class="chip new">חדש</span>' : ""}
+          <span class="chip k">${j.kind === "student" ? "🎓 משרת סטודנט" : "💼 משרה מלאה"}</span>
+          ${(j.reasons||[]).filter(r => r !== "משרת סטודנט").map(r => `<span class="chip why">${esc(r)}</span>`).join("")}
+        </div>
+      </div>
+    </article>`).join("") || `<div class="empty">אין משרות שעונות על הסינון. נסה להוריד את סף ההתאמה.</div>`;
+  $("#more").hidden = rows.length <= st.shown;
+  const good = JOBS.filter(j => j.score >= 55);
+  $("#stats").innerHTML = [
+    [JOBS.length, "משרות בישראל במעקב"],
+    [good.length, "עם 55%+ התאמה"],
+    [good.filter(j => j.kind === "student").length, "משרות סטודנט מתאימות"],
+    [JOBS.filter(isNew).length, "משרות חדשות"],
+  ].map(([n,l]) => `<div class="stat"><b>${n}</b><span>${l}</span></div>`).join("");
+}
+
+function seg(id, key){
+  $(id).addEventListener("click", e => {
+    const b = e.target.closest("button"); if(!b) return;
+    st[key] = b.dataset.v; st.shown = 60;
+    $(id).querySelectorAll("button").forEach(x => x.classList.toggle("on", x === b));
+    render();
+  });
+}
+seg("#kind", "kind"); seg("#sort", "sort");
+$("#q").addEventListener("input", e => { st.q = e.target.value; st.shown = 60; render(); });
+$("#company").addEventListener("change", e => { st.company = e.target.value; render(); });
+$("#min").value = st.min; $("#minv").textContent = st.min + "%";
+$("#min").addEventListener("input", e => { st.min = +e.target.value; $("#minv").textContent = st.min + "%"; store.set("min", st.min); render(); });
+$("#more").addEventListener("click", () => { st.shown += 60; render(); });
+document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", () => {
+  document.querySelectorAll(".tab").forEach(x => x.classList.toggle("on", x === t));
+  $("#jobs").hidden = t.dataset.tab !== "jobs"; $("#companies").hidden = t.dataset.tab !== "companies";
+}));
+
+async function load(){
+  const bust = "?t=" + Date.now();
+  const [jobs, comps] = await Promise.all([
+    fetch("data/jobs.json" + bust).then(r => r.json()),
+    fetch("data/companies.json" + bust).then(r => r.json()).catch(() => ({companies: [], pending: []})),
+  ]);
+  JOBS = jobs.jobs || [];
+  $("#updated").textContent = `סריקה אחרונה ${ago(jobs.updated)} · ${comps.companies.length} חברות · התראה בטלגרם מ-${jobs.alert_min_score ?? 55}%`;
+  const names = [...new Set(JOBS.map(j => j.company))].sort();
+  $("#company").innerHTML = '<option value="">כל החברות</option>' + names.map(n => `<option>${esc(n)}</option>`).join("");
+  const count = n => JOBS.filter(j => j.company === n).length;
+  $("#ctable").innerHTML = comps.companies.slice().sort((a,b) => count(b.name) - count(a.name)).map(c => {
+    const s = c.status || {};
+    return `<tr><td><b>${esc(c.name)}</b></td><td>${count(c.name)}</td><td>${esc((c.tags||[]).join(" · "))}</td>
+      <td>${s.ok === false ? `<span class="bad" title="${esc(s.error)}">⚠️ שגיאה</span>` : `<span class="ok">✓ ${ago(s.last_ok)}</span>`}</td></tr>`;
+  }).join("");
+  const p = comps.pending || [];
+  $("#pendingBox").hidden = !p.length;
+  $("#pending").innerHTML = p.map(x => `<li><b>${esc(x.name)}</b> <span class="sub">${esc(x.reason || "")}</span></li>`).join("");
+  render();
+  store.set("lastVisit", new Date().toISOString());
+}
+load().catch(e => { $("#updated").textContent = "שגיאה בטעינת הנתונים"; console.error(e); });
+setInterval(() => load().catch(() => {}), 5 * 60 * 1000);
+</script>
+</body>
+</html>

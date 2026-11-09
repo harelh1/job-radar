@@ -1,0 +1,241 @@
+{
+ "companies": [
+  {
+   "name": "Elbit Systems",
+   "type": "elbit",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "careers_url": "https://elbitsystemscareer.com/jobs/"
+  },
+  {
+   "name": "KLA (Orbotech)",
+   "type": "workday",
+   "host": "kla.wd1.myworkdayjobs.com",
+   "tenant": "kla",
+   "site": "Search",
+   "israel_only": true,
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ]
+  },
+  {
+   "name": "Applied Materials",
+   "type": "workday",
+   "host": "amat.wd1.myworkdayjobs.com",
+   "tenant": "amat",
+   "site": "External",
+   "israel_only": true,
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ]
+  },
+  {
+   "name": "Intel",
+   "type": "workday",
+   "host": "intel.wd1.myworkdayjobs.com",
+   "tenant": "intel",
+   "site": "External",
+   "israel_only": true,
+   "tags": [
+    "מוליכים למחצה"
+   ]
+  },
+  {
+   "name": "NVIDIA",
+   "type": "workday",
+   "host": "nvidia.wd5.myworkdayjobs.com",
+   "tenant": "nvidia",
+   "site": "NVIDIAExternalCareerSite",
+   "israel_only": true,
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ]
+  },
+  {
+   "name": "Marvell",
+   "type": "workday",
+   "host": "marvell.wd1.myworkdayjobs.com",
+   "tenant": "marvell",
+   "site": "MarvellCareers",
+   "israel_only": true,
+   "tags": [
+    "מוליכים למחצה"
+   ]
+  },
+  {
+   "name": "HP Indigo",
+   "type": "workday",
+   "host": "hp.wd5.myworkdayjobs.com",
+   "tenant": "hp",
+   "site": "ExternalCareerSite",
+   "israel_only": true,
+   "tags": [
+    "דימות"
+   ]
+  },
+  {
+   "name": "Nova",
+   "type": "comeet",
+   "uid": "A5.007",
+   "token": "5A71C4332DFB4E10F532DFB4E32DF0B4E",
+   "israel_only": true,
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ]
+  },
+  {
+   "name": "Lumus",
+   "type": "comeet",
+   "uid": "62.00F",
+   "token": "26F9BC15E726F74D110915E74DE4DEE9A",
+   "israel_only": true,
+   "tags": [
+    "אופטיקה",
+    "AR"
+   ]
+  },
+  {
+   "name": "TriEye",
+   "type": "comeet",
+   "uid": "A6.00E",
+   "token": "6AE2814D5CD5C1AB8140A35706AE2EC22814",
+   "israel_only": true,
+   "tags": [
+    "אלקטרו-אופטיקה",
+    "גלאים"
+   ]
+  },
+  {
+   "name": "Lumenis",
+   "type": "comeet",
+   "uid": "A1.00C",
+   "token": "1AC6B0A08F0C6B085C85CD60F0C1AC",
+   "israel_only": true,
+   "tags": [
+    "לייזרים",
+    "רפואי"
+   ]
+  },
+  {
+   "name": "Arbe Robotics",
+   "type": "comeet",
+   "uid": "C6.001",
+   "token": "6C12886D821B0414432886144328862F472F47",
+   "israel_only": true,
+   "tags": [
+    "רדאר",
+    "רכב"
+   ]
+  },
+  {
+   "name": "Rail Vision",
+   "type": "comeet",
+   "uid": "84.000",
+   "token": "4801680168016802880D800D800480",
+   "israel_only": true,
+   "tags": [
+    "אלקטרו-אופטיקה",
+    "דימות"
+   ]
+  },
+  {
+   "name": "Quantum Machines",
+   "type": "comeet",
+   "uid": "D6.000",
+   "token": "6D028E0DA022106D01470221036803D502210",
+   "israel_only": true,
+   "tags": [
+    "קוונטים"
+   ]
+  },
+  {
+   "name": "OpticSolution",
+   "type": "careerspage",
+   "slug": "opticsolution",
+   "location": "Jerusalem, Israel",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ]
+  },
+  {
+   "name": "Mobileye",
+   "type": "links",
+   "url": "https://careers.mobileye.com/jobs",
+   "pattern": "/jobs/[a-z0-9-]+/[0-9a-f-]{36}",
+   "need_israel_check": true,
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ]
+  },
+  {
+   "name": "Tower Semiconductor",
+   "type": "links",
+   "url": "https://careers.towersemi.com/our-loactions/israel/",
+   "pattern": "job-description\\?job_id=\\d+",
+   "location": "Israel",
+   "tags": [
+    "מוליכים למחצה"
+   ]
+  },
+  {
+   "name": "Opsys",
+   "type": "links",
+   "url": "https://www.opsys-tech.com/careers",
+   "pattern": "/careers/\\d+$",
+   "location": "Israel",
+   "tags": [
+    "LiDAR",
+    "אלקטרו-אופטיקה"
+   ]
+  },
+  {
+   "name": "Xsight Labs",
+   "type": "links",
+   "url": "https://xsightlabs.com/careers/",
+   "pattern": "/careers/jobs/[0-9A-F]{2}\\.[0-9A-F]{3}/",
+   "need_israel_check": true,
+   "tags": [
+    "מוליכים למחצה"
+   ]
+  }
+ ],
+ "pending": [
+  {
+   "name": "Rafael",
+   "reason": "אתר המשרות חסום לסריקה אוטומטית (הגנת בוטים)"
+  },
+  {
+   "name": "Israel Aerospace Industries (IAI / Elta)",
+   "reason": "אתר המשרות חסום לסריקה אוטומטית (הגנת בוטים)"
+  },
+  {
+   "name": "Camtek",
+   "reason": "עמוד המשרות נטען ב-JavaScript"
+  },
+  {
+   "name": "Innoviz",
+   "reason": "עמוד המשרות נטען ב-JavaScript"
+  },
+  {
+   "name": "MKS Ophir",
+   "reason": "לא נמצא מקור משרות קריא"
+  },
+  {
+   "name": "SCD",
+   "reason": "לא נמצא מקור משרות קריא"
+  },
+  {
+   "name": "Apple Israel",
+   "reason": "האתר לא הגיב לסריקה"
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+{
+ "alert_min_score": 55,
+ "scan_interval_sec": 120
+}
