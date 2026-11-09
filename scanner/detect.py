@@ -54,7 +54,7 @@ def from_page(name, url, html_=None):
             except Exception:
                 pass
     if uid and tok:
-        cfg = {"type": "comeet", "uid": uid.group(1), "token": tok.group(1)}
+        cfg = {"type": "comeet", "uid": uid.group(1), "token": tok.group(1), "israel_only": True}
         if _try(cfg) is not None:
             return cfg
     # Workday

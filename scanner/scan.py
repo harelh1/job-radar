@@ -68,12 +68,13 @@ def scan_company(c, known):
                         else page_detail(j, c.get("need_israel_check", False)), need))
     for j in raw:
         jid = f"{c['name']}|{j['key']}"
+        rec = known.get(jid, j)
+        if c.get("israel_only") or c.get("need_israel_check"):
+            if not in_israel(rec.get("location"), rec.get("title")):
+                continue
         if jid in known:
             jobs.append(known[jid])
             continue
-        if c.get("israel_only") or c.get("need_israel_check"):
-            if not in_israel(j.get("location"), j.get("title")):
-                continue
         pct, reasons, kind = score(j)
         jobs.append({
             "id": jid, "company": c["name"], "title": j["title"].strip(), "url": j.get("url") or c.get("url", ""),
@@ -90,8 +91,35 @@ HELP = ("🤖 <b>Job Radar</b>\n"
         "/add שם חברה https://קישור-לעמוד-משרות – אם לא מצאתי לבד\n"
         "/remove שם חברה – להסיר\n"
         "/list – רשימת החברות\n"
-        "/top – 10 המשרות הכי מתאימות עכשיו\n"
+        "/top – 10 המשרות הכי מתאימות שפתוחות עכשיו (✨ = חדש מאז הפעם הקודמת)\n"
+        "/top 20 – אותו דבר עם 20 משרות\n"
         "/min 60 – לשנות את סף ההתראה (אחוז התאמה מינימלי)")
+
+
+def ranked_message(all_jobs, state, header, n=10):
+    """Top-n open jobs by score. Jobs that weren't in any earlier ranked list get a ✨ badge;
+    jobs from the previous list that have since closed are listed at the end."""
+    shown = set(state.get("shown", []))
+    open_ids = {j["id"] for j in all_jobs}
+    top = sorted(all_jobs, key=lambda j: (-j["score"], j.get("first_seen", "")))[:n]
+    prev_rank = {x["id"]: i for i, x in enumerate(state.get("last_ranked", []), 1)}
+    parts, n_new = [header], 0
+    for i, j in enumerate(top, 1):
+        badge = None
+        if shown and j["id"] not in shown:
+            badge, n_new = "חדש ברשימה", n_new + 1
+        elif j["id"] in prev_rank and prev_rank[j["id"]] > i:
+            badge = f"עלה מ-#{prev_rank[j['id']]}"
+        parts.append(tg.job_message(j, rank=i, badge=badge))
+    if shown:
+        parts.insert(1, f"✨ <b>{n_new} חדשות</b> מאז הרשימה הקודמת" if n_new else "אין משרות חדשות ברשימה מאז הפעם הקודמת")
+    closed = [x for x in state.get("last_ranked", []) if x["id"] not in open_ids]
+    if closed:
+        parts.append("❌ <b>נסגרו מאז הרשימה הקודמת:</b>\n" +
+                     "\n".join(f"• {tg.esc(x['title'])} ({tg.esc(x['company'])})" for x in closed))
+    state["shown"] = sorted(shown | {j["id"] for j in top})
+    state["last_ranked"] = [{"id": j["id"], "title": j["title"], "company": j["company"]} for j in top]
+    return "\n\n".join(parts)
 
 
 def handle_commands(companies, settings, state, jobs_by_company):
@@ -124,8 +152,9 @@ def handle_commands(companies, settings, state, jobs_by_company):
             settings["alert_min_score"] = max(1, min(99, int(arg)))
             tg.send(f"סף ההתראה עודכן ל-{settings['alert_min_score']}%")
         elif cmd == "/top":
-            allj = sorted((j for js in jobs_by_company.values() for j in js), key=lambda j: -j["score"])[:10]
-            tg.send("<b>🏆 המשרות הכי מתאימות כרגע</b>\n\n" + "\n\n".join(tg.job_message(j) for j in allj))
+            n = max(1, min(30, int(arg))) if arg.isdigit() else 10
+            allj = [j for js in jobs_by_company.values() for j in js]
+            tg.send(ranked_message(allj, state, f"<b>🏆 {n} המשרות הכי מתאימות שפתוחות עכשיו</b>", n))
         elif cmd == "/remove" and arg:
             before = len(companies["companies"])
             companies["companies"] = [c for c in companies["companies"] if c["name"].lower() != arg.lower()]
@@ -190,6 +219,7 @@ def run_once(args):
 
     min_score = settings.get("alert_min_score", 55)
     alerts, summaries = [], []
+    first_run = not any(state["seen"].values())  # nothing watched before this pass
     for c in todo:
         jobs, err = results[c["name"]]
         st = c.setdefault("status", {})
@@ -224,21 +254,18 @@ def run_once(args):
     # notify
     for j in sorted(alerts, key=lambda j: -j["score"]):
         tg.send("🆕 <b>משרה חדשה!</b>\n" + tg.job_message(j))
-    if len(summaries) > 3:  # first run: one digest instead of a message per company
-        top = sorted((j for _, _, t in summaries for j in t), key=lambda j: -j["score"])[:10]
-        tg.send(f"🚀 <b>Job Radar פעיל!</b> התחלתי לעקוב אחרי {len(summaries)} חברות "
-                f"({sum(n for _, n, _ in summaries)} משרות פתוחות בישראל).\n"
-                f"מעכשיו תקבל הודעה על כל משרה חדשה עם {min_score}%+ התאמה.\n\n"
-                f"<b>🏆 המשרות הכי מתאימות כבר עכשיו:</b>\n\n" + "\n\n".join(tg.job_message(j) for j in top))
-    else:
-        for name, n, top in summaries:
-            msg = f"📥 <b>{tg.esc(name)}</b> נכנסה למעקב · {n} משרות פתוחות בישראל"
-            if top:
-                msg += "\nהמתאימות ביותר כרגע:\n\n" + "\n\n".join(tg.job_message(j) for j in top)
-            tg.send(msg)
-
+    total_companies = len(companies["companies"])
     all_jobs = sorted((j for js in jobs_by_company.values() for j in js),
                       key=lambda j: (-j["score"], j.get("first_seen", "")))
+    if summaries:
+        if first_run:
+            head = (f"🚀 <b>Job Radar פעיל!</b> התחלתי לעקוב אחרי {len(summaries)} חברות "
+                    f"({sum(n for _, n, _ in summaries)} משרות פתוחות בישראל).\n"
+                    f"מעכשיו תקבל הודעה על כל משרה חדשה עם {min_score}%+ התאמה.")
+        else:
+            head = (f"📥 <b>נוספו למעקב:</b> " + ", ".join(f"{tg.esc(n)} ({c} משרות)" for n, c, _ in summaries)
+                    + f"\nסה\"כ במעקב: {total_companies} חברות, {len(all_jobs)} משרות פתוחות בישראל.")
+        tg.send(ranked_message(all_jobs, state, head + "\n\n<b>🏆 10 המשרות הכי מתאימות מכל החברות:</b>"))
     save(JOBS_OUT, {"updated": now(), "alert_min_score": min_score, "jobs": all_jobs})
     save(COMP_OUT, {"updated": now(), "pending": companies.get("pending", []),
                     "companies": [{k: c.get(k) for k in ("name", "type", "tags", "status", "careers_url", "note")}

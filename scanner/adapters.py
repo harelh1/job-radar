@@ -19,7 +19,7 @@ ISRAEL_WORDS = [
     "airport city", "lod", "לוד", "ramat gan", "רמת גן", "or yehuda", "אור יהודה", "karmiel", "כרמיאל",
     "nazareth", "נצרת", "yavne", "יבנה", "ashdod", "אשדוד", "rishon", "ראשון", "kiryat shmona",
     "dimona", "דימונה", "sderot", "שדרות", "afula", "עפולה", "nesher", "tirat carmel", "טירת כרמל",
-    "bnei brak", "בני ברק", "givatayim", "rosh pina", "omer", "ma'alot", "maalot", "kiryat ata",
+    "bnei brak", "בני ברק", "givatayim", "giv'atayim", "גבעתיים", "rosh pina", "omer", "ma'alot", "maalot", "kiryat ata",
     "beit shemesh", "בית שמש", "har hotzvim", "yakum", "kiryat bialik", "mevaseret", "netivot",
     "ariel", "kfar yona", "even yehuda", "tefen", "misgav", "kiryat tivon", "ofakim", "ramla", "רמלה",
 ]
@@ -44,7 +44,8 @@ def comeet(c):
             "key": p.get("uid"),
             "title": p.get("name", ""),
             "url": p.get("url_active_page") or p.get("url_comeet_hosted_page") or p.get("position_url"),
-            "location": ", ".join(x for x in [loc.get("city"), loc.get("country")] if x),
+            "location": ", ".join(x for x in [loc.get("city"),
+                                              "Israel" if loc.get("country") == "IL" else loc.get("country")] if x),
             "department": p.get("department") or "",
             "employment": p.get("employment_type") or "",
             "description": desc,
