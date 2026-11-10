@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:33:56+00:00",
+ "updated": "2026-11-10T04:27:39+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -5422,6 +5422,24 @@
    "initial": true
   },
   {
+   "id": "Applied Materials|R2631001",
+   "company": "Applied Materials",
+   "title": "Supplier Quality Engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Supplier-Quality-Engineer_R2631001",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 17 Days Ago",
+   "score": 10,
+   "reasons": [],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Applied Materials|R2629731",
    "company": "Applied Materials",
    "title": "Planning & Supply Chain SME",
@@ -5433,24 +5451,6 @@
    "reasons": [
     "עבודת מעבדה"
    ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2631001",
-   "company": "Applied Materials",
-   "title": "Supplier Quality Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Supplier-Quality-Engineer_R2631001",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 17 Days Ago",
-   "score": 10,
-   "reasons": [],
    "kind": "full",
    "tags": [
     "מוליכים למחצה",
@@ -5699,13 +5699,13 @@
    "initial": true
   },
   {
-   "id": "Applied Materials|R2630240",
+   "id": "Applied Materials|R2629140",
    "company": "Applied Materials",
-   "title": "Software Validation Engineer (QA Engineer)",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Validation-Engineer--QA-Engineer-_R2630240",
+   "title": "Validation Engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Validation-Engineer_R2629140",
    "location": "Rehovot,ISR",
    "department": "",
-   "posted": "Posted 25 Days Ago",
+   "posted": "Posted 14 Days Ago",
    "score": 9,
    "reasons": [
     "בדיקות/אינטגרציה",
@@ -5722,13 +5722,13 @@
    "initial": true
   },
   {
-   "id": "Applied Materials|R2629140",
+   "id": "Applied Materials|R2630240",
    "company": "Applied Materials",
-   "title": "Validation Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Validation-Engineer_R2629140",
+   "title": "Software Validation Engineer (QA Engineer)",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Validation-Engineer--QA-Engineer-_R2630240",
    "location": "Rehovot,ISR",
    "department": "",
-   "posted": "Posted 14 Days Ago",
+   "posted": "Posted 25 Days Ago",
    "score": 9,
    "reasons": [
     "בדיקות/אינטגרציה",
@@ -18251,6 +18251,133 @@
    "initial": true
   },
   {
+   "id": "Applied Materials|R2518428",
+   "company": "Applied Materials",
+   "title": "Senior Frontend Developer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Frontend-Developer_R2518428",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 6+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Applied Materials|R2620070-1",
+   "company": "Applied Materials",
+   "title": "Motion control engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Motion-control-engineer_R2620070-1",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Applied Materials|R2627385-1",
+   "company": "Applied Materials",
+   "title": "Algorithm Developer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Algorithm-Developer_R2627385-1",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Applied Materials|R2628110",
+   "company": "Applied Materials",
+   "title": "Import Expert",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Import-Activity-Management_R2628110",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 21 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Applied Materials|R2627114-1",
+   "company": "Applied Materials",
+   "title": "Motion & Control Supplier Engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Motion---Control-Supplier-Engineer_R2627114-1",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 11 Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Applied Materials|R2621432",
+   "company": "Applied Materials",
+   "title": "Senior Frontend Developer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Frontend-Developer_R2621432",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 19 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 6+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Applied Materials|R2519119",
    "company": "Applied Materials",
    "title": "Planner",
@@ -18322,28 +18449,6 @@
    "reasons": [
     "עבודת מעבדה",
     "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2518428",
-   "company": "Applied Materials",
-   "title": "Senior Frontend Developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Frontend-Developer_R2518428",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 6+ שנות ניסיון",
-    "תחום פחות רלוונטי"
    ],
    "kind": "full",
    "tags": [
@@ -18589,27 +18694,6 @@
    "initial": true
   },
   {
-   "id": "Applied Materials|R2620070-1",
-   "company": "Applied Materials",
-   "title": "Motion control engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Motion-control-engineer_R2620070-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Applied Materials|R2626116-1",
    "company": "Applied Materials",
    "title": "Supply Chain Project Manager",
@@ -18675,27 +18759,6 @@
    "initial": true
   },
   {
-   "id": "Applied Materials|R2627385-1",
-   "company": "Applied Materials",
-   "title": "Algorithm Developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Algorithm-Developer_R2627385-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Applied Materials|R2626474-1",
    "company": "Applied Materials",
    "title": "EIT Portfolio Manager",
@@ -18731,27 +18794,6 @@
     "משרה בכירה",
     "דורש 5+ שנות ניסיון",
     "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628110",
-   "company": "Applied Materials",
-   "title": "Import Expert",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Import-Activity-Management_R2628110",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -18819,26 +18861,6 @@
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2627114-1",
-   "company": "Applied Materials",
-   "title": "Motion & Control Supplier Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Motion---Control-Supplier-Engineer_R2627114-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 11 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -19024,28 +19046,6 @@
    "score": 1,
    "reasons": [
     "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2621432",
-   "company": "Applied Materials",
-   "title": "Senior Frontend Developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Frontend-Developer_R2621432",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 19 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 6+ שנות ניסיון",
-    "תחום פחות רלוונטי"
    ],
    "kind": "full",
    "tags": [
