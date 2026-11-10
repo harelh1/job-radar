@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:45:15+00:00",
+ "updated": "2026-11-10T13:49:55+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -3557,29 +3557,6 @@
    "kind": "full",
    "tags": [
     "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/c-developer-neural-network-integration-production-3d-sensing-systems/e58368d8-ec21-4e5e-871d-40707762b959",
-   "company": "Mobileye",
-   "title": "C Developer Neural Network Integration Production 3D Sensing Systems",
-   "url": "https://careers.mobileye.com/jobs/c-developer-neural-network-integration-production-3d-sensing-systems/e58368d8-ec21-4e5e-871d-40707762b959",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 19,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
     "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
@@ -8855,6 +8832,89 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|21013",
+   "company": "Elbit Systems",
+   "title": "מנהל.ת מחלקת איכות",
+   "url": "https://elbitsystemscareer.com/job/?jid=21013",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-09-06T02:46:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|21057",
+   "company": "Elbit Systems",
+   "title": "מנהל.ת מחלקת פרויקטים",
+   "url": "https://elbitsystemscareer.com/job/?jid=21057",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-09-16T07:16:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20210",
+   "company": "Elbit Systems",
+   "title": "Project Manager",
+   "url": "https://elbitsystemscareer.com/job/?jid=20210",
+   "location": "Center, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-03-16T09:16:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|21143",
+   "company": "Elbit Systems",
+   "title": "Seeker and Sensing Systems Lead",
+   "url": "https://elbitsystemscareer.com/job/?jid=21143",
+   "location": "North, Israel",
+   "department": "מטה החברה",
+   "posted": "2026-10-21T07:16:00",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21032",
    "company": "Elbit Systems",
    "title": "Real Time Computer Vision Developer",
@@ -11210,27 +11270,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|21143",
-   "company": "Elbit Systems",
-   "title": "Seeker and Sensing Systems Lead",
-   "url": "https://elbitsystemscareer.com/job/?jid=21143",
-   "location": "North, Israel",
-   "department": "מטה החברה",
-   "posted": "2026-10-21T07:16:00",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|21142",
    "company": "Elbit Systems",
    "title": "Flight Software and Embedded Systems Lea",
@@ -13285,26 +13324,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|21057",
-   "company": "Elbit Systems",
-   "title": "מנהל.ת מחלקת פרויקטים",
-   "url": "https://elbitsystemscareer.com/job/?jid=21057",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-09-16T07:16:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20578",
    "company": "Elbit Systems",
    "title": "Production Team Leader",
@@ -13437,27 +13456,6 @@
    "score": 1,
    "reasons": [
     "דורש 3+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20210",
-   "company": "Elbit Systems",
-   "title": "Project Manager",
-   "url": "https://elbitsystemscareer.com/job/?jid=20210",
-   "location": "Center, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-03-16T09:16:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
     "תחום פחות רלוונטי"
    ],
    "kind": "full",
@@ -15228,27 +15226,6 @@
    "reasons": [
     "דורש 5+ שנות ניסיון",
     "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|21013",
-   "company": "Elbit Systems",
-   "title": "מנהל.ת מחלקת איכות",
-   "url": "https://elbitsystemscareer.com/job/?jid=21013",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-09-06T02:46:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -20195,31 +20172,6 @@
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/senior-c-developer-neural-network-integration-production-3d-sensing-systems/0568658c-174c-43ff-86c8-7a42202cbd8f",
-   "company": "Mobileye",
-   "title": "Senior C Developer Neural Network Integration Production 3D Sensing Systems",
-   "url": "https://careers.mobileye.com/jobs/senior-c-developer-neural-network-integration-production-3d-sensing-systems/0568658c-174c-43ff-86c8-7a42202cbd8f",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 4+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -33044,6 +32996,66 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-10T12:41:05+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2028307",
+   "company": "NVIDIA",
+   "title": "Software Automation Specialist",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Automation-Specialist_JR2028307",
+   "location": "Israel, Yokneam, Israel, Tel Aviv",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-10T13:49:55+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2019125",
+   "company": "NVIDIA",
+   "title": "IC Reliability Practical Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/IC-Reliability-Practical-Engineer_JR2019125",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-10T13:49:55+00:00"
+  },
+  {
+   "id": "Intel|JR0289033",
+   "company": "Intel",
+   "title": "Analytical Chemistry Lab Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Analytical-Chemistry-Lab-Engineer_JR0289033",
+   "location": "Israel, Kiryat-Gat",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "עבודת מעבדה",
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה"
+   ],
+   "first_seen": "2026-11-10T13:49:55+00:00"
   }
  ]
 }
