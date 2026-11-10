@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:22:45+00:00",
+ "updated": "2026-11-10T09:26:52+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -5649,27 +5649,6 @@
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
-  },
-  {
-   "id": "Applied Materials|R2625538",
-   "company": "Applied Materials",
-   "title": "System Integration Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Integration-Engineer_R2625538",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 10,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "עבודת מעבדה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-10T09:22:45+00:00"
   },
   {
    "id": "Elbit Systems|21163",
@@ -32901,6 +32880,23 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-10T09:22:45+00:00"
+  },
+  {
+   "id": "MKS Ophir|R23670",
+   "company": "MKS Ophir",
+   "title": "Production Tech 2 טכנאי/ת בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech-2----_R23670",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-10T09:26:52+00:00"
   }
  ]
 }
