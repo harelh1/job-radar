@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:05:44+00:00",
+ "updated": "2026-11-10T11:09:48+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -1294,27 +1294,6 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "HP Indigo|UNI4539-1",
-   "company": "HP Indigo",
-   "title": "Competitive Intelligence Analyst - Student",
-   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Ness-Ziona-Center-District-Israel/Competitive-Intelligence-Analyst---Student_UNI4539-1",
-   "location": "Ness Ziona, Center District, Israel",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 31,
-   "reasons": [
-    "משרת סטודנט",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "student",
-   "tags": [
-    "דימות"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -3079,6 +3058,26 @@
    "initial": true
   },
   {
+   "id": "Applied Materials|R2625298",
+   "company": "Applied Materials",
+   "title": "Algorithm Research Engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Algorithm-Developer_R2625298",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 22,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "OpticSolution|3W8W3V78",
    "company": "OpticSolution",
    "title": "Electro-Optics R&D Team Leader",
@@ -3098,26 +3097,6 @@
    "tags": [
     "אופטיקה",
     "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2625298",
-   "company": "Applied Materials",
-   "title": "Algorithm Research Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Algorithm-Developer_R2625298",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 22,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -4559,6 +4538,28 @@
    "initial": true
   },
   {
+   "id": "Applied Materials|R2612347",
+   "company": "Applied Materials",
+   "title": "System Integration Engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Integration-Engineer_R2612347",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted 8 Days Ago",
+   "score": 14,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Nova|E2.47F",
    "company": "Nova",
    "title": "Senior Optical Engineer",
@@ -4578,28 +4579,6 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2612347",
-   "company": "Applied Materials",
-   "title": "System Integration Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Integration-Engineer_R2612347",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 8 Days Ago",
-   "score": 14,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "עבודת מעבדה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -7725,24 +7704,6 @@
    "initial": true
   },
   {
-   "id": "Nova|DA.810",
-   "company": "Nova",
-   "title": "Unsolicited Application",
-   "url": "https://www.novami.com/comeetitem/53474-2/",
-   "location": "Rehovot, IL",
-   "department": "Engineering",
-   "posted": "2026-11-09T19:59:22Z",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Applied Materials|R2627555",
    "company": "Applied Materials",
    "title": "New Product Mfg Engineer",
@@ -7774,6 +7735,24 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|DA.810",
+   "company": "Nova",
+   "title": "Unsolicited Application",
+   "url": "https://www.novami.com/comeetitem/53474-2/",
+   "location": "Rehovot, IL",
+   "department": "Engineering",
+   "posted": "2026-11-09T19:59:22Z",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -17229,963 +17208,6 @@
    "initial": true
   },
   {
-   "id": "Nova|F1.473",
-   "company": "Nova",
-   "title": "Algorithm Manager",
-   "url": "https://www.novami.com/comeetitem/f1473/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-11-02T17:41:14Z",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|CE.461",
-   "company": "Nova",
-   "title": "Assembly and Calibration Technician",
-   "url": "https://www.novami.com/comeetitem/ce461/",
-   "location": "Rehovot, IL",
-   "department": "Manufacture Engineering",
-   "posted": "2026-11-08T05:19:23Z",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "עבודת מעבדה",
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|88.E62",
-   "company": "Nova",
-   "title": "Assembly Technician",
-   "url": "https://www.novami.com/comeetitem/88e62/",
-   "location": "Rehovot, IL",
-   "department": "Production",
-   "posted": "2026-10-28T21:04:45Z",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "עבודת מעבדה",
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|6A.47E",
-   "company": "Nova",
-   "title": "Assistant Controller - Purchase to Pay",
-   "url": "https://www.novami.com/comeetitem/6a47e/",
-   "location": "Rehovot, IL",
-   "department": "Finance",
-   "posted": "2026-11-03T12:15:08Z",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|38.37E",
-   "company": "Nova",
-   "title": "Corporate Development and M&A Analyst",
-   "url": "https://www.novami.com/comeetitem/3837e/",
-   "location": "Rehovot, IL",
-   "department": "Business Development",
-   "posted": "2026-11-01T12:37:40Z",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|77.478",
-   "company": "Nova",
-   "title": "Customer Service Business Data Analyst",
-   "url": "https://www.novami.com/comeetitem/77478-2/",
-   "location": "Rehovot, IL",
-   "department": "Service",
-   "posted": "2026-10-28T18:56:22Z",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|3A.763",
-   "company": "Nova",
-   "title": "Director of Technology",
-   "url": "https://www.novami.com/comeetitem/3a763/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-27T07:22:22Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|DA.378",
-   "company": "Nova",
-   "title": "Electrical & Electronics Tech Lead",
-   "url": "https://www.novami.com/comeetitem/da378/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-30T05:54:17Z",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|F2.371",
-   "company": "Nova",
-   "title": "HW Expert",
-   "url": "https://www.novami.com/comeetitem/f2371/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-06T10:10:27Z",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "אינטרפרומטריה",
-    "MATLAB",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|AE.074",
-   "company": "Nova",
-   "title": "IM Service Expert - Relocation to USA",
-   "url": "https://www.novami.com/comeetitem/ae074/",
-   "location": "Rehovot, IL",
-   "department": "Service",
-   "posted": "2026-11-04T12:36:41Z",
-   "score": 1,
-   "reasons": [
-    "דורש בדיוק את התואר שלך",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|F6.27E",
-   "company": "Nova",
-   "title": "Material Manager",
-   "url": "https://www.novami.com/comeetitem/f627e/",
-   "location": "Rehovot, IL",
-   "department": "Supply Chain",
-   "posted": "2026-10-28T08:48:04Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|16.07A",
-   "company": "Nova",
-   "title": "Material Planner",
-   "url": "https://www.novami.com/comeetitem/1607a/",
-   "location": "Rehovot, IL",
-   "department": "Supply Chain",
-   "posted": "2026-10-29T05:09:18Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|49.379",
-   "company": "Nova",
-   "title": "Mechanical Engineer Tech Lead",
-   "url": "https://www.novami.com/comeetitem/49379-2/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-25T20:36:32Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|67.47F",
-   "company": "Nova",
-   "title": "Motion Control Expert",
-   "url": "https://www.novami.com/comeetitem/6747f/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-28T10:29:22Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש בדיוק את התואר שלך",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|B6.47A",
-   "company": "Nova",
-   "title": "Product Engineer",
-   "url": "https://www.novami.com/comeetitem/b647a/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-25T13:11:52Z",
-   "score": 1,
-   "reasons": [
-    "MATLAB",
-    "Python",
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|3D.F69",
-   "company": "Nova",
-   "title": "Product Expert",
-   "url": "https://www.novami.com/comeetitem/3df69/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-26T09:30:08Z",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|0C.377",
-   "company": "Nova",
-   "title": "Product Leader",
-   "url": "https://www.novami.com/comeetitem/0c377/",
-   "location": "Rehovot, IL",
-   "department": "Engineering",
-   "posted": "2026-10-12T09:12:41Z",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "MATLAB",
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|35.47A",
-   "company": "Nova",
-   "title": "Product Leader - Temporary",
-   "url": "https://www.novami.com/comeetitem/3547a/",
-   "location": "Rehovot, IL",
-   "department": "Engineering",
-   "posted": "2026-10-22T17:25:25Z",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "MATLAB",
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|FD.F67",
-   "company": "Nova",
-   "title": "Product Manager",
-   "url": "https://www.novami.com/comeetitem/fdf67/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-05T01:04:55Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|7C.F60",
-   "company": "Nova",
-   "title": "Product Marketing Manager – Dimensional Metrology Division",
-   "url": "https://www.novami.com/comeetitem/7cf60/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-11-09T07:09:43Z",
-   "score": 1,
-   "reasons": [
-    "מטרולוגיה/אינטרפרומטריה",
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|F6.27C",
-   "company": "Nova",
-   "title": "Production Assembly & Calibration Technician",
-   "url": "https://www.novami.com/comeetitem/f627c/",
-   "location": "Rehovot, IL",
-   "department": "Production",
-   "posted": "2026-11-06T07:41:45Z",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "עבודת מעבדה",
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|C5.F6D",
-   "company": "Nova",
-   "title": "Quality & Reliability Lead",
-   "url": "https://www.novami.com/comeetitem/c5f6d/",
-   "location": "Rehovot, IL",
-   "department": "Operation",
-   "posted": "2026-11-09T17:38:23Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|AA.47C",
-   "company": "Nova",
-   "title": "Revenue Assistant Controller",
-   "url": "https://www.novami.com/comeetitem/aa47c/",
-   "location": "Rehovot, IL",
-   "department": "Finance",
-   "posted": "2026-11-08T13:46:12Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|4D.A61",
-   "company": "Nova",
-   "title": "Sales Operations Director",
-   "url": "https://www.novami.com/comeetitem/4da61/",
-   "location": "Rehovot, IL",
-   "department": "Sales Operations",
-   "posted": "2026-10-18T08:32:40Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|B3.47F",
-   "company": "Nova",
-   "title": "Senior Software Engineer",
-   "url": "https://www.novami.com/comeetitem/b347f/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-11-09T12:55:39Z",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|9C.373",
-   "company": "Nova",
-   "title": "Service Engineer",
-   "url": "https://www.novami.com/comeetitem/9c373/",
-   "location": "Rehovot, IL",
-   "department": "Service",
-   "posted": "2026-10-21T08:47:03Z",
-   "score": 1,
-   "reasons": [
-    "דורש בדיוק את התואר שלך",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|9C.271",
-   "company": "Nova",
-   "title": "Service Material Planner Team Leader",
-   "url": "https://www.novami.com/comeetitem/9c271/",
-   "location": "Rehovot, IL",
-   "department": "Supply Chain",
-   "posted": "2026-11-09T07:09:42Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|5C.370",
-   "company": "Nova",
-   "title": "Strategic Buyer",
-   "url": "https://www.novami.com/comeetitem/5c370/",
-   "location": "Rehovot, IL",
-   "department": "Procurement",
-   "posted": "2026-10-19T03:44:11Z",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "דורש 6+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|1D.07E",
-   "company": "Nova",
-   "title": "SW Product Manager",
-   "url": "https://www.novami.com/comeetitem/1d07e/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-11-03T14:46:53Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|C3.470",
-   "company": "Nova",
-   "title": "SW QA Engineer",
-   "url": "https://www.novami.com/comeetitem/c3470/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-11-08T09:00:31Z",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|B3.47A",
-   "company": "Nova",
-   "title": "SW Team Leader",
-   "url": "https://www.novami.com/comeetitem/b347a/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-11-05T13:52:19Z",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|7A.76E",
-   "company": "Nova",
-   "title": "System Engineer Team Lead",
-   "url": "https://www.novami.com/comeetitem/7a76e/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-11-02T09:49:29Z",
-   "score": 1,
-   "reasons": [
-    "הנדסת מערכות",
-    "רקע אלקטרו-אופטי",
-    "MATLAB",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|31.47C",
-   "company": "Nova",
-   "title": "System Engineer Tech Lead",
-   "url": "https://www.novami.com/comeetitem/3147c/",
-   "location": "Rehovot, IL",
-   "department": "Research & Development",
-   "posted": "2026-10-25T04:38:20Z",
-   "score": 1,
-   "reasons": [
-    "הנדסת מערכות",
-    "רקע אלקטרו-אופטי",
-    "MATLAB",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|13.17D",
-   "company": "Nova",
-   "title": "Tactical Buyer",
-   "url": "https://www.novami.com/comeetitem/1317d/",
-   "location": "Rehovot, IL",
-   "department": "Procurement",
-   "posted": "2026-10-14T06:56:04Z",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|8XR3R663",
-   "company": "OpticSolution",
-   "title": "Material Planner",
-   "url": "https://careers-page.com/opticsolution/job/8XR3R663",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 4+ שנות ניסיון",
-    "דורש סיווג ביטחוני"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|4R7RR4W5",
-   "company": "OpticSolution",
-   "title": "HR Coordinator",
-   "url": "https://careers-page.com/opticsolution/job/4R7RR4W5",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|4R4935YV",
-   "company": "OpticSolution",
-   "title": "Senior Quality Control Inspector – Precision Machining",
-   "url": "https://careers-page.com/opticsolution/job/4R4935YV",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|RY9V9W3X",
-   "company": "OpticSolution",
-   "title": "Microfabrication and Characterization Engineer",
-   "url": "https://careers-page.com/opticsolution/job/RY9V9W3X",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "עבודת מעבדה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|RY97XR56",
-   "company": "OpticSolution",
-   "title": "Senior Semiconductor & Automation Process Engineer",
-   "url": "https://careers-page.com/opticsolution/job/RY97XR56",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "מוליכים למחצה",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון",
-    "דורש סיווג ביטחוני"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|RY97XR36",
-   "company": "OpticSolution",
-   "title": "ATE / STE Project Manager",
-   "url": "https://careers-page.com/opticsolution/job/RY97XR36",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|7X5W8V53",
-   "company": "OpticSolution",
-   "title": "Director of Marketing - Israel",
-   "url": "https://careers-page.com/opticsolution/job/7X5W8V53",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "משרה בכירה",
-    "תחום פחות רלוונטי",
-    "דורש סיווג ביטחוני"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|3W8R8Y5V",
-   "company": "OpticSolution",
-   "title": "Senior PIC Layout Engineer",
-   "url": "https://careers-page.com/opticsolution/job/3W8R8Y5V",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|X985XR3R",
-   "company": "OpticSolution",
-   "title": "Quality Department Manager",
-   "url": "https://careers-page.com/opticsolution/job/X985XR3R",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Applied Materials|R2631360",
    "company": "Applied Materials",
    "title": "Installation Manager - Israel",
@@ -19425,6 +18447,963 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|F1.473",
+   "company": "Nova",
+   "title": "Algorithm Manager",
+   "url": "https://www.novami.com/comeetitem/f1473/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-11-02T17:41:14Z",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "Python",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|CE.461",
+   "company": "Nova",
+   "title": "Assembly and Calibration Technician",
+   "url": "https://www.novami.com/comeetitem/ce461/",
+   "location": "Rehovot, IL",
+   "department": "Manufacture Engineering",
+   "posted": "2026-11-08T05:19:23Z",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|88.E62",
+   "company": "Nova",
+   "title": "Assembly Technician",
+   "url": "https://www.novami.com/comeetitem/88e62/",
+   "location": "Rehovot, IL",
+   "department": "Production",
+   "posted": "2026-10-28T21:04:45Z",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|6A.47E",
+   "company": "Nova",
+   "title": "Assistant Controller - Purchase to Pay",
+   "url": "https://www.novami.com/comeetitem/6a47e/",
+   "location": "Rehovot, IL",
+   "department": "Finance",
+   "posted": "2026-11-03T12:15:08Z",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|38.37E",
+   "company": "Nova",
+   "title": "Corporate Development and M&A Analyst",
+   "url": "https://www.novami.com/comeetitem/3837e/",
+   "location": "Rehovot, IL",
+   "department": "Business Development",
+   "posted": "2026-11-01T12:37:40Z",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|77.478",
+   "company": "Nova",
+   "title": "Customer Service Business Data Analyst",
+   "url": "https://www.novami.com/comeetitem/77478-2/",
+   "location": "Rehovot, IL",
+   "department": "Service",
+   "posted": "2026-10-28T18:56:22Z",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|3A.763",
+   "company": "Nova",
+   "title": "Director of Technology",
+   "url": "https://www.novami.com/comeetitem/3a763/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-27T07:22:22Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|DA.378",
+   "company": "Nova",
+   "title": "Electrical & Electronics Tech Lead",
+   "url": "https://www.novami.com/comeetitem/da378/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-30T05:54:17Z",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|F2.371",
+   "company": "Nova",
+   "title": "HW Expert",
+   "url": "https://www.novami.com/comeetitem/f2371/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-06T10:10:27Z",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "אינטרפרומטריה",
+    "MATLAB",
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|AE.074",
+   "company": "Nova",
+   "title": "IM Service Expert - Relocation to USA",
+   "url": "https://www.novami.com/comeetitem/ae074/",
+   "location": "Rehovot, IL",
+   "department": "Service",
+   "posted": "2026-11-04T12:36:41Z",
+   "score": 1,
+   "reasons": [
+    "דורש בדיוק את התואר שלך",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|F6.27E",
+   "company": "Nova",
+   "title": "Material Manager",
+   "url": "https://www.novami.com/comeetitem/f627e/",
+   "location": "Rehovot, IL",
+   "department": "Supply Chain",
+   "posted": "2026-10-28T08:48:04Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|16.07A",
+   "company": "Nova",
+   "title": "Material Planner",
+   "url": "https://www.novami.com/comeetitem/1607a/",
+   "location": "Rehovot, IL",
+   "department": "Supply Chain",
+   "posted": "2026-10-29T05:09:18Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|49.379",
+   "company": "Nova",
+   "title": "Mechanical Engineer Tech Lead",
+   "url": "https://www.novami.com/comeetitem/49379-2/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-25T20:36:32Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|67.47F",
+   "company": "Nova",
+   "title": "Motion Control Expert",
+   "url": "https://www.novami.com/comeetitem/6747f/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-28T10:29:22Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש בדיוק את התואר שלך",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|B6.47A",
+   "company": "Nova",
+   "title": "Product Engineer",
+   "url": "https://www.novami.com/comeetitem/b647a/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-25T13:11:52Z",
+   "score": 1,
+   "reasons": [
+    "MATLAB",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|3D.F69",
+   "company": "Nova",
+   "title": "Product Expert",
+   "url": "https://www.novami.com/comeetitem/3df69/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-26T09:30:08Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|0C.377",
+   "company": "Nova",
+   "title": "Product Leader",
+   "url": "https://www.novami.com/comeetitem/0c377/",
+   "location": "Rehovot, IL",
+   "department": "Engineering",
+   "posted": "2026-10-12T09:12:41Z",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "MATLAB",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|35.47A",
+   "company": "Nova",
+   "title": "Product Leader - Temporary",
+   "url": "https://www.novami.com/comeetitem/3547a/",
+   "location": "Rehovot, IL",
+   "department": "Engineering",
+   "posted": "2026-10-22T17:25:25Z",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "MATLAB",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|FD.F67",
+   "company": "Nova",
+   "title": "Product Manager",
+   "url": "https://www.novami.com/comeetitem/fdf67/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-05T01:04:55Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 3+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|7C.F60",
+   "company": "Nova",
+   "title": "Product Marketing Manager – Dimensional Metrology Division",
+   "url": "https://www.novami.com/comeetitem/7cf60/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-11-09T07:09:43Z",
+   "score": 1,
+   "reasons": [
+    "מטרולוגיה/אינטרפרומטריה",
+    "משרה בכירה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|F6.27C",
+   "company": "Nova",
+   "title": "Production Assembly & Calibration Technician",
+   "url": "https://www.novami.com/comeetitem/f627c/",
+   "location": "Rehovot, IL",
+   "department": "Production",
+   "posted": "2026-11-06T07:41:45Z",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|C5.F6D",
+   "company": "Nova",
+   "title": "Quality & Reliability Lead",
+   "url": "https://www.novami.com/comeetitem/c5f6d/",
+   "location": "Rehovot, IL",
+   "department": "Operation",
+   "posted": "2026-11-09T17:38:23Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|AA.47C",
+   "company": "Nova",
+   "title": "Revenue Assistant Controller",
+   "url": "https://www.novami.com/comeetitem/aa47c/",
+   "location": "Rehovot, IL",
+   "department": "Finance",
+   "posted": "2026-11-08T13:46:12Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|4D.A61",
+   "company": "Nova",
+   "title": "Sales Operations Director",
+   "url": "https://www.novami.com/comeetitem/4da61/",
+   "location": "Rehovot, IL",
+   "department": "Sales Operations",
+   "posted": "2026-10-18T08:32:40Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|B3.47F",
+   "company": "Nova",
+   "title": "Senior Software Engineer",
+   "url": "https://www.novami.com/comeetitem/b347f/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-11-09T12:55:39Z",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|9C.373",
+   "company": "Nova",
+   "title": "Service Engineer",
+   "url": "https://www.novami.com/comeetitem/9c373/",
+   "location": "Rehovot, IL",
+   "department": "Service",
+   "posted": "2026-10-21T08:47:03Z",
+   "score": 1,
+   "reasons": [
+    "דורש בדיוק את התואר שלך",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|9C.271",
+   "company": "Nova",
+   "title": "Service Material Planner Team Leader",
+   "url": "https://www.novami.com/comeetitem/9c271/",
+   "location": "Rehovot, IL",
+   "department": "Supply Chain",
+   "posted": "2026-11-09T07:09:42Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|5C.370",
+   "company": "Nova",
+   "title": "Strategic Buyer",
+   "url": "https://www.novami.com/comeetitem/5c370/",
+   "location": "Rehovot, IL",
+   "department": "Procurement",
+   "posted": "2026-10-19T03:44:11Z",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "דורש 6+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|1D.07E",
+   "company": "Nova",
+   "title": "SW Product Manager",
+   "url": "https://www.novami.com/comeetitem/1d07e/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-11-03T14:46:53Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 3+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|C3.470",
+   "company": "Nova",
+   "title": "SW QA Engineer",
+   "url": "https://www.novami.com/comeetitem/c3470/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-11-08T09:00:31Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|B3.47A",
+   "company": "Nova",
+   "title": "SW Team Leader",
+   "url": "https://www.novami.com/comeetitem/b347a/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-11-05T13:52:19Z",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|7A.76E",
+   "company": "Nova",
+   "title": "System Engineer Team Lead",
+   "url": "https://www.novami.com/comeetitem/7a76e/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-11-02T09:49:29Z",
+   "score": 1,
+   "reasons": [
+    "הנדסת מערכות",
+    "רקע אלקטרו-אופטי",
+    "MATLAB",
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|31.47C",
+   "company": "Nova",
+   "title": "System Engineer Tech Lead",
+   "url": "https://www.novami.com/comeetitem/3147c/",
+   "location": "Rehovot, IL",
+   "department": "Research & Development",
+   "posted": "2026-10-25T04:38:20Z",
+   "score": 1,
+   "reasons": [
+    "הנדסת מערכות",
+    "רקע אלקטרו-אופטי",
+    "MATLAB",
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Nova|13.17D",
+   "company": "Nova",
+   "title": "Tactical Buyer",
+   "url": "https://www.novami.com/comeetitem/1317d/",
+   "location": "Rehovot, IL",
+   "department": "Procurement",
+   "posted": "2026-10-14T06:56:04Z",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|8XR3R663",
+   "company": "OpticSolution",
+   "title": "Material Planner",
+   "url": "https://careers-page.com/opticsolution/job/8XR3R663",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 4+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|4R7RR4W5",
+   "company": "OpticSolution",
+   "title": "HR Coordinator",
+   "url": "https://careers-page.com/opticsolution/job/4R7RR4W5",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|4R4935YV",
+   "company": "OpticSolution",
+   "title": "Senior Quality Control Inspector – Precision Machining",
+   "url": "https://careers-page.com/opticsolution/job/4R4935YV",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|RY9V9W3X",
+   "company": "OpticSolution",
+   "title": "Microfabrication and Characterization Engineer",
+   "url": "https://careers-page.com/opticsolution/job/RY9V9W3X",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|RY97XR56",
+   "company": "OpticSolution",
+   "title": "Senior Semiconductor & Automation Process Engineer",
+   "url": "https://careers-page.com/opticsolution/job/RY97XR56",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מוליכים למחצה",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 3+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|RY97XR36",
+   "company": "OpticSolution",
+   "title": "ATE / STE Project Manager",
+   "url": "https://careers-page.com/opticsolution/job/RY97XR36",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|7X5W8V53",
+   "company": "OpticSolution",
+   "title": "Director of Marketing - Israel",
+   "url": "https://careers-page.com/opticsolution/job/7X5W8V53",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "משרה בכירה",
+    "תחום פחות רלוונטי",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|3W8R8Y5V",
+   "company": "OpticSolution",
+   "title": "Senior PIC Layout Engineer",
+   "url": "https://careers-page.com/opticsolution/job/3W8R8Y5V",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "OpticSolution|X985XR3R",
+   "company": "OpticSolution",
+   "title": "Quality Department Manager",
+   "url": "https://careers-page.com/opticsolution/job/X985XR3R",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
