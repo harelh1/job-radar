@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:29:08+00:00",
+ "updated": "2026-11-10T19:27:36+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -15547,26 +15547,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|19346",
-   "company": "Elbit Systems",
-   "title": "Operations Quality Inspector",
-   "url": "https://elbitsystemscareer.com/job/?jid=19346",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2025-03-27T01:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20508",
    "company": "Elbit Systems",
    "title": "Mechanical Quality Inspector",
@@ -15577,6 +15557,26 @@
    "score": 1,
    "reasons": [
     "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|19346",
+   "company": "Elbit Systems",
+   "title": "Operations Quality Inspector",
+   "url": "https://elbitsystemscareer.com/job/?jid=19346",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2025-03-27T01:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15737,26 +15737,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20556",
-   "company": "Elbit Systems",
-   "title": "Head of Quality – Electronics Manufacturing Center",
-   "url": "https://elbitsystemscareer.com/job/?jid=20556",
-   "location": "Shfela, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-27T09:46:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19811",
    "company": "Elbit Systems",
    "title": "Design for Testability (DFT) Engineer",
@@ -15768,6 +15748,26 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20556",
+   "company": "Elbit Systems",
+   "title": "Head of Quality – Electronics Manufacturing Center",
+   "url": "https://elbitsystemscareer.com/job/?jid=20556",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-27T09:46:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
@@ -31268,24 +31268,6 @@
    "initial": true
   },
   {
-   "id": "SCD|ראש צוות הנדסת יבשים",
-   "company": "SCD",
-   "title": "ראש צוות הנדסת יבשים",
-   "url": "https://www.scd-infrared.com/find-a-job/",
-   "location": "Misgav, Israel",
-   "department": "Operation",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש סיווג ביטחוני"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
    "id": "SCD|Technical Lead – Hardware Engineering",
    "company": "SCD",
    "title": "Technical Lead – Hardware Engineering",
@@ -31318,43 +31300,6 @@
     "מו\"פ/אלגוריתמים/עיבוד אותות",
     "דורש 5+ שנות ניסיון",
     "דורש סיווג ביטחוני"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "SCD|Analog / Mixed-Signal VLSI Designer",
-   "company": "SCD",
-   "title": "Analog / Mixed-Signal VLSI Designer",
-   "url": "https://www.scd-infrared.com/find-a-job/",
-   "location": "Misgav, Israel",
-   "department": "R&D",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "SCD|Senior Digital VLSI Engineer",
-   "company": "SCD",
-   "title": "Senior Digital VLSI Engineer",
-   "url": "https://www.scd-infrared.com/find-a-job/",
-   "location": "Misgav, Israel",
-   "department": "R&D",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [],
@@ -32974,6 +32919,48 @@
     "מוליכים למחצה"
    ],
    "first_seen": "2026-11-10T18:13:04+00:00"
+  },
+  {
+   "id": "Nova|BF.47F",
+   "company": "Nova",
+   "title": "Purchase to Pay & Inventory Controller",
+   "url": "https://www.novami.com/results/",
+   "location": "Rehovot, Israel",
+   "department": "Finance",
+   "posted": "2026-11-10T18:40:50Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-10T19:27:36+00:00"
+  },
+  {
+   "id": "Quantum Machines|13.264-47.20D",
+   "company": "Quantum Machines",
+   "title": "Senior Verification Engineer",
+   "url": "https://www.comeet.com/jobs/quantummachines/D6.000/senior-verification-engineer/13.264-47.20D",
+   "location": "Tel Aviv-Yafo, Israel",
+   "department": "R&D",
+   "posted": "2026-11-10T19:17:07Z",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "קוונטים"
+   ],
+   "first_seen": "2026-11-10T19:27:36+00:00"
   }
  ]
 }
