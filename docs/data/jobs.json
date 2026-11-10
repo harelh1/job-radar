@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:19:26+00:00",
+ "updated": "2026-11-10T22:59:30+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -21896,28 +21896,6 @@
     "Python",
     "משרה בכירה",
     "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2022196-1",
-   "company": "NVIDIA",
-   "title": "Senior System Management Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-System-Management-Architect_JR2022196-1",
-   "location": "Israel, Tel Aviv, Israel, Raanana, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
