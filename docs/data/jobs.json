@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:16:45+00:00",
+ "updated": "2026-11-10T07:30:09+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -658,30 +658,6 @@
    "kind": "student",
    "tags": [
     "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/junior-software-linux-integration-engineer-os-team/b485dbc6-8166-49d6-b56a-c39eb4891fe8",
-   "company": "Mobileye",
-   "title": "Junior Software Linux Integration Engineer Os Team",
-   "url": "https://careers.mobileye.com/jobs/junior-software-linux-integration-engineer-os-team/b485dbc6-8166-49d6-b56a-c39eb4891fe8",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 43,
-   "reasons": [
-    "משרת ג'וניור",
-    "בדיקות/אינטגרציה",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -1808,27 +1784,6 @@
     "הנדסת מערכות"
    ],
    "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20711",
-   "company": "Elbit Systems",
-   "title": "Software Engineer Student",
-   "url": "https://elbitsystemscareer.com/job/?jid=20711",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-06-24T07:16:00",
-   "score": 28,
-   "reasons": [
-    "משרת סטודנט",
-    "עבודת מעבדה"
-   ],
-   "kind": "student",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
@@ -30753,27 +30708,6 @@
    "initial": true
   },
   {
-   "id": "Quantum Machines|11.475",
-   "company": "Quantum Machines",
-   "title": "Mechanical Engineer - Test Station Development",
-   "url": "https://www.comeet.com/jobs/quantummachines/D6.000/mechanical-engineer---test-station-development/11.475",
-   "location": "Tel Aviv-Yafo, IL",
-   "department": "R&D",
-   "posted": "2026-11-09T10:56:02Z",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "קוונטים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Quantum Machines|DF.857",
    "company": "Quantum Machines",
    "title": "Micro-Architect",
@@ -32856,6 +32790,51 @@
    "tags": [],
    "first_seen": "2026-11-09T21:25:56+00:00",
    "initial": true
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/senior-product-manager-autonomous-urban-driving/bfee467c-d620-41fd-803e-ae9846568ef6",
+   "company": "Mobileye",
+   "title": "Senior Product Manager Autonomous Urban Driving",
+   "url": "https://careers.mobileye.com/jobs/senior-product-manager-autonomous-urban-driving/bfee467c-d620-41fd-803e-ae9846568ef6",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-10T07:30:09+00:00"
+  },
+  {
+   "id": "Quantum Machines|02.F63",
+   "company": "Quantum Machines",
+   "title": "Hardware Team Lead for Product Engineering",
+   "url": "https://www.comeet.com/jobs/quantummachines/D6.000/hardware-team-lead-for-product-engineering/02.F63",
+   "location": "Tel Aviv-Yafo, Israel",
+   "department": "R&D",
+   "posted": "2026-11-10T07:22:10Z",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "קוונטים"
+   ],
+   "first_seen": "2026-11-10T07:30:09+00:00"
   }
  ]
 }
