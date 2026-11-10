@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:52:28+00:00",
+ "updated": "2026-11-10T11:54:35+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -25262,27 +25262,6 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2002227",
-   "company": "NVIDIA",
-   "title": "Chip Design Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Formal-Verification-Manager_JR2002227",
-   "location": "Israel, Tel Aviv, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "NVIDIA|JR2006888",
    "company": "NVIDIA",
    "title": "Network RDMA Algorithms Architect",
@@ -26366,6 +26345,26 @@
    "initial": true
   },
   {
+   "id": "NVIDIA|JR2020149",
+   "company": "NVIDIA",
+   "title": "Product Engineering Change Analyst",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Product-Engineering-Change-Analyst_JR2020149",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "NVIDIA|JR2020444",
    "company": "NVIDIA",
    "title": "Senior System Test Architect",
@@ -27147,28 +27146,6 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2023375",
-   "company": "NVIDIA",
-   "title": "Mechanical Design Team Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Mechanical-Design-Team-Manager_JR2023375",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "NVIDIA|JR2024000",
    "company": "NVIDIA",
    "title": "Senior IT Enterprise Security Engineer",
@@ -27545,6 +27522,29 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2026879",
+   "company": "NVIDIA",
+   "title": "Senior Hardware Technical Lead, Interconnect Systems",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Hardware-Technical-Lead--Interconnect-Systems_JR2026879",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "רקע אלקטרו-אופטי",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2022432",
@@ -29375,26 +29375,6 @@
    "company": "NVIDIA",
    "title": "Senior Chip Design Engineer",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2024425",
-   "location": "Israel, Tel Aviv",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2024979",
-   "company": "NVIDIA",
-   "title": "Senior Solutions Architect - Deep Learning",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Solutions-Architect---Deep-Learning_JR2024979",
    "location": "Israel, Tel Aviv",
    "department": "",
    "posted": "Posted 30+ Days Ago",
