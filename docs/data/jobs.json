@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:50:35+00:00",
+ "updated": "2026-11-10T02:52:36+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -25686,6 +25686,30 @@
    "initial": true
   },
   {
+   "id": "NVIDIA|JR2014028",
+   "company": "NVIDIA",
+   "title": "Senior Hardware System Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Failure-Analysis-Engineer_JR2014028",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "הנדסת מערכות",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "NVIDIA|JR2013546",
    "company": "NVIDIA",
    "title": "Senior Software Engineer, DOCA SDK",
@@ -26452,27 +26476,6 @@
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2020207",
-   "company": "NVIDIA",
-   "title": "Hardware Board Design Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Board-Design-Engineer_JR2020207",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
