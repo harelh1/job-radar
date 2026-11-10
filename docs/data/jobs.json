@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:13:04+00:00",
+ "updated": "2026-11-10T18:15:09+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -684,6 +684,25 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "Xsight Labs|AE.471",
+   "company": "Xsight Labs",
+   "title": "Junior Switch System Validation Engineer",
+   "url": "https://xsightlabs.com/careers/jobs/AE.471/junior-switch-system-validation-engineer",
+   "location": "Tirat Carmel, Israel",
+   "department": "R&D",
+   "posted": "2026-11-10T14:13:25Z",
+   "score": 43,
+   "reasons": [
+    "משרת ג'וניור",
+    "בדיקות/אינטגרציה",
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T21:25:56+00:00"
   },
   {
    "id": "Elbit Systems|20783",
@@ -7551,24 +7570,6 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Nova|DA.810",
-   "company": "Nova",
-   "title": "Unsolicited Application",
-   "url": "https://www.novami.com/comeetitem/53474-2/",
-   "location": "Rehovot, IL",
-   "department": "Engineering",
-   "posted": "2026-11-09T19:59:22Z",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -19249,1250 +19250,6 @@
    "tags": [
     "אופטיקה",
     "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2631360",
-   "company": "Applied Materials",
-   "title": "Installation Manager - Israel",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Kiryat-GatISR/Installation-Manager---Israel_R2631360",
-   "location": "Kiryat Gat,ISR",
-   "department": "",
-   "posted": "Posted 19 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628115",
-   "company": "Applied Materials",
-   "title": "Mechanical Suppliers Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Mechanical-Suppliers-Engineer_R2628115",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 11 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2630808",
-   "company": "Applied Materials",
-   "title": "AI Transformation Product Manager",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/AI-Transformation-Product-Manager_R2630808",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 18 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2517847",
-   "company": "Applied Materials",
-   "title": "Senior Software Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Backend-Developer_R2517847",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2518428",
-   "company": "Applied Materials",
-   "title": "Senior Frontend Developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Frontend-Developer_R2518428",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 6+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2620070-1",
-   "company": "Applied Materials",
-   "title": "Motion control engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Motion-control-engineer_R2620070-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2627385-1",
-   "company": "Applied Materials",
-   "title": "Algorithm Developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Algorithm-Developer_R2627385-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628110",
-   "company": "Applied Materials",
-   "title": "Import Expert",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Import-Activity-Management_R2628110",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2627114-1",
-   "company": "Applied Materials",
-   "title": "Motion & Control Supplier Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Motion---Control-Supplier-Engineer_R2627114-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 11 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2621432",
-   "company": "Applied Materials",
-   "title": "Senior Frontend Developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Frontend-Developer_R2621432",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 19 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 6+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2519119",
-   "company": "Applied Materials",
-   "title": "Planner",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Planner_R2519119",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2517856",
-   "company": "Applied Materials",
-   "title": "Validation Engineer (Software QA Engineer)",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Validation-Engineer_R2517856",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 7 Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2519332",
-   "company": "Applied Materials",
-   "title": "Customer support technician Migdal Haemek",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Mig-HaemekISR/Customer-support-technician_R2519332",
-   "location": "Mig Ha'emek,ISR",
-   "department": "",
-   "posted": "Posted 26 Days Ago",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2517466",
-   "company": "Applied Materials",
-   "title": "Software Infrastructure Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Software-Infrastructure-Engineer_R2517466",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2610055",
-   "company": "Applied Materials",
-   "title": "Customer Engineer - Kiryat Gat",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Kiryat-GatISR/Customer-Engineer---Kiryat-Gat_R2610055",
-   "location": "Kiryat Gat,ISR",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2610411",
-   "company": "Applied Materials",
-   "title": "Customer Support Technician - Kiryat Gat",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Kiryat-GatISR/Customer-Support-Technician---Kiryat-Gat_R2610411",
-   "location": "Kiryat Gat,ISR",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2615845",
-   "company": "Applied Materials",
-   "title": "Senior Software Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Engineer_R2615845",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 6 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 6+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2612553",
-   "company": "Applied Materials",
-   "title": "Senior Software Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Engineer_R2612553",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2622536",
-   "company": "Applied Materials",
-   "title": "Senior Buyer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Buyer_R2622536",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2623325",
-   "company": "Applied Materials",
-   "title": "Manufacturing Execution & Systems Eng",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Manufacturing-Execution---Systems-Eng_R2623325",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 19 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2622989",
-   "company": "Applied Materials",
-   "title": "Experienced Mechanical Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Experienced-Mechanical-Engineer_R2622989",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2625048",
-   "company": "Applied Materials",
-   "title": "Algorithm developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Algorithm-developer_R2625048",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 14 Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2624896",
-   "company": "Applied Materials",
-   "title": "Logistic Subject Matter Expert",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Logistic-Domain-SME_R2624896",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2625241",
-   "company": "Applied Materials",
-   "title": "Lead C++ Software Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Unibeam-C---Software-Engineer_R2625241",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2624354",
-   "company": "Applied Materials",
-   "title": "Devops Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Devops-Infra-cloud-Engineer_R2624354",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "דורש 4+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2626116-1",
-   "company": "Applied Materials",
-   "title": "Supply Chain Project Manager",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Supply-Chain-Project-Manager_R2626116-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2626110",
-   "company": "Applied Materials",
-   "title": "Senior NPI Planner",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-NPI-Planner_R2626110",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628109",
-   "company": "Applied Materials",
-   "title": "Senior Software Architect",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Frontend-Architect_R2628109",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2626474-1",
-   "company": "Applied Materials",
-   "title": "EIT Portfolio Manager",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/EIT-Portfolio-Manager_R2626474-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2626581-1",
-   "company": "Applied Materials",
-   "title": "R&D Project Manager",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/ETP-Project-Manager_R2626581-1",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 12 Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2627382",
-   "company": "Applied Materials",
-   "title": "Senior Software & AI Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software---AI-Engineer_R2627382",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628899",
-   "company": "Applied Materials",
-   "title": "1708252 Computing Project manager",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/XMLNAME-1708252-Computing-Project-manager_R2628899",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628551",
-   "company": "Applied Materials",
-   "title": "Senior Cloud Network Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Cloud-Network---DevOps-Engineer_R2628551",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 18 Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2630330",
-   "company": "Applied Materials",
-   "title": "Customer Engineer -Migdal Haemek",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Mig-HaemekISR/Customer-Engineer--Migdal-Haemek_R2630330",
-   "location": "Mig Ha'emek,ISR",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628313",
-   "company": "Applied Materials",
-   "title": "Senior Software Engineer & Scrum Master",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Engineer---Scrum-Master_R2628313",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2624703",
-   "company": "Applied Materials",
-   "title": "Planner",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Planner_R2624703",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 25 Days Ago",
-   "score": 1,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2630445",
-   "company": "Applied Materials",
-   "title": "System Qual Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/HW-Qual-Engineer_R2630445",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 8 Days Ago",
-   "score": 1,
-   "reasons": [
-    "MATLAB",
-    "Python",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2620649",
-   "company": "Applied Materials",
-   "title": "Analog HV Design Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Analog-HV-Design-Engineer_R2620649",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 18 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2629307",
-   "company": "Applied Materials",
-   "title": "Senior Java Developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Java-Developer_R2629307",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 22 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2631449",
-   "company": "Applied Materials",
-   "title": "Industrial Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Industrial-Engineer_R2631449",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2625969",
-   "company": "Applied Materials",
-   "title": "Product Manager",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/AI-Product-Owner_R2625969",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 12 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628900",
-   "company": "Applied Materials",
-   "title": "Cable Design Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Cable-Design-Engineer_R2628900",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 19 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2631900",
-   "company": "Applied Materials",
-   "title": "Talent Acquisition Partner- 1 Year Temp",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Talent-Acquisition-Partner--1-Year-Temp_R2631900",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2629324",
-   "company": "Applied Materials",
-   "title": "System Engineer (Computing)",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Computing-HW-Engineer_R2629324",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 14 Days Ago",
-   "score": 1,
-   "reasons": [
-    "הנדסת מערכות",
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2631233",
-   "company": "Applied Materials",
-   "title": "System Administrator for Computing Qual (testing)",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Administrator-for-Computing-Qual--testing-_R2631233",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 15 Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "עבודת מעבדה",
-    "דורש 8+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2630754",
-   "company": "Applied Materials",
-   "title": "Computing Infrastructure Developer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Computing-Infrastructure-Developer_R2630754",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 15 Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2627383",
-   "company": "Applied Materials",
-   "title": "Senior SW Backend Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-SW-Backend-Engineer_R2627383",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 14 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2631787",
-   "company": "Applied Materials",
-   "title": "Image Processing Software Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Image-Processing-Software-Engineer_R2631787",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 14 Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python",
-    "עבודת מעבדה",
-    "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2630023",
-   "company": "Applied Materials",
-   "title": "Embedded Linux Software Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Embedded-Linux-Software-Engineer_R2630023",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 12 Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2631461",
-   "company": "Applied Materials",
-   "title": "Packaging Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Packaging-Engineer_R2631461",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 6 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2623989",
-   "company": "Applied Materials",
-   "title": "Technical R&D Program Manager – Data Products",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Technical-R-D-Program-Manager---Data-Products_R2623989",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 11 Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2629795",
-   "company": "Applied Materials",
-   "title": "Supplier Engineer Expert – Electrical Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Supplier-Engineer-Expert---Electrical-Engineer_R2629795",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 11 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2628820",
-   "company": "Applied Materials",
-   "title": "Senior Algorithms Tech Lead",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Algorithms-Tech-Lead_R2628820",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2632648",
-   "company": "Applied Materials",
-   "title": "Full-Stack Developer (Frontend Oriented)",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Full-Stack-Developer--Frontend-Oriented-_R2632648",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2632645",
-   "company": "Applied Materials",
-   "title": "Senior Backend Developer (Java)",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Backend-Developer--Java-_R2632645",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 4 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2412467",
-   "company": "Applied Materials",
-   "title": "Application Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Application-Engineer_R2412467",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2622459",
-   "company": "Applied Materials",
-   "title": "Director, Advanced Packaging Disruptive Technology (Based in Singapore)",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Director--Advanced-Packaging-Disruptive-Technology--Based-in-Singapore-_R2622459",
-   "location": "Singapore,SGP, Boise,ID, Rehovot,ISR, Santa Clara,CA, Austin,TX, Heimstetten,DEU",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 15+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2622505",
-   "company": "Applied Materials",
-   "title": "Senior Member of Technical Staff (Advanced Packaging Pathfinding)",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Principal--Staff-Engineer--Advanced-Packaging-Process-Integration_R2622505",
-   "location": "Singapore,SGP, Tainan,TWN, Bundang,KOR, Santa Clara,CA, Heimstetten,DEU, Boise,ID, Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 13 Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 15+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -33487,6 +32244,132 @@
    "initial": true
   },
   {
+   "id": "Xsight Labs|EB.46B",
+   "company": "Xsight Labs",
+   "title": "Senior SerDes & High-Speed PHY Validation Engineer",
+   "url": "https://xsightlabs.com/careers/jobs/EB.46B/senior-serdes--high-speed-phy-validation-engineer",
+   "location": "Giv'atayim, Israel",
+   "department": "R&D",
+   "posted": "2026-11-05T09:24:10Z",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T21:25:56+00:00"
+  },
+  {
+   "id": "Xsight Labs|8D.17D",
+   "company": "Xsight Labs",
+   "title": "Senior Static Timing Analysis (STA) Engineer (IL)",
+   "url": "https://xsightlabs.com/careers/jobs/8D.17D/senior-static-timing-analysis-sta-engineer-il",
+   "location": "Giv'atayim, Israel",
+   "department": "R&D",
+   "posted": "2026-09-14T17:48:06Z",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T21:25:56+00:00"
+  },
+  {
+   "id": "Xsight Labs|F0.664",
+   "company": "Xsight Labs",
+   "title": "Senior Test Engineer",
+   "url": "https://xsightlabs.com/careers/jobs/F0.664/senior-test-engineer#apply",
+   "location": "Tirat Carmel, Israel",
+   "department": "R&D",
+   "posted": "2026-11-10T18:08:53Z",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T21:25:56+00:00"
+  },
+  {
+   "id": "Xsight Labs|2D.85B",
+   "company": "Xsight Labs",
+   "title": "Senior VLSI  Designer",
+   "url": "https://xsightlabs.com/careers/jobs/2D.85B/senior-vlsi--designer",
+   "location": "Giv'atayim, Israel",
+   "department": "R&D",
+   "posted": "2026-11-10T10:27:37Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T21:25:56+00:00"
+  },
+  {
+   "id": "Xsight Labs|24.47D",
+   "company": "Xsight Labs",
+   "title": "Software Release Manager",
+   "url": "https://xsightlabs.com/careers/jobs/24.47D/software-release-manager",
+   "location": "Giv'atayim, Israel",
+   "department": "R&D",
+   "posted": "2026-11-09T05:48:55Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T21:25:56+00:00"
+  },
+  {
+   "id": "Xsight Labs|6B.272",
+   "company": "Xsight Labs",
+   "title": "Supply Chain Manager",
+   "url": "https://xsightlabs.com/careers/jobs/6B.272/supply-chain-manager",
+   "location": "Giv'atayim, Israel",
+   "department": "Operation",
+   "posted": "2026-11-10T08:12:25Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T21:25:56+00:00"
+  },
+  {
+   "id": "Xsight Labs|9F.477",
+   "company": "Xsight Labs",
+   "title": "Engineering Program Manager",
+   "url": "https://xsightlabs.com/careers/jobs/9F.477/engineering-program-manager",
+   "location": "Giv'atayim, Israel",
+   "department": "R&D",
+   "posted": "2026-11-10T14:09:38Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-10T08:30:40+00:00"
+  },
+  {
    "id": "Elbit Systems|21201",
    "company": "Elbit Systems",
    "title": "עובד.ת אחזקה ותשתיות",
@@ -33564,45 +32447,6 @@
     "מוליכים למחצה",
     "מטרולוגיה"
    ],
-   "first_seen": "2026-11-10T18:13:04+00:00"
-  },
-  {
-   "id": "Nova|AF.47B",
-   "company": "Nova",
-   "title": "Senior Software Engineer",
-   "url": "https://www.novami.com/comeetitem/af47b/",
-   "location": "Rehovot, Israel",
-   "department": "Research & Development",
-   "posted": "2026-11-10T11:03:26Z",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-10T18:13:04+00:00"
-  },
-  {
-   "id": "MKS Ophir|R23670",
-   "company": "MKS Ophir",
-   "title": "Production Tech 2 טכנאי/ת בד\"ס",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech-2----_R23670",
-   "location": "Israel Karmiel",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [],
    "first_seen": "2026-11-10T18:13:04+00:00"
   },
   {
@@ -33707,6 +32551,45 @@
     "מוליכים למחצה",
     "מטרולוגיה"
    ],
+   "first_seen": "2026-11-10T18:13:04+00:00"
+  },
+  {
+   "id": "Nova|AF.47B",
+   "company": "Nova",
+   "title": "Senior Software Engineer",
+   "url": "https://www.novami.com/comeetitem/af47b/",
+   "location": "Rehovot, Israel",
+   "department": "Research & Development",
+   "posted": "2026-11-10T11:03:26Z",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה אופטית"
+   ],
+   "first_seen": "2026-11-10T18:13:04+00:00"
+  },
+  {
+   "id": "MKS Ophir|R23670",
+   "company": "MKS Ophir",
+   "title": "Production Tech 2 טכנאי/ת בד\"ס",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA/job/Israel-Karmiel/Production-Tech-2----_R23670",
+   "location": "Israel Karmiel",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [],
    "first_seen": "2026-11-10T18:13:04+00:00"
   },
   {
