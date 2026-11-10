@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:32:44+00:00",
+ "updated": "2026-11-10T08:34:48+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -2584,6 +2584,26 @@
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2026692",
+   "company": "NVIDIA",
+   "title": "Software QA Student",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-QA-Student_JR2026692",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 25,
+   "reasons": [
+    "משרת סטודנט",
+    "Python"
+   ],
+   "kind": "student",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-10T08:34:48+00:00"
   },
   {
    "id": "Elbit Systems|19621",
@@ -28293,28 +28313,6 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2004601",
-   "company": "NVIDIA",
-   "title": "Senior Software Engineer, NVLINK",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--NVLINK_JR2004601",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "NVIDIA|JR2003831",
    "company": "NVIDIA",
    "title": "Manager, DFT Architecture",
@@ -28644,6 +28642,27 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2012805",
+   "company": "NVIDIA",
+   "title": "Senior Networking FW Application Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Networking-FW-Application-Engineer_JR2012805",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "משרה בכירה",
+    "דורש 8+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2013572",
@@ -29007,27 +29026,6 @@
    "reasons": [
     "משרה בכירה",
     "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2020995",
-   "company": "NVIDIA",
-   "title": "Senior Firmware Architect, NVLink",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Firmware-Architect--NVLink_JR2020995",
-   "location": "Israel, Tel Aviv",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
