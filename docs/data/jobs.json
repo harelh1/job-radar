@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:44:13+00:00",
+ "updated": "2026-11-10T22:19:26+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -948,26 +948,6 @@
    "initial": true
   },
   {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9731",
-   "company": "Tower Semiconductor",
-   "title": "Process Engineer Student",
-   "url": "https://careers.towersemi.com/job-description?job_id=9731",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 37,
-   "reasons": [
-    "משרת סטודנט",
-    "מוליכים למחצה"
-   ],
-   "kind": "student",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20527",
    "company": "Elbit Systems",
    "title": "Software Engineering student",
@@ -1028,27 +1008,6 @@
    "tags": [
     "מוליכים למחצה",
     "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9425",
-   "company": "Tower Semiconductor",
-   "title": "Test Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9425",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 36,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "רקע אלקטרו-אופטי",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -1624,28 +1583,6 @@
    "initial": true
   },
   {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9691",
-   "company": "Tower Semiconductor",
-   "title": "Device Lab Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9691",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 29,
-   "reasons": [
-    "חומרה/מעבדה",
-    "Python",
-    "עבודת מעבדה",
-    "דורש בדיוק את התואר שלך"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|21187",
    "company": "Elbit Systems",
    "title": "Student Planner",
@@ -1786,26 +1723,6 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9727",
-   "company": "Tower Semiconductor",
-   "title": "IE Student",
-   "url": "https://careers.towersemi.com/job-description?job_id=9727",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 28,
-   "reasons": [
-    "משרת סטודנט",
-    "עבודת מעבדה"
-   ],
-   "kind": "student",
-   "tags": [
-    "מוליכים למחצה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -2688,25 +2605,6 @@
    "tags": [
     "מוליכים למחצה",
     "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9493",
-   "company": "Tower Semiconductor",
-   "title": "ERS Student",
-   "url": "https://careers.towersemi.com/job-description?job_id=9493",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 24,
-   "reasons": [
-    "משרת סטודנט"
-   ],
-   "kind": "student",
-   "tags": [
-    "מוליכים למחצה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -3646,44 +3544,6 @@
    "tags": [
     "מוליכים למחצה",
     "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9434",
-   "company": "Tower Semiconductor",
-   "title": "Process Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9434",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 19,
-   "reasons": [
-    "מוליכים למחצה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9836",
-   "company": "Tower Semiconductor",
-   "title": "Process R&D Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9836",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 19,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -7704,23 +7564,6 @@
    "initial": true
   },
   {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9794",
-   "company": "Tower Semiconductor",
-   "title": "Book Keeper",
-   "url": "https://careers.towersemi.com/job-description?job_id=9794",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Opsys|https://www.opsys-tech.com/careers/56",
    "company": "Opsys",
    "title": "",
@@ -7935,22 +7778,6 @@
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9863",
-   "company": "Tower Semiconductor",
-   "title": "מחסנאי/ת",
-   "url": "https://careers.towersemi.com/job-description?job_id=9863",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-10T18:13:04+00:00"
   },
   {
    "id": "Elbit Systems|19290",
@@ -27273,28 +27100,6 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2027527",
-   "company": "NVIDIA",
-   "title": "Senior Program Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Program-Manager_JR2027527",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "NVIDIA|JR2027617",
    "company": "NVIDIA",
    "title": "Senior Hardware Program Manager",
@@ -29573,287 +29378,6 @@
    "tags": [
     "מוליכים למחצה",
     "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9734",
-   "company": "Tower Semiconductor",
-   "title": "Advanced Packaging Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9734",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9524",
-   "company": "Tower Semiconductor",
-   "title": "Corporate Counsel",
-   "url": "https://careers.towersemi.com/job-description?job_id=9524",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9592",
-   "company": "Tower Semiconductor",
-   "title": "Design Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9592",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9501",
-   "company": "Tower Semiconductor",
-   "title": "Director, MH Site Supply Chain",
-   "url": "https://careers.towersemi.com/job-description?job_id=9501",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9833",
-   "company": "Tower Semiconductor",
-   "title": "Enterprise AI Architect",
-   "url": "https://careers.towersemi.com/job-description?job_id=9833",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9837",
-   "company": "Tower Semiconductor",
-   "title": "SAP Application Developer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9837",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9773",
-   "company": "Tower Semiconductor",
-   "title": "Senior Device Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9773",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "MATLAB",
-    "Python",
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9778",
-   "company": "Tower Semiconductor",
-   "title": "Senior Linux & Storage Administrator",
-   "url": "https://careers.towersemi.com/job-description?job_id=9778",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9765",
-   "company": "Tower Semiconductor",
-   "title": "Senior Process Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9765",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "מוליכים למחצה",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9408",
-   "company": "Tower Semiconductor",
-   "title": "Senior Reliability Engineer",
-   "url": "https://careers.towersemi.com/job-description?job_id=9408",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9523",
-   "company": "Tower Semiconductor",
-   "title": "טכנאי/ת ציוד",
-   "url": "https://careers.towersemi.com/job-description?job_id=9523",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9772",
-   "company": "Tower Semiconductor",
-   "title": "מאבטח/ת",
-   "url": "https://careers.towersemi.com/job-description?job_id=9772",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "דורש 12+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9856",
-   "company": "Tower Semiconductor",
-   "title": "מאבטח/ת שער",
-   "url": "https://careers.towersemi.com/job-description?job_id=9856",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "דורש 12+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Tower Semiconductor|https://careers.towersemi.com/job-description?job_id=9509",
-   "company": "Tower Semiconductor",
-   "title": "מפעיל/ה בקו הייצור",
-   "url": "https://careers.towersemi.com/job-description?job_id=9509",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "דורש 12+ שנות ניסיון",
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
