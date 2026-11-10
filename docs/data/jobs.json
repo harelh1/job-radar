@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:29:11+00:00",
+ "updated": "2026-11-10T15:31:14+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -8869,26 +8869,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|21057",
-   "company": "Elbit Systems",
-   "title": "מנהל.ת מחלקת פרויקטים",
-   "url": "https://elbitsystemscareer.com/job/?jid=21057",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-09-16T07:16:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20210",
    "company": "Elbit Systems",
    "title": "Project Manager",
@@ -8900,6 +8880,26 @@
    "reasons": [
     "משרה בכירה",
     "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|21057",
+   "company": "Elbit Systems",
+   "title": "מנהל.ת מחלקת פרויקטים",
+   "url": "https://elbitsystemscareer.com/job/?jid=21057",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-09-16T07:16:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
@@ -15221,27 +15221,6 @@
    "score": 1,
    "reasons": [
     "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20891",
-   "company": "Elbit Systems",
-   "title": "חשמלאי.ת ראשי.ת",
-   "url": "https://elbitsystemscareer.com/job/?jid=20891",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-07-30T10:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
    ],
    "kind": "full",
    "tags": [
