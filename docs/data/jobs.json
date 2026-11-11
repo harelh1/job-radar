@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:34:49+00:00",
+ "updated": "2026-11-11T14:36:50+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -1659,27 +1659,6 @@
     "הנדסת מערכות"
    ],
    "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|21100",
-   "company": "Elbit Systems",
-   "title": "Software Engineer student position",
-   "url": "https://elbitsystemscareer.com/job/?jid=21100",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-10-05T01:16:00",
-   "score": 28,
-   "reasons": [
-    "משרת סטודנט",
-    "Python"
-   ],
-   "kind": "student",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
@@ -5909,6 +5888,24 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|21135",
+   "company": "Elbit Systems",
+   "title": "אחראי.ת בקרה",
+   "url": "https://elbitsystemscareer.com/job/?jid=21135",
+   "location": "North, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-10-21T10:16:00",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19844",
    "company": "Elbit Systems",
    "title": "משחיזנ.ית",
@@ -6818,24 +6815,6 @@
    "location": "North, Israel",
    "department": "יבשה ותעש",
    "posted": "2025-10-22T08:46:00",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|21135",
-   "company": "Elbit Systems",
-   "title": "אחראי.ת בקרה",
-   "url": "https://elbitsystemscareer.com/job/?jid=21135",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-10-21T10:16:00",
    "score": 6,
    "reasons": [],
    "kind": "full",
@@ -8696,6 +8675,27 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|21134",
+   "company": "Elbit Systems",
+   "title": "סטודנט.ית למנהל עסקים / שיווק",
+   "url": "https://elbitsystemscareer.com/job/?jid=21134",
+   "location": "North, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-10-21T07:16:00",
+   "score": 1,
+   "reasons": [
+    "משרת סטודנט",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "student",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21024",
    "company": "Elbit Systems",
    "title": "מנהל.ת מוצר",
@@ -9186,27 +9186,6 @@
     "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|21134",
-   "company": "Elbit Systems",
-   "title": "סטודנט.ית למנהל עסקים / שיווק",
-   "url": "https://elbitsystemscareer.com/job/?jid=21134",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-10-21T07:16:00",
-   "score": 1,
-   "reasons": [
-    "משרת סטודנט",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "student",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
