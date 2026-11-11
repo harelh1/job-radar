@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:32:57+00:00",
+ "updated": "2026-11-11T14:34:49+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -2682,28 +2682,6 @@
     "Python",
     "עבודת מעבדה",
     "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2023538",
-   "company": "NVIDIA",
-   "title": "SPE Thermal Solutions Integration Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/SPE-Thermal-Solutions-Integration-Engineer_JR2023538",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 23,
-   "reasons": [
-    "דימות/גלאים/מצלמות",
-    "עבודת מעבדה",
-    "דורש 4+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -21286,6 +21264,27 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2025747",
+   "company": "NVIDIA",
+   "title": "Senior Analog Layout Design Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Analog-Layout-Design-Engineer_JR2025747",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2026879",
