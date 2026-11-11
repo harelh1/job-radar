@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:12:54+00:00",
+ "updated": "2026-11-11T17:14:48+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -819,6 +819,27 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2028105",
+   "company": "NVIDIA",
+   "title": "Physical Verification Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Physical-Verification-Engineer_JR2028105",
+   "location": "Israel, Tel Aviv, Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 39,
+   "reasons": [
+    "פיזיקה",
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "KLA (Orbotech)|2638234-1",
@@ -32275,27 +32296,6 @@
     "קוונטים"
    ],
    "first_seen": "2026-11-10T20:16:39+00:00"
-  },
-  {
-   "id": "NVIDIA|JR2029853",
-   "company": "NVIDIA",
-   "title": "Senior System Software Architect, AI and GPU Networking",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-System-Software-Architect--AI-and-GPU-Networking_JR2029853",
-   "location": "Israel, Tel Aviv, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-11T00:59:03+00:00"
   },
   {
    "id": "NVIDIA|JR2029853",
