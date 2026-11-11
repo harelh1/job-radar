@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:32:49+00:00",
+ "updated": "2026-11-11T09:34:54+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -19471,6 +19471,27 @@
    "initial": true
   },
   {
+   "id": "NVIDIA|JR2025563",
+   "company": "NVIDIA",
+   "title": "Senior Hardware Security Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-Hardware-Security-Architect_JR2025563",
+   "location": "Israel, Beer Sheva, Israel, Tel Aviv",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "NVIDIA|JR2026556",
    "company": "NVIDIA",
    "title": "Firmware Engineer",
@@ -19855,29 +19876,6 @@
     "חומרה/מעבדה",
     "משרה בכירה",
     "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2016759",
-   "company": "NVIDIA",
-   "title": "Software Manager, Infra Tools AI Team",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--Infra-Tools-AI_JR2016759",
-   "location": "Israel, Raanana",
-   "department": "",
-   "posted": "Posted 20 Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
