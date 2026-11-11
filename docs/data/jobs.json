@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T03:29:47+00:00",
+ "updated": "2026-11-11T04:28:43+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -32524,6 +32524,25 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-11T00:59:03+00:00"
+  },
+  {
+   "id": "Applied Materials|R2633407",
+   "company": "Applied Materials",
+   "title": "Installation Engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Kiryat-GatISR/Installation-Engineer_R2633407",
+   "location": "Kiryat Gat,ISR",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-11T04:28:43+00:00"
   }
  ]
 }
