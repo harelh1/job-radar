@@ -553,7 +553,8 @@
    "21204": "2026-11-11T09:32:49+00:00",
    "21184": "2026-11-11T09:32:49+00:00",
    "21089": "2026-11-11T09:32:49+00:00",
-   "19438": "2026-11-11T10:30:57+00:00"
+   "19438": "2026-11-11T10:30:57+00:00",
+   "21207": "2026-11-11T11:27:05+00:00"
   },
   "KLA (Orbotech)": {
    "2638257-1": "2026-11-09T20:02:53+00:00",
@@ -640,7 +641,8 @@
    "2641311-2": "2026-11-09T20:02:53+00:00",
    "2642075-1": "2026-11-09T20:02:53+00:00",
    "2643342-1": "2026-11-10T18:13:04+00:00",
-   "2641803": "2026-11-10T18:13:04+00:00"
+   "2641803": "2026-11-10T18:13:04+00:00",
+   "2643360-1": "2026-11-11T11:27:05+00:00"
   },
   "Applied Materials": {
    "R2631360": "2026-11-09T20:02:53+00:00",
@@ -1662,20 +1664,38 @@
    "9F.477": "2026-11-10T08:30:40+00:00"
   }
  },
- "tg_offset": 981000162,
+ "tg_offset": 981000163,
  "shown": [
+  "Applied Materials|R2519839",
+  "Applied Materials|R2626909",
   "Applied Materials|R2631898",
+  "Elbit Systems|20029",
+  "Elbit Systems|20364",
+  "Elbit Systems|20460",
   "Elbit Systems|20626",
+  "Elbit Systems|20723",
+  "Elbit Systems|20743",
+  "Elbit Systems|20918",
   "Elbit Systems|20928",
+  "Elbit Systems|20978",
+  "Elbit Systems|21093",
+  "Elbit Systems|21104",
   "Elbit Systems|21120",
   "Elbit Systems|21156",
   "Elbit Systems|21174",
   "KLA (Orbotech)|2640817-1",
   "Lumus|3A.759",
+  "MKS Ophir|R20492",
   "MKS Ophir|R20589",
+  "Mobileye|https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/331ce77a-8179-444a-924c-189f131afd50",
+  "Mobileye|https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/c14fbc4f-8047-421b-968f-a3b5bd2c5146",
   "NVIDIA|JR2028290",
+  "Nova|78.470",
   "Nova|BD.667",
-  "SCD|Student Position in Physics Derivatives Cooled Department"
+  "OpticSolution|3W893V8W",
+  "OpticSolution|RYW73546",
+  "SCD|Student Position in Physics Derivatives Cooled Department",
+  "TriEye|60.867"
  ],
  "last_ranked": [
   {
@@ -1726,6 +1746,106 @@
   {
    "id": "Elbit Systems|20928",
    "title": "System Engineering Student – Algorithms Team",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "MKS Ophir|R20589",
+   "title": "סטודנט/ית להנדסת מכונות/אופטיקה",
+   "company": "MKS Ophir"
+  },
+  {
+   "id": "Elbit Systems|21120",
+   "title": "Optical Designer",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Nova|78.470",
+   "title": "Optical Engineer",
+   "company": "Nova"
+  },
+  {
+   "id": "OpticSolution|3W893V8W",
+   "title": "Electrical & Electronics Engineer – Laser Systems Development",
+   "company": "OpticSolution"
+  },
+  {
+   "id": "Applied Materials|R2519839",
+   "title": "Physicist",
+   "company": "Applied Materials"
+  },
+  {
+   "id": "Applied Materials|R2626909",
+   "title": "Physicist",
+   "company": "Applied Materials"
+  },
+  {
+   "id": "Elbit Systems|20918",
+   "title": "Quantum Sensing & Communications Physicist",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Elbit Systems|20723",
+   "title": "Electro-Optics Systems Engineer",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Elbit Systems|20743",
+   "title": "Systems Engineering Student",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Elbit Systems|20364",
+   "title": "Systems Engineering Student",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Elbit Systems|21104",
+   "title": "משרת סטודנט למהנדסי חשמל/ פיזיקה",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/331ce77a-8179-444a-924c-189f131afd50",
+   "title": "Algorithm Developer For Radarlidar Group",
+   "company": "Mobileye"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/algorithm-developer-for-radarlidar-group/c14fbc4f-8047-421b-968f-a3b5bd2c5146",
+   "title": "Algorithm Developer For Radarlidar Group",
+   "company": "Mobileye"
+  },
+  {
+   "id": "Elbit Systems|20978",
+   "title": "Electro-Optical Systems Engineer",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "OpticSolution|RYW73546",
+   "title": "Experimental Optical Physicist",
+   "company": "OpticSolution"
+  },
+  {
+   "id": "MKS Ophir|R20492",
+   "title": "Optics Cleaner/עובד/ת להכנת עדשות אופטיות לציפוי",
+   "company": "MKS Ophir"
+  },
+  {
+   "id": "Elbit Systems|20029",
+   "title": "Hardware and Software System Engineer",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "Elbit Systems|20460",
+   "title": "Avionics Systems Engineering Student",
+   "company": "Elbit Systems"
+  },
+  {
+   "id": "TriEye|60.867",
+   "title": "Applied Physics & EO Researcher",
+   "company": "TriEye"
+  },
+  {
+   "id": "Elbit Systems|21093",
+   "title": "Algorithms Student in the fields of Comp",
    "company": "Elbit Systems"
   }
  ]
