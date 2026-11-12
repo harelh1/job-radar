@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:41:43+00:00",
+ "updated": "2026-11-12T10:39:41+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -3089,28 +3089,6 @@
    "kind": "full",
    "tags": [
     "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/autonomous-vehicle-validation-field-engineer/6fccf6c1-f0c6-4f95-b290-48410598752e",
-   "company": "Mobileye",
-   "title": "Autonomous Vehicle Validation Field Engineer",
-   "url": "https://careers.mobileye.com/jobs/autonomous-vehicle-validation-field-engineer/6fccf6c1-f0c6-4f95-b290-48410598752e",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 21,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
     "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
@@ -20488,28 +20466,6 @@
    "initial": true
   },
   {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/system-engineer/c26290b9-f51a-48dc-b319-45f2c9131b42",
-   "company": "Mobileye",
-   "title": "System Engineer",
-   "url": "https://careers.mobileye.com/jobs/system-engineer/c26290b9-f51a-48dc-b319-45f2c9131b42",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "הנדסת מערכות",
-    "דורש 6+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Mobileye|https://careers.mobileye.com/jobs/validation-integration-engineer/a6cf562b-dca7-4708-9772-7539a13b9a37",
    "company": "Mobileye",
    "title": "Validation Integration Engineer",
@@ -26933,29 +26889,6 @@
    "posted": "Posted 24 Days Ago",
    "score": 1,
    "reasons": [
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2027903",
-   "company": "NVIDIA",
-   "title": "Senior Hardware Program Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Hardware-Program-Manager_JR2027903",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 20 Days Ago",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
     "משרה בכירה",
     "דורש 8+ שנות ניסיון",
     "תחום פחות רלוונטי"
