@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:54:50+00:00",
+ "updated": "2026-11-12T21:01:09+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -25659,29 +25659,6 @@
     "משרה בכירה",
     "דורש 8+ שנות ניסיון",
     "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2020481",
-   "company": "NVIDIA",
-   "title": "Host and Systems Performance Senior Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Host-and-Systems-Performance-Senior-Manager_JR2020481",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
