@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T06:29:52+00:00",
+ "updated": "2026-11-12T07:50:15+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -7329,23 +7329,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20944",
-   "company": "Elbit Systems",
-   "title": "פלנר.ית",
-   "url": "https://elbitsystemscareer.com/job/?jid=20944",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-08-17T06:46:00",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
-  },
-  {
    "id": "Elbit Systems|20876",
    "company": "Elbit Systems",
    "title": "מחווט.ת כבלים ורתמות",
@@ -7362,6 +7345,23 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "Elbit Systems|20944",
+   "company": "Elbit Systems",
+   "title": "פלנר.ית",
+   "url": "https://elbitsystemscareer.com/job/?jid=20944",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-08-17T06:46:00",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2026783",
@@ -7443,24 +7443,6 @@
    "company": "KLA (Orbotech)",
    "title": "System Integrator",
    "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/System-Integrator_2634646-1",
-   "location": "Migdal Ha'emek, Israel",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "KLA (Orbotech)|2640551-1",
-   "company": "KLA (Orbotech)",
-   "title": "Configuration Analyst",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Configuration-Analyst_2640551-1",
    "location": "Migdal Ha'emek, Israel",
    "department": "",
    "posted": "Posted 30+ Days Ago",
@@ -8143,6 +8125,27 @@
    "initial": true
   },
   {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/experience-python-developer/a262af21-b179-42a9-b8e4-1b1a32eb66f4",
+   "company": "Mobileye",
+   "title": "Experience Python Developer",
+   "url": "https://careers.mobileye.com/jobs/experience-python-developer/a262af21-b179-42a9-b8e4-1b1a32eb66f4",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 4,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Mobileye|https://careers.mobileye.com/jobs/optical-path-safety-architect-manager/18798a36-f350-4166-a3aa-1d863708cfc9",
    "company": "Mobileye",
    "title": "Optical Path Safety Architect Manager",
@@ -8708,6 +8711,26 @@
    "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
+   "id": "Elbit Systems|21052",
+   "company": "Elbit Systems",
+   "title": "Mechanical Design Engineer",
+   "url": "https://elbitsystemscareer.com/job/?jid=21052",
+   "location": "Holon, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-09-15T10:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21134",
    "company": "Elbit Systems",
    "title": "סטודנט.ית למנהל עסקים / שיווק",
@@ -8729,6 +8752,26 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20997",
+   "company": "Elbit Systems",
+   "title": "מהנדס.ת יצור",
+   "url": "https://elbitsystemscareer.com/job/?jid=20997",
+   "location": "North, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-09-02T09:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21024",
    "company": "Elbit Systems",
    "title": "מנהל.ת מוצר",
@@ -8740,26 +8783,6 @@
    "reasons": [
     "משרה בכירה",
     "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20997",
-   "company": "Elbit Systems",
-   "title": "מהנדס.ת יצור",
-   "url": "https://elbitsystemscareer.com/job/?jid=20997",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-09-02T09:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -12576,26 +12599,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|21052",
-   "company": "Elbit Systems",
-   "title": "Mechanical Design Engineer",
-   "url": "https://elbitsystemscareer.com/job/?jid=21052",
-   "location": "Holon, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-09-15T10:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20336",
    "company": "Elbit Systems",
    "title": "מנהל.ת מוצר בתפי- החלפה לחלד",
@@ -15070,26 +15073,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|19704",
-   "company": "Elbit Systems",
-   "title": "מהנדס.ת מערכת",
-   "url": "https://elbitsystemscareer.com/job/?jid=19704",
-   "location": "Jerusalem Area, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2025-05-22T12:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19702",
    "company": "Elbit Systems",
    "title": "R&D Manager",
@@ -15152,19 +15135,18 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20898",
+   "id": "Elbit Systems|19704",
    "company": "Elbit Systems",
-   "title": "סטודנט.ית לשיווק",
-   "url": "https://elbitsystemscareer.com/job/?jid=20898",
-   "location": "Shfela, Israel",
+   "title": "מהנדס.ת מערכת",
+   "url": "https://elbitsystemscareer.com/job/?jid=19704",
+   "location": "Jerusalem Area, Israel",
    "department": "יבשה ותעש",
-   "posted": "2026-08-03T01:46:00",
+   "posted": "2025-05-22T12:46:00",
    "score": 1,
    "reasons": [
-    "משרת סטודנט",
-    "תחום פחות רלוונטי"
+    "דורש 5+ שנות ניסיון"
    ],
-   "kind": "student",
+   "kind": "full",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
@@ -15185,6 +15167,27 @@
     "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20898",
+   "company": "Elbit Systems",
+   "title": "סטודנט.ית לשיווק",
+   "url": "https://elbitsystemscareer.com/job/?jid=20898",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-08-03T01:46:00",
+   "score": 1,
+   "reasons": [
+    "משרת סטודנט",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "student",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
@@ -15428,26 +15431,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20508",
-   "company": "Elbit Systems",
-   "title": "Mechanical Quality Inspector",
-   "url": "https://elbitsystemscareer.com/job/?jid=20508",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-18T12:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19346",
    "company": "Elbit Systems",
    "title": "Operations Quality Inspector",
@@ -15458,6 +15441,26 @@
    "score": 1,
    "reasons": [
     "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20508",
+   "company": "Elbit Systems",
+   "title": "Mechanical Quality Inspector",
+   "url": "https://elbitsystemscareer.com/job/?jid=20508",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-18T12:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 10+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15597,6 +15600,26 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20556",
+   "company": "Elbit Systems",
+   "title": "Head of Quality – Electronics Manufacturing Center",
+   "url": "https://elbitsystemscareer.com/job/?jid=20556",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-27T09:46:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19811",
    "company": "Elbit Systems",
    "title": "Design for Testability (DFT) Engineer",
@@ -15608,26 +15631,6 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20556",
-   "company": "Elbit Systems",
-   "title": "Head of Quality – Electronics Manufacturing Center",
-   "url": "https://elbitsystemscareer.com/job/?jid=20556",
-   "location": "Shfela, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-27T09:46:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
@@ -24202,27 +24205,6 @@
    "score": 1,
    "reasons": [
     "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "KLA (Orbotech)|2639791-1",
-   "company": "KLA (Orbotech)",
-   "title": "Senior Software Engineer",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/SW-Engineer_2639791-1",
-   "location": "Migdal Ha'emek, Israel",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
     "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
