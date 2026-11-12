@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:39:25+00:00",
+ "updated": "2026-11-12T14:41:28+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -32619,6 +32619,29 @@
     "רפואי"
    ],
    "first_seen": "2026-11-12T13:48:12+00:00"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/data-engineering-team-leader/9ef5fd2f-54b4-4ddd-b7ac-2139d91abd88",
+   "company": "Mobileye",
+   "title": "Data Engineering Team Leader",
+   "url": "https://careers.mobileye.com/jobs/data-engineering-team-leader/9ef5fd2f-54b4-4ddd-b7ac-2139d91abd88",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-12T14:41:28+00:00"
   }
  ]
 }
