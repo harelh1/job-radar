@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:37:03+00:00",
+ "updated": "2026-11-12T16:39:04+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -4373,6 +4373,25 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "KLA (Orbotech)|2643297-2",
+   "company": "KLA (Orbotech)",
+   "title": "Manufacturing Instructor (FaST)",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/Manufacturing-Instructor--FaST-_2643297-2",
+   "location": "Migdal Ha'emek, Israel",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 14,
+   "reasons": [
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-12T16:39:04+00:00"
   },
   {
    "id": "Elbit Systems|21178",
