@@ -1179,7 +1179,8 @@
    "JR2029804": "2026-11-11T21:46:27+00:00",
    "JR2029481": "2026-11-11T21:46:27+00:00",
    "JR2028975": "2026-11-11T21:46:27+00:00",
-   "JR2029755": "2026-11-11T21:46:27+00:00"
+   "JR2029755": "2026-11-11T21:46:27+00:00",
+   "JR2028826": "2026-11-12T11:34:35+00:00"
   },
   "Marvell": {
    "2603477": "2026-11-09T20:02:53+00:00",
@@ -1606,7 +1607,8 @@
    "R19676": "2026-11-09T20:38:42+00:00",
    "R20033": "2026-11-09T20:38:42+00:00",
    "R20492": "2026-11-09T20:38:42+00:00",
-   "R23670": "2026-11-11T21:46:27+00:00"
+   "R23670": "2026-11-11T21:46:27+00:00",
+   "R23644": "2026-11-12T11:34:35+00:00"
   },
   "SCD": {
    "Senior Research Scientist – III-V Epitaxy": "2026-11-09T20:38:42+00:00",
@@ -1674,7 +1676,7 @@
    "5D.47C": "2026-11-11T21:48:31+00:00"
   }
  },
- "tg_offset": 981000169,
+ "tg_offset": 981000170,
  "shown": [
   "Applied Materials|R2519839",
   "Applied Materials|R2626909",
@@ -1712,11 +1714,6 @@
    "id": "Elbit Systems|21156",
    "title": "Electro-Optical Systems Engineering – Student position",
    "company": "Elbit Systems"
-  },
-  {
-   "id": "NVIDIA|JR2028290",
-   "title": "Electro Optics Student",
-   "company": "NVIDIA"
   },
   {
    "id": "KLA (Orbotech)|2640817-1",
@@ -1757,6 +1754,11 @@
    "id": "Elbit Systems|20928",
    "title": "System Engineering Student – Algorithms Team",
    "company": "Elbit Systems"
+  },
+  {
+   "id": "MKS Ophir|R20589",
+   "title": "סטודנט/ית להנדסת מכונות/אופטיקה",
+   "company": "MKS Ophir"
   }
  ]
 }
