@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:34:35+00:00",
+ "updated": "2026-11-12T11:40:46+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -880,6 +880,28 @@
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/junior-validation-integration-engineer/b1883e14-5a78-4cd4-af6d-f22790187366",
+   "company": "Mobileye",
+   "title": "Junior Validation Integration Engineer",
+   "url": "https://careers.mobileye.com/jobs/junior-validation-integration-engineer/b1883e14-5a78-4cd4-af6d-f22790187366",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 39,
+   "reasons": [
+    "משרת ג'וניור",
+    "בדיקות/אינטגרציה",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-12T11:40:46+00:00"
   },
   {
    "id": "KLA (Orbotech)|2643272",
@@ -31720,29 +31742,6 @@
     "משרת טכנאי/הנדסאי"
    ],
    "kind": "student",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-11T21:46:27+00:00"
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/senior-product-manager-autonomous-urban-driving/bfee467c-d620-41fd-803e-ae9846568ef6",
-   "company": "Mobileye",
-   "title": "Senior Product Manager Autonomous Urban Driving",
-   "url": "https://careers.mobileye.com/jobs/senior-product-manager-autonomous-urban-driving/bfee467c-d620-41fd-803e-ae9846568ef6",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
    "tags": [
     "רכב",
     "דימות",
