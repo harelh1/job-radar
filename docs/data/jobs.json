@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:01:09+00:00",
+ "updated": "2026-11-12T21:35:39+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -21718,28 +21718,6 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2019902",
-   "company": "NVIDIA",
-   "title": "Senior GPU Architect, Deep Learning",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-GPU-Architect--Deep-Learning_JR2019902",
-   "location": "Israel, Tel Aviv, Israel, Raanana, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 12+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "NVIDIA|JR2021493",
    "company": "NVIDIA",
    "title": "Senior High-Performance System Architect",
@@ -25667,6 +25645,28 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2020481",
+   "company": "NVIDIA",
+   "title": "Senior Manager, Host and Systems Performance",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Host-and-Systems-Performance-Senior-Manager_JR2020481",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2021397",
