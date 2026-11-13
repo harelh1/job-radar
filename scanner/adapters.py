@@ -165,6 +165,23 @@ def workable(c):
     } for p in j.get("jobs", [])]
 
 
+# ---------------------------------------------------------------- HiBob careers sites (<sub>.careers.hibob.com)
+def hibob(c):
+    base = f"https://{c['slug']}.careers.hibob.com"
+    j = fetch_json(base + "/api/job-ad", headers={"Referer": base + "/"})
+    out = []
+    for p in j.get("jobAdDetails", []):
+        desc = " ".join(strip_html(p.get(k)) for k in ("description", "requirements", "responsibilities", "benefits")
+                        if isinstance(p.get(k), str))
+        out.append({
+            "key": p["id"], "title": p.get("title", ""), "url": f"{base}/jobs/{p['id']}",
+            "location": ", ".join(x for x in [p.get("site"), p.get("country")] if x),
+            "department": p.get("department", ""), "employment": p.get("employmentType", ""),
+            "description": desc, "posted": p.get("publishedAt") or "",
+        })
+    return out
+
+
 # ---------------------------------------------------------------- Elbit (public JSON feed)
 def elbit(c):
     j = fetch_json("https://elbitsystemscareer.com/cron/jobs.json")
@@ -296,6 +313,6 @@ def page_detail(job, need_location):
 
 ADAPTERS = {
     "comeet": comeet, "workday": workday, "greenhouse": greenhouse, "lever": lever,
-    "smartrecruiters": smartrecruiters, "ashby": ashby, "workable": workable, "elbit": elbit,
+    "smartrecruiters": smartrecruiters, "ashby": ashby, "workable": workable, "hibob": hibob, "elbit": elbit,
     "careerspage": careerspage, "links": links, "scd": scd,
 }

@@ -69,6 +69,7 @@ def from_page(name, url, html_=None):
                     (r"(?:jobs|careers)\.smartrecruiters\.com/([A-Za-z0-9]+)", "smartrecruiters"),
                     (r"jobs\.ashbyhq\.com/([A-Za-z0-9.-]+)", "ashby"),
                     (r"apply\.workable\.com/(?:api/v1/widget/accounts/)?([a-z0-9-]+)", "workable"),
+                    (r"([a-z0-9-]+)\.careers\.hibob\.com", "hibob"),
                     (r"careers-page\.com/([a-z0-9-]+)", "careerspage")]:
         m = re.search(rx, html_ + " " + url)
         if m:
