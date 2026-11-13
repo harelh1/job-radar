@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:09:04+00:00",
+ "updated": "2026-11-13T21:51:20+00:00",
  "pending": [
   {
    "name": "Rafael",
@@ -31,7 +31,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 548
    },
    "careers_url": "https://elbitsystemscareer.com/jobs/",
@@ -47,7 +47,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 82
    },
    "careers_url": null,
@@ -63,7 +63,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 82
    },
    "careers_url": null,
@@ -78,7 +78,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 19
    },
    "careers_url": null,
@@ -96,7 +96,7 @@
     "error": "HTTPError: HTTP Error 500: Internal Server Error",
     "last_ok": "2026-11-13T19:24:29+00:00",
     "count": 398,
-    "last_try": "2026-11-13T21:09:04+00:00"
+    "last_try": "2026-11-13T21:51:20+00:00"
    },
    "careers_url": null,
    "note": null
@@ -110,7 +110,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 7,
     "last_try": "2026-11-09T20:40:20+00:00"
    },
@@ -126,7 +126,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 13
    },
    "careers_url": null,
@@ -142,7 +142,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 49
    },
    "careers_url": null,
@@ -158,7 +158,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 1
    },
    "careers_url": null,
@@ -174,7 +174,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 3
    },
    "careers_url": null,
@@ -190,7 +190,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 8
    },
    "careers_url": null,
@@ -206,7 +206,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 8
    },
    "careers_url": null,
@@ -222,7 +222,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 5
    },
    "careers_url": null,
@@ -237,7 +237,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 23
    },
    "careers_url": null,
@@ -253,7 +253,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 20
    },
    "careers_url": null,
@@ -270,7 +270,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 151
    },
    "careers_url": null,
@@ -285,7 +285,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 0
    },
    "careers_url": null,
@@ -301,7 +301,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 8,
     "last_try": "2026-11-09T20:08:37+00:00"
    },
@@ -318,7 +318,7 @@
     "ok": true,
     "error": null,
     "last_try": "2026-11-11T21:46:27+00:00",
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 21
    },
    "careers_url": null,
@@ -331,7 +331,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 19
    },
    "careers_url": "https://www.camtek.com/careers/open-positions/",
@@ -344,7 +344,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 1
    },
    "careers_url": "https://www.comeet.com/jobs/innoviz/52.004",
@@ -357,7 +357,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 26
    },
    "careers_url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA",
@@ -370,7 +370,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 38
    },
    "careers_url": "https://www.scd-infrared.com/find-a-job/",
@@ -383,7 +383,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 21
    },
    "careers_url": "https://www.comeet.com/jobs/xsightlabs/46.00C",
@@ -396,7 +396,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 1
    },
    "careers_url": "https://www.comeet.com/jobs/innoviz/52.004",
@@ -409,7 +409,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 7
    },
    "careers_url": "https://qslabshr.careers.hibob.com/",
@@ -422,7 +422,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 3
    },
    "careers_url": "https://credo.careers.hibob.com/",
@@ -435,7 +435,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 14
    },
    "careers_url": "https://corephotonics.com/careers/",
@@ -448,7 +448,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 12
    },
    "careers_url": "https://www.orbit-cs.com/careers/",
@@ -461,7 +461,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 5
    },
    "careers_url": "https://www.raicol.com/careers",
@@ -474,7 +474,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 4
    },
    "careers_url": "https://www.quamcore.com/careers",
@@ -487,7 +487,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-13T21:09:04+00:00",
+    "last_ok": "2026-11-13T21:51:20+00:00",
     "count": 7
    },
    "careers_url": "https://www.comeet.com/jobs/almalasers/67.006",
