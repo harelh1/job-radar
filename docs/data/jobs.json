@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:14:16+00:00",
+ "updated": "2026-11-13T08:25:48+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -300,6 +300,25 @@
    "initial": true
   },
   {
+   "id": "Credo|835a5ae5-9fdc-43eb-a4a4-d2a1db274670",
+   "company": "Credo",
+   "title": "R&D Physicist",
+   "url": "https://credo.careers.hibob.com/jobs/835a5ae5-9fdc-43eb-a4a4-d2a1db274670",
+   "location": "Modiin Office, Israel",
+   "department": "53155 IL Silicon Photonics R&D",
+   "posted": "2026-06-30T18:57:11.029075Z",
+   "score": 60,
+   "reasons": [
+    "פיזיקה",
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
    "id": "Applied Materials|R2519839",
    "company": "Applied Materials",
    "title": "Physicist",
@@ -364,6 +383,24 @@
     "אלקטרו-אופטיקה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Quantum Source|94410725-95ea-445b-8d41-9ef58519c147",
+   "company": "Quantum Source",
+   "title": "Researcher to the Theory Group - Quantum Optics",
+   "url": "https://qslabshr.careers.hibob.com/jobs/94410725-95ea-445b-8d41-9ef58519c147",
+   "location": "Rehovot, Israel",
+   "department": "R&D",
+   "posted": "2026-11-11T12:37:18.458166Z",
+   "score": 56,
+   "reasons": [
+    "אופטיקה/פוטוניקה בכותרת",
+    "Python"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -556,6 +593,63 @@
    "initial": true
   },
   {
+   "id": "Quantum Source|675d7096-6542-45c0-919c-b0a6f036a03a",
+   "company": "Quantum Source",
+   "title": "Electro Optical Eng.",
+   "url": "https://qslabshr.careers.hibob.com/jobs/675d7096-6542-45c0-919c-b0a6f036a03a",
+   "location": "Rehovot, Israel",
+   "department": "R&D",
+   "posted": "2026-10-22T11:13:24.585285Z",
+   "score": 50,
+   "reasons": [
+    "אלקטרו-אופטיקה בכותרת",
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Quantum Source|e1342554-6d81-4f3b-bdc7-e98901e7c012",
+   "company": "Quantum Source",
+   "title": "Physicist, Experimental Group",
+   "url": "https://qslabshr.careers.hibob.com/jobs/e1342554-6d81-4f3b-bdc7-e98901e7c012",
+   "location": "Rehovot, Israel",
+   "department": "R&D",
+   "posted": "2026-06-18T11:45:31.462254Z",
+   "score": 50,
+   "reasons": [
+    "פיזיקה",
+    "MATLAB",
+    "Python"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/camera-solution-software-and-algorithms-engineer/",
+   "company": "Corephotonics",
+   "title": "Camera Solution Software And Algorithms Engineer",
+   "url": "https://corephotonics.com/careers/camera-solution-software-and-algorithms-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 50,
+   "reasons": [
+    "דימות/גלאים/מצלמות",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
    "id": "MKS Ophir|R20492",
    "company": "MKS Ophir",
    "title": "Optics Cleaner/עובד/ת להכנת עדשות אופטיות לציפוי",
@@ -661,6 +755,26 @@
     "אלקטרו-אופטיקה"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/optical-engineer-2/",
+   "company": "Corephotonics",
+   "title": "Optical Engineer 2",
+   "url": "https://corephotonics.com/careers/optical-engineer-2/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 45,
+   "reasons": [
+    "אופטיקה/פוטוניקה בכותרת",
+    "Zemax",
+    "רקע אלקטרו-אופטי",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -772,6 +886,23 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Quantum Source|9817e631-7601-4632-8ecb-9f440634e10b",
+   "company": "Quantum Source",
+   "title": "Physicist, Scale up Group",
+   "url": "https://qslabshr.careers.hibob.com/jobs/9817e631-7601-4632-8ecb-9f440634e10b",
+   "location": "Rehovot, Israel",
+   "department": "R&D",
+   "posted": "2026-06-29T09:49:05.620725Z",
+   "score": 41,
+   "reasons": [
+    "פיזיקה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -1469,6 +1600,25 @@
    "initial": true
   },
   {
+   "id": "Raicol Crystals|https://raicol.com/jobs/lab",
+   "company": "Raicol Crystals",
+   "title": "Lab",
+   "url": "https://raicol.com/jobs/lab",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 30,
+   "reasons": [
+    "חומרה/מעבדה",
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|20284",
    "company": "Elbit Systems",
    "title": "HW Validation and Integration engineer",
@@ -1579,6 +1729,44 @@
     "גלאים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Quantum Source|8ab21c65-d3fa-44e9-b733-5bd7aadb814d",
+   "company": "Quantum Source",
+   "title": "Senior Photonics Researcher",
+   "url": "https://qslabshr.careers.hibob.com/jobs/8ab21c65-d3fa-44e9-b733-5bd7aadb814d",
+   "location": "Rehovot, Israel",
+   "department": "R&D",
+   "posted": "2026-04-12T13:30:51.459689Z",
+   "score": 29,
+   "reasons": [
+    "אופטיקה/פוטוניקה בכותרת",
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|3D.B6F",
+   "company": "Orbit",
+   "title": "EO Solutions Engineer",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/eo-solutions-engineer/3D.B6F",
+   "location": "Netanya, Israel",
+   "department": "Solutions",
+   "posted": "2026-11-09T08:34:16Z",
+   "score": 29,
+   "reasons": [
+    "אלקטרו-אופטיקה בכותרת",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -1742,6 +1930,24 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Quantum Source|ee46c34f-4331-41f8-9fa9-00f42b728e79",
+   "company": "Quantum Source",
+   "title": "Researcher to the Theory Group -Quantum Error Correction -",
+   "url": "https://qslabshr.careers.hibob.com/jobs/ee46c34f-4331-41f8-9fa9-00f42b728e79",
+   "location": "Rehovot, Israel",
+   "department": "R&D",
+   "posted": "2026-11-11T12:32:52.864889Z",
+   "score": 28,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "Python"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -1986,6 +2192,27 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/junior-algorithms-engineer/",
+   "company": "Corephotonics",
+   "title": "Junior Algorithms Engineer",
+   "url": "https://corephotonics.com/careers/junior-algorithms-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 26,
+   "reasons": [
+    "משרת ג'וניור",
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -2411,6 +2638,23 @@
    "kind": "student",
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/junior-software-engineer/",
+   "company": "Corephotonics",
+   "title": "Junior Software Engineer",
+   "url": "https://corephotonics.com/careers/junior-software-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 25,
+   "reasons": [
+    "משרת ג'וניור"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -3191,6 +3435,78 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Raicol Crystals|https://raicol.com/jobs/production_floor-2",
+   "company": "Raicol Crystals",
+   "title": "Production Floor 2",
+   "url": "https://raicol.com/jobs/production_floor-2",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 21,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Raicol Crystals|https://raicol.com/jobs/crystal_grow",
+   "company": "Raicol Crystals",
+   "title": "Crystal Grow",
+   "url": "https://raicol.com/jobs/crystal_grow",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 21,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Raicol Crystals|https://raicol.com/jobs/qc",
+   "company": "Raicol Crystals",
+   "title": "Qc",
+   "url": "https://raicol.com/jobs/qc",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 21,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Raicol Crystals|https://raicol.com/jobs/production_floor",
+   "company": "Raicol Crystals",
+   "title": "Production Floor",
+   "url": "https://raicol.com/jobs/production_floor",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 21,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -4111,6 +4427,23 @@
    "first_seen": "2026-11-12T08:44:32+00:00"
   },
   {
+   "id": "QuamCore|https://www.quamcore.com/careers/rfic-quantum-hardware-design-engineer/",
+   "company": "QuamCore",
+   "title": "RFIC / Quantum Hardware Design Engineer",
+   "url": "https://www.quamcore.com/careers/rfic-quantum-hardware-design-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 15,
+   "reasons": [
+    "חומרה/מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|20856",
    "company": "Elbit Systems",
    "title": "System Integrator",
@@ -4374,6 +4707,23 @@
    "first_seen": "2026-11-12T16:39:04+00:00"
   },
   {
+   "id": "Corephotonics|https://corephotonics.com/careers/isp-tuning-engineer/",
+   "company": "Corephotonics",
+   "title": "See Position",
+   "url": "https://corephotonics.com/careers/isp-tuning-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 14,
+   "reasons": [
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21178",
    "company": "Elbit Systems",
    "title": "Data Engineer",
@@ -4567,6 +4917,24 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "QuamCore|https://www.quamcore.com/careers/quantum-device-theorist/",
+   "company": "QuamCore",
+   "title": "Quantum Device Theorist",
+   "url": "https://www.quamcore.com/careers/quantum-device-theorist/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 13,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -5880,6 +6248,25 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/optical-engineer/",
+   "company": "Corephotonics",
+   "title": "See Position",
+   "url": "https://corephotonics.com/careers/optical-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 7,
+   "reasons": [
+    "Zemax",
+    "רקע אלקטרו-אופטי",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
   },
   {
@@ -7815,6 +8202,66 @@
    "first_seen": "2026-11-12T13:48:12+00:00"
   },
   {
+   "id": "Orbit|F3.C6F",
+   "company": "Orbit",
+   "title": "Future Opportunities",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/future-opportunities/F3.C6F",
+   "location": "Netanya, Israel",
+   "department": "Talent Pool",
+   "posted": "2026-11-09T13:07:01Z",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|3D.B60",
+   "company": "Orbit",
+   "title": "איש/אשת אחזקה",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/None/3D.B60",
+   "location": "Netanya, Israel",
+   "department": "Facilities",
+   "posted": "2026-11-03T08:35:38Z",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|58.371",
+   "company": "Orbit",
+   "title": "חווט/ת תעופתית",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/None/58.371",
+   "location": "Netanya, Israel",
+   "department": "Operations",
+   "posted": "2026-11-03T10:59:20Z",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Alma Lasers|69.473",
+   "company": "Alma Lasers",
+   "title": "מחסנאי/ת",
+   "url": "https://almalasers.com/careers/co/caesarea/69.473/%D7%9E%D7%97%D7%A1%D7%A0%D7%90%D7%99-%D7%AA/all/?fbclid=Iwb21leAVivwtjbGNrBWK-_2V4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEfxkcRymw6TA3M653zyulU417XlDw80DWX6N6zuzTvW4u2hi5iSZqR7xPZZvA_aem__eIWeCn55JPC_20fskuTKQ",
+   "location": "Caesarea, Israel",
+   "department": "Operation",
+   "posted": "2026-11-12T15:48:20Z",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19290",
    "company": "Elbit Systems",
    "title": "Senior System Engineer (Optical Communications)- Relocation",
@@ -8554,6 +9001,46 @@
     "אלקטרו-אופטיקה"
    ],
    "first_seen": "2026-11-11T21:46:27+00:00"
+  },
+  {
+   "id": "QuamCore|https://www.quamcore.com/careers/rf-microwave-engineer-superconducting-quantum-hardware/",
+   "company": "QuamCore",
+   "title": "RF/Microwave Engineer – Superconducting Quantum Hardware",
+   "url": "https://www.quamcore.com/careers/rf-microwave-engineer-superconducting-quantum-hardware/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 3,
+   "reasons": [
+    "חומרה/מעבדה",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "QuamCore|https://www.quamcore.com/careers/millimeter-wave-antenna-quantum-hardware-design-engineer/",
+   "company": "QuamCore",
+   "title": "Millimeter-Wave Antenna / Quantum Hardware Design Engineer",
+   "url": "https://www.quamcore.com/careers/millimeter-wave-antenna-quantum-hardware-design-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 3,
+   "reasons": [
+    "חומרה/מעבדה",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
   },
   {
    "id": "Elbit Systems|19608",
@@ -32450,6 +32937,466 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-12T15:40:47+00:00"
+  },
+  {
+   "id": "Quantum Source|b5be4501-ef54-41a5-9bd5-ab1c3257df42",
+   "company": "Quantum Source",
+   "title": "Senior FPGA Team Leader",
+   "url": "https://qslabshr.careers.hibob.com/jobs/b5be4501-ef54-41a5-9bd5-ab1c3257df42",
+   "location": "Rehovot, Israel",
+   "department": "R&D",
+   "posted": "2026-09-23T09:18:17.591460Z",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Credo|b981b0c3-153b-45ea-94ab-2b3607038484",
+   "company": "Credo",
+   "title": "Senior Infrastructure Engineer",
+   "url": "https://credo.careers.hibob.com/jobs/b981b0c3-153b-45ea-94ab-2b3607038484",
+   "location": "Modiin Office, Israel",
+   "department": "13195 IL Information Technology",
+   "posted": "2026-09-14T17:21:03.077260Z",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Credo|6c1c9852-96ed-4b0a-9fe0-295dab2afa16",
+   "company": "Credo",
+   "title": "Production Controller",
+   "url": "https://credo.careers.hibob.com/jobs/6c1c9852-96ed-4b0a-9fe0-295dab2afa16",
+   "location": "Modiin Office, Israel",
+   "department": "43100 IL Operations",
+   "posted": "2026-08-20T16:49:42.756050Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/algorithms-engineer-2",
+   "company": "Corephotonics",
+   "title": "See Position",
+   "url": "https://corephotonics.com/careers/algorithms-engineer-2",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/senior-software-engineer-2",
+   "company": "Corephotonics",
+   "title": "See Position",
+   "url": "https://corephotonics.com/careers/senior-software-engineer-2",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/senior-algorithms-engineer",
+   "company": "Corephotonics",
+   "title": "See Position",
+   "url": "https://corephotonics.com/careers/senior-algorithms-engineer",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/mechanical-engineer-2/",
+   "company": "Corephotonics",
+   "title": "See Position",
+   "url": "https://corephotonics.com/careers/mechanical-engineer-2/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה",
+    "דורש 6+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/Bookkeeper",
+   "company": "Corephotonics",
+   "title": "See Position",
+   "url": "https://corephotonics.com/careers/Bookkeeper",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 6+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/software-engineer/",
+   "company": "Corephotonics",
+   "title": "Software Engineer",
+   "url": "https://corephotonics.com/careers/software-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/senior-algorithms-engineer/",
+   "company": "Corephotonics",
+   "title": "Senior Algorithms Engineer",
+   "url": "https://corephotonics.com/careers/senior-algorithms-engineer/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Corephotonics|https://corephotonics.com/careers/senior-algorithms-engineer-2/",
+   "company": "Corephotonics",
+   "title": "Senior Algorithms Engineer 2",
+   "url": "https://corephotonics.com/careers/senior-algorithms-engineer-2/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|69.E61",
+   "company": "Orbit",
+   "title": "DFT Engineer",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/dft-engineer/69.E61",
+   "location": "Netanya, Israel",
+   "department": "Operations",
+   "posted": "2026-11-01T12:22:40Z",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|3D.B6C",
+   "company": "Orbit",
+   "title": "Director Of Sales And Business Development - Europe",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/director-of-sales-and-business-development---europe/3D.B6C",
+   "location": "Netanya, Israel",
+   "department": "Sales",
+   "posted": "2026-11-12T10:17:26Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|FE.077",
+   "company": "Orbit",
+   "title": "Electromechanical R&D TL",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/electromechanical-rd-tl/FE.077",
+   "location": "Netanya, Israel",
+   "department": "Euclid",
+   "posted": "2026-11-02T11:13:25Z",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "עבודת מעבדה",
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|3D.B67",
+   "company": "Orbit",
+   "title": "Operation Quality Team Leader",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/operation-quality-team-leader/3D.B67",
+   "location": "Netanya, Israel",
+   "department": "Quality",
+   "posted": "2026-10-25T09:15:03Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 8+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|58.370",
+   "company": "Orbit",
+   "title": "Program Manager",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/program-manager/58.370",
+   "location": "Netanya, Israel",
+   "department": "Program",
+   "posted": "2026-11-09T11:10:45Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|2D.B6F",
+   "company": "Orbit",
+   "title": "Senior System Engineer AMS",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/senior-system-engineer-ams/2D.B6F",
+   "location": "Netanya, Israel",
+   "department": "R&D",
+   "posted": "2026-10-29T14:02:10Z",
+   "score": 1,
+   "reasons": [
+    "הנדסת מערכות",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|92.D6F",
+   "company": "Orbit",
+   "title": "מחסנאי/ת ממוחשב",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/None/92.D6F",
+   "location": "Netanya, Israel",
+   "department": "Operations",
+   "posted": "2026-11-02T15:28:26Z",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Orbit|6D.379",
+   "company": "Orbit",
+   "title": "מנהל/ת חשבונות ראשי/ת",
+   "url": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008/--/6D.379",
+   "location": "Netanya, Israel",
+   "department": "Finance",
+   "posted": "2026-11-10T13:42:44Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Alma Lasers|9C.C65",
+   "company": "Alma Lasers",
+   "title": "Clinical Education Specialist",
+   "url": "https://almalasers.com/careers/co/shoham-israel/9C.C65/clinical-education-specialist/all/",
+   "location": "Shoham, Israel",
+   "department": "Medical",
+   "posted": "2026-10-19T08:35:12Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 25+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Alma Lasers|32.C6D",
+   "company": "Alma Lasers",
+   "title": "Digital Marketing Operations & Social Media Specialist",
+   "url": "https://almalasers.com/careers/co/shoham-israel/32.C6D/digital-marketing-content-lead/all/",
+   "location": "Shoham, Israel",
+   "department": "Marketing",
+   "posted": "2026-11-12T13:40:20Z",
+   "score": 1,
+   "reasons": [
+    "דורש 25+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Alma Lasers|59.479",
+   "company": "Alma Lasers",
+   "title": "Electronics Engineer",
+   "url": "https://almalasers.com/careers/co/caesarea/59.479/electronics-engineer/all/",
+   "location": "Caesarea, Israel",
+   "department": "R&D",
+   "posted": "2026-11-11T09:51:10Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Alma Lasers|6D.47B",
+   "company": "Alma Lasers",
+   "title": "Embedded SW Engineer",
+   "url": "https://almalasers.com/careers/co/caesarea/6D.47B/embedded-sw-engineer/all/",
+   "location": "Caesarea, Israel",
+   "department": "R&D",
+   "posted": "2026-11-10T07:53:25Z",
+   "score": 1,
+   "reasons": [
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Alma Lasers|DA.472",
+   "company": "Alma Lasers",
+   "title": "Social Media & Campaign Specialist",
+   "url": "https://almalasers.com/careers/co/caesarea/DA.472/social-media-campaign-specialist/all/",
+   "location": "Caesarea, Israel",
+   "department": "Marketing",
+   "posted": "2026-11-12T10:07:43Z",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
+  },
+  {
+   "id": "Alma Lasers|60.379",
+   "company": "Alma Lasers",
+   "title": "V&V Standards compliance Engineer",
+   "url": "https://almalasers.com/careers/co/caesarea/60.379/vv-standards-compliance-engineer/all/",
+   "location": "Caesarea, Israel",
+   "department": "R&D",
+   "posted": "2026-10-26T12:17:48Z",
+   "score": 1,
+   "reasons": [
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-13T08:25:48+00:00",
+   "initial": true
   }
  ]
 }

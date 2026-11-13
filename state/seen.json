@@ -1683,9 +1683,75 @@
    "6B.272": "2026-11-11T21:48:31+00:00",
    "5D.47C": "2026-11-11T21:48:31+00:00",
    "04.577": "2026-11-12T15:40:47+00:00"
+  },
+  "Quantum Source": {
+   "94410725-95ea-445b-8d41-9ef58519c147": "2026-11-13T08:25:48+00:00",
+   "ee46c34f-4331-41f8-9fa9-00f42b728e79": "2026-11-13T08:25:48+00:00",
+   "675d7096-6542-45c0-919c-b0a6f036a03a": "2026-11-13T08:25:48+00:00",
+   "e1342554-6d81-4f3b-bdc7-e98901e7c012": "2026-11-13T08:25:48+00:00",
+   "b5be4501-ef54-41a5-9bd5-ab1c3257df42": "2026-11-13T08:25:48+00:00",
+   "8ab21c65-d3fa-44e9-b733-5bd7aadb814d": "2026-11-13T08:25:48+00:00",
+   "9817e631-7601-4632-8ecb-9f440634e10b": "2026-11-13T08:25:48+00:00"
+  },
+  "Credo": {
+   "b981b0c3-153b-45ea-94ab-2b3607038484": "2026-11-13T08:25:48+00:00",
+   "6c1c9852-96ed-4b0a-9fe0-295dab2afa16": "2026-11-13T08:25:48+00:00",
+   "835a5ae5-9fdc-43eb-a4a4-d2a1db274670": "2026-11-13T08:25:48+00:00"
+  },
+  "Corephotonics": {
+   "https://corephotonics.com/careers/optical-engineer/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/algorithms-engineer-2": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/senior-software-engineer-2": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/senior-algorithms-engineer": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/mechanical-engineer-2/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/isp-tuning-engineer/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/Bookkeeper": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/junior-algorithms-engineer/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/junior-software-engineer/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/optical-engineer-2/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/software-engineer/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/senior-algorithms-engineer/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/senior-algorithms-engineer-2/": "2026-11-13T08:25:48+00:00",
+   "https://corephotonics.com/careers/camera-solution-software-and-algorithms-engineer/": "2026-11-13T08:25:48+00:00"
+  },
+  "Orbit": {
+   "69.E61": "2026-11-13T08:25:48+00:00",
+   "3D.B6C": "2026-11-13T08:25:48+00:00",
+   "FE.077": "2026-11-13T08:25:48+00:00",
+   "3D.B6F": "2026-11-13T08:25:48+00:00",
+   "F3.C6F": "2026-11-13T08:25:48+00:00",
+   "3D.B67": "2026-11-13T08:25:48+00:00",
+   "58.370": "2026-11-13T08:25:48+00:00",
+   "2D.B6F": "2026-11-13T08:25:48+00:00",
+   "3D.B60": "2026-11-13T08:25:48+00:00",
+   "58.371": "2026-11-13T08:25:48+00:00",
+   "92.D6F": "2026-11-13T08:25:48+00:00",
+   "6D.379": "2026-11-13T08:25:48+00:00"
+  },
+  "Raicol Crystals": {
+   "https://raicol.com/jobs/production_floor-2": "2026-11-13T08:25:48+00:00",
+   "https://raicol.com/jobs/crystal_grow": "2026-11-13T08:25:48+00:00",
+   "https://raicol.com/jobs/lab": "2026-11-13T08:25:48+00:00",
+   "https://raicol.com/jobs/qc": "2026-11-13T08:25:48+00:00",
+   "https://raicol.com/jobs/production_floor": "2026-11-13T08:25:48+00:00"
+  },
+  "QuamCore": {
+   "https://www.quamcore.com/careers/quantum-device-theorist/": "2026-11-13T08:25:48+00:00",
+   "https://www.quamcore.com/careers/rf-microwave-engineer-superconducting-quantum-hardware/": "2026-11-13T08:25:48+00:00",
+   "https://www.quamcore.com/careers/rfic-quantum-hardware-design-engineer/": "2026-11-13T08:25:48+00:00",
+   "https://www.quamcore.com/careers/millimeter-wave-antenna-quantum-hardware-design-engineer/": "2026-11-13T08:25:48+00:00"
+  },
+  "Alma Lasers": {
+   "9C.C65": "2026-11-13T08:25:48+00:00",
+   "32.C6D": "2026-11-13T08:25:48+00:00",
+   "59.479": "2026-11-13T08:25:48+00:00",
+   "6D.47B": "2026-11-13T08:25:48+00:00",
+   "DA.472": "2026-11-13T08:25:48+00:00",
+   "60.379": "2026-11-13T08:25:48+00:00",
+   "69.473": "2026-11-13T08:25:48+00:00"
   }
  },
- "tg_offset": 981000173,
+ "tg_offset": 981000181,
  "shown": [
   "Applied Materials|R2519839",
   "Applied Materials|R2626909",
