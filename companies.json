@@ -11,7 +11,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 548
    },
    "initialized": true
@@ -32,7 +32,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-14T00:27:38+00:00",
     "count": 82,
-    "last_try": "2026-11-14T14:45:27+00:00"
+    "last_try": "2026-11-14T15:22:07+00:00"
    },
    "initialized": true
   },
@@ -52,7 +52,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-14T00:33:39+00:00",
     "count": 82,
-    "last_try": "2026-11-14T14:45:27+00:00"
+    "last_try": "2026-11-14T15:22:07+00:00"
    },
    "initialized": true
   },
@@ -71,7 +71,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-14T00:33:39+00:00",
     "count": 19,
-    "last_try": "2026-11-14T14:45:27+00:00"
+    "last_try": "2026-11-14T15:22:07+00:00"
    },
    "initialized": true
   },
@@ -91,7 +91,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-13T19:24:29+00:00",
     "count": 398,
-    "last_try": "2026-11-14T14:45:27+00:00"
+    "last_try": "2026-11-14T15:22:07+00:00"
    },
    "initialized": true
   },
@@ -110,7 +110,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-14T00:33:39+00:00",
     "count": 7,
-    "last_try": "2026-11-14T14:45:27+00:00"
+    "last_try": "2026-11-14T15:22:07+00:00"
    },
    "initialized": true
   },
@@ -129,7 +129,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-13T23:13:03+00:00",
     "count": 13,
-    "last_try": "2026-11-14T14:45:27+00:00"
+    "last_try": "2026-11-14T15:22:07+00:00"
    },
    "initialized": true
   },
@@ -146,7 +146,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 49
    },
    "initialized": true
@@ -164,7 +164,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 1
    },
    "initialized": true
@@ -182,7 +182,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 3
    },
    "initialized": true
@@ -200,7 +200,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 8
    },
    "initialized": true
@@ -218,7 +218,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 8
    },
    "initialized": true
@@ -236,7 +236,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 5
    },
    "initialized": true
@@ -253,7 +253,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 23
    },
    "initialized": true
@@ -270,7 +270,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 20
    },
    "initialized": true
@@ -289,7 +289,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 151
    },
    "initialized": true
@@ -306,7 +306,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 0
    },
    "initialized": true
@@ -324,7 +324,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 8,
     "last_try": "2026-11-09T20:08:37+00:00"
    },
@@ -343,7 +343,7 @@
     "ok": true,
     "error": null,
     "last_try": "2026-11-14T14:10:32+00:00",
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 21
    },
    "initialized": true
@@ -358,9 +358,9 @@
    "added_by": "telegram",
    "careers_url": "https://www.camtek.com/careers/open-positions/",
    "status": {
-    "ok": false,
-    "error": "HTTPError: HTTP Error 403: Forbidden",
-    "last_ok": "2026-11-14T14:12:35+00:00",
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 19,
     "last_try": "2026-11-14T14:45:27+00:00"
    },
@@ -377,7 +377,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 1
    },
    "initialized": true
@@ -393,9 +393,9 @@
    "added_by": "telegram",
    "careers_url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA",
    "status": {
-    "ok": false,
-    "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-    "last_ok": "2026-11-14T00:31:39+00:00",
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 26,
     "last_try": "2026-11-14T14:45:27+00:00"
    },
@@ -409,9 +409,9 @@
    "added_by": "telegram",
    "careers_url": "https://www.scd-infrared.com/find-a-job/",
    "status": {
-    "ok": false,
-    "error": "HTTPError: HTTP Error 403: Forbidden",
-    "last_ok": "2026-11-14T14:12:35+00:00",
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 38,
     "last_try": "2026-11-14T14:45:27+00:00"
    },
@@ -429,7 +429,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 21,
     "last_try": "2026-11-14T14:10:32+00:00"
    },
@@ -447,7 +447,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 1
    }
   },
@@ -462,7 +462,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 7
    },
    "initialized": true
@@ -478,7 +478,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 3
    },
    "initialized": true
@@ -492,9 +492,9 @@
    "added_by": "telegram",
    "careers_url": "https://corephotonics.com/careers/",
    "status": {
-    "ok": false,
-    "error": "HTTPError: HTTP Error 403: Forbidden",
-    "last_ok": "2026-11-14T14:12:35+00:00",
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 14,
     "last_try": "2026-11-14T14:45:27+00:00"
    },
@@ -512,7 +512,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 12
    },
    "initialized": true
@@ -528,7 +528,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 5
    },
    "initialized": true
@@ -544,7 +544,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 4
    },
    "initialized": true
@@ -561,7 +561,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T14:45:27+00:00",
+    "last_ok": "2026-11-14T15:22:07+00:00",
     "count": 7
    },
    "initialized": true
