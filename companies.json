@@ -11,7 +11,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 548
    },
    "initialized": true
@@ -28,10 +28,11 @@
     "מטרולוגיה"
    ],
    "status": {
-    "ok": true,
-    "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
-    "count": 82
+    "ok": false,
+    "error": "HTTPError: HTTP Error 521: <none>",
+    "last_ok": "2026-11-14T00:27:38+00:00",
+    "count": 82,
+    "last_try": "2026-11-14T00:29:38+00:00"
    },
    "initialized": true
   },
@@ -49,7 +50,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 82
    },
    "initialized": true
@@ -67,7 +68,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 19
    },
    "initialized": true
@@ -88,7 +89,7 @@
     "error": "HTTPError: HTTP Error 521: <none>",
     "last_ok": "2026-11-13T19:24:29+00:00",
     "count": 398,
-    "last_try": "2026-11-14T00:25:43+00:00"
+    "last_try": "2026-11-14T00:29:38+00:00"
    },
    "initialized": true
   },
@@ -105,7 +106,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 7,
     "last_try": "2026-11-09T20:40:20+00:00"
    },
@@ -126,7 +127,7 @@
     "error": "HTTPError: HTTP Error 521: <none>",
     "last_ok": "2026-11-13T23:13:03+00:00",
     "count": 13,
-    "last_try": "2026-11-14T00:25:43+00:00"
+    "last_try": "2026-11-14T00:29:38+00:00"
    },
    "initialized": true
   },
@@ -143,7 +144,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 49
    },
    "initialized": true
@@ -161,7 +162,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 1
    },
    "initialized": true
@@ -179,7 +180,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 3
    },
    "initialized": true
@@ -197,7 +198,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 8
    },
    "initialized": true
@@ -215,7 +216,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 8
    },
    "initialized": true
@@ -233,7 +234,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 5
    },
    "initialized": true
@@ -250,7 +251,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 23
    },
    "initialized": true
@@ -267,7 +268,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 20
    },
    "initialized": true
@@ -286,7 +287,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 151
    },
    "initialized": true
@@ -303,7 +304,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 0
    },
    "initialized": true
@@ -321,7 +322,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 8,
     "last_try": "2026-11-09T20:08:37+00:00"
    },
@@ -337,10 +338,10 @@
     "מוליכים למחצה"
    ],
    "status": {
-    "ok": true,
-    "error": null,
-    "last_try": "2026-11-11T21:46:27+00:00",
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "ok": false,
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "last_try": "2026-11-14T00:29:38+00:00",
+    "last_ok": "2026-11-14T00:27:38+00:00",
     "count": 21
    },
    "initialized": true
@@ -357,7 +358,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 19
    },
    "initialized": true
@@ -373,7 +374,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 1
    },
    "initialized": true
@@ -391,7 +392,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 26
    },
    "initialized": true
@@ -406,7 +407,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 38
    },
    "initialized": true
@@ -421,10 +422,11 @@
    "added_by": "telegram",
    "careers_url": "https://www.comeet.com/jobs/xsightlabs/46.00C",
    "status": {
-    "ok": true,
-    "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
-    "count": 21
+    "ok": false,
+    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "last_ok": "2026-11-14T00:27:38+00:00",
+    "count": 21,
+    "last_try": "2026-11-14T00:29:38+00:00"
    },
    "initialized": true
   },
@@ -440,7 +442,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 1
    }
   },
@@ -455,7 +457,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 7
    },
    "initialized": true
@@ -471,7 +473,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 3
    },
    "initialized": true
@@ -487,7 +489,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 14
    },
    "initialized": true
@@ -504,7 +506,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 12
    },
    "initialized": true
@@ -520,7 +522,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 5
    },
    "initialized": true
@@ -536,7 +538,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 4
    },
    "initialized": true
@@ -553,7 +555,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-14T00:25:43+00:00",
+    "last_ok": "2026-11-14T00:29:38+00:00",
     "count": 7
    },
    "initialized": true
