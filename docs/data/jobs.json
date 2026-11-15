@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:44:38+00:00",
+ "updated": "2026-11-15T21:20:37+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -12867,27 +12867,6 @@
     "דורש 12+ שנות ניסיון"
    ],
    "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|21002",
-   "company": "Elbit Systems",
-   "title": "סטודנט.ית קדם.ת רכש מכני",
-   "url": "https://elbitsystemscareer.com/job/?jid=21002",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-09-02T10:16:00",
-   "score": 1,
-   "reasons": [
-    "משרת סטודנט",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "student",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
