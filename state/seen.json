@@ -647,7 +647,8 @@
    "2643342-1": "2026-11-11T21:46:27+00:00",
    "2641803": "2026-11-11T21:46:27+00:00",
    "2643360-1": "2026-11-11T21:46:27+00:00",
-   "2643297-2": "2026-11-12T16:39:04+00:00"
+   "2643297-2": "2026-11-12T16:39:04+00:00",
+   "2640182-1": "2026-11-15T10:06:59+00:00"
   },
   "Applied Materials": {
    "R2631360": "2026-11-09T20:02:53+00:00",
@@ -1339,7 +1340,8 @@
    "B0.372-47.20D": "2026-11-09T20:02:53+00:00",
    "42.364": "2026-11-09T20:02:53+00:00",
    "02.F63": "2026-11-11T21:46:27+00:00",
-   "40.571": "2026-11-11T21:46:27+00:00"
+   "40.571": "2026-11-11T21:46:27+00:00",
+   "02.377": "2026-11-15T10:06:59+00:00"
   },
   "OpticSolution": {
    "W395V799": "2026-11-09T20:02:53+00:00",
@@ -1537,7 +1539,9 @@
    "https://careers.mobileye.com/jobs/hardware-lab-technician/58a5fc1c-dc5c-4ac3-958e-f814eb8a5271": "2026-11-12T09:41:43+00:00",
    "https://careers.mobileye.com/jobs/junior-validation-integration-engineer/b1883e14-5a78-4cd4-af6d-f22790187366": "2026-11-12T11:40:46+00:00",
    "https://careers.mobileye.com/jobs/data-engineering-team-leader/9ef5fd2f-54b4-4ddd-b7ac-2139d91abd88": "2026-11-12T14:41:28+00:00",
-   "https://careers.mobileye.com/jobs/technical-project-manager/72dc088f-2f63-48b7-8e5c-a5ea354c1ec9": "2026-11-15T09:19:55+00:00"
+   "https://careers.mobileye.com/jobs/technical-project-manager/72dc088f-2f63-48b7-8e5c-a5ea354c1ec9": "2026-11-15T09:19:55+00:00",
+   "https://careers.mobileye.com/jobs/data-validation-engineer/032848ce-2904-4aeb-9caf-3374ddbe8ac4": "2026-11-15T10:06:59+00:00",
+   "https://careers.mobileye.com/jobs/senior-data-ml-engineer/d1b15808-b89c-4b61-b329-438963133015": "2026-11-15T10:06:59+00:00"
   },
   "Tower Semiconductor": {
    "https://careers.towersemi.com/job-description?job_id=9734": "2026-11-09T20:02:53+00:00",
@@ -1738,7 +1742,8 @@
    "3D.B60": "2026-11-13T08:25:48+00:00",
    "58.371": "2026-11-13T08:25:48+00:00",
    "92.D6F": "2026-11-13T08:25:48+00:00",
-   "6D.379": "2026-11-13T08:25:48+00:00"
+   "6D.379": "2026-11-13T08:25:48+00:00",
+   "B4.576": "2026-11-15T10:06:59+00:00"
   },
   "Raicol Crystals": {
    "https://raicol.com/jobs/production_floor-2": "2026-11-13T08:25:48+00:00",
@@ -1763,7 +1768,7 @@
    "69.473": "2026-11-13T08:25:48+00:00"
   }
  },
- "tg_offset": 981000184,
+ "tg_offset": 981000185,
  "shown": [
   "Applied Materials|R2519839",
   "Applied Materials|R2626909",
@@ -1794,6 +1799,7 @@
   "Nova|BD.667",
   "OpticSolution|3W893V8W",
   "OpticSolution|RYW73546",
+  "OpticSolution|X975WWX3",
   "Quantum Source|94410725-95ea-445b-8d41-9ef58519c147",
   "SCD|Student Position in Physics Derivatives Cooled Department",
   "TriEye|60.867"
@@ -1808,6 +1814,11 @@
    "id": "KLA (Orbotech)|2640817-1",
    "title": "Physicist - Electro Optics Engineer",
    "company": "KLA (Orbotech)"
+  },
+  {
+   "id": "OpticSolution|X975WWX3",
+   "title": "R&D Electro-Optics Engineer﻿",
+   "company": "OpticSolution"
   },
   {
    "id": "Applied Materials|R2631898",
@@ -1843,11 +1854,6 @@
    "id": "Elbit Systems|20928",
    "title": "System Engineering Student – Algorithms Team",
    "company": "Elbit Systems"
-  },
-  {
-   "id": "MKS Ophir|R20589",
-   "title": "סטודנט/ית להנדסת מכונות/אופטיקה",
-   "company": "MKS Ophir"
   }
  ]
 }
