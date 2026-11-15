@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:32:55+00:00",
+ "updated": "2026-11-15T08:35:03+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -49,6 +49,28 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "OpticSolution|X975WWX3",
+   "company": "OpticSolution",
+   "title": "R&D Electro-Optics Engineer﻿",
+   "url": "https://careers-page.com/opticsolution/job/X975WWX3",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 81,
+   "reasons": [
+    "אלקטרו-אופטיקה בכותרת",
+    "Zemax",
+    "רקע אלקטרו-אופטי",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-15T08:35:02+00:00"
   },
   {
    "id": "Applied Materials|R2631898",
@@ -19352,27 +19374,6 @@
     "Python",
     "עבודת מעבדה",
     "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|X985XR3R",
-   "company": "OpticSolution",
-   "title": "Quality Department Manager",
-   "url": "https://careers-page.com/opticsolution/job/X985XR3R",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
