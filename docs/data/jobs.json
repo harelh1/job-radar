@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T14:29:07+00:00",
+ "updated": "2026-11-15T15:05:49+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -23630,25 +23630,6 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2023537",
-   "company": "NVIDIA",
-   "title": "Product Management and Configuration Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Product-Management-and-Configuration-Engineer_JR2023537",
-   "location": "Israel, Tel Aviv, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
-  },
-  {
    "id": "NVIDIA|JR2023204",
    "company": "NVIDIA",
    "title": "Principal Engineer, Project Management - Chip Power",
@@ -30973,6 +30954,24 @@
    "initial": true
   },
   {
+   "id": "Innoviz|CA.47E",
+   "company": "Innoviz",
+   "title": "Business Development Director – Defense Industry (DC Metropolitan Area - Remote)",
+   "url": "https://innoviz.tech/careers-3/co/usa/CA.47E/business-development-director-defense-industry-dc-metropolitan-area-remote/all",
+   "location": "Santa Clara, US",
+   "department": "Business",
+   "posted": "2026-11-15T07:54:33Z",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון",
+    "דורש סיווג ביטחוני"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00"
+  },
+  {
    "id": "Innoviz|CF.E6E",
    "company": "Innoviz",
    "title": "Director of Sales & Business Development - EU Defense & Security",
@@ -30990,6 +30989,44 @@
    "tags": [],
    "first_seen": "2026-11-09T20:38:42+00:00",
    "initial": true
+  },
+  {
+   "id": "Innoviz|BE.47D",
+   "company": "Innoviz",
+   "title": "Field Application Engineer (FAE) - Munich, Germany",
+   "url": "https://innoviz.tech/careers-3/co/germany/BE.47D/field-application-engineer-fae-munich-germany/all",
+   "location": "Munich, DE",
+   "department": "Business",
+   "posted": "2026-11-15T00:28:28Z",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00"
+  },
+  {
+   "id": "Elbit Systems|21204",
+   "company": "Elbit Systems",
+   "title": "מהנדס.ת אלגוריתמים בכיר (AI)",
+   "url": "https://elbitsystemscareer.com/job/?jid=21204",
+   "location": "North, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-11-08T01:46:00",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-11T21:46:27+00:00"
   },
   {
    "id": "Elbit Systems|21212",
@@ -31023,26 +31060,6 @@
    "reasons": [
     "משרה בכירה",
     "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-11T21:46:27+00:00"
-  },
-  {
-   "id": "Elbit Systems|21204",
-   "company": "Elbit Systems",
-   "title": "מהנדס.ת אלגוריתמים בכיר (AI)",
-   "url": "https://elbitsystemscareer.com/job/?jid=21204",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-11-08T01:46:00",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
