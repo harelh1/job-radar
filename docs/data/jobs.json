@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:47:56+00:00",
+ "updated": "2026-11-15T12:52:04+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -1096,6 +1096,27 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "Applied Materials|R2614690",
+   "company": "Applied Materials",
+   "title": "Student Lab Assistant",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/PWP-reaserch-Student_R2614690",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 37,
+   "reasons": [
+    "משרת סטודנט",
+    "חומרה/מעבדה",
+    "עבודת מעבדה"
+   ],
+   "kind": "student",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-15T12:52:04+00:00"
   },
   {
    "id": "Elbit Systems|20527",
@@ -9197,6 +9218,46 @@
    "first_seen": "2026-11-12T11:34:35+00:00"
   },
   {
+   "id": "Elbit Systems|21193",
+   "company": "Elbit Systems",
+   "title": "מזכיר.ת מפעל",
+   "url": "https://elbitsystemscareer.com/job/?jid=21193",
+   "location": "North, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-11-04T11:46:00",
+   "score": 1,
+   "reasons": [
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|19458",
+   "company": "Elbit Systems",
+   "title": "Board Design Engineer",
+   "url": "https://elbitsystemscareer.com/job/?jid=19458",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2025-12-09T11:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21004",
    "company": "Elbit Systems",
    "title": "Quality Engineer",
@@ -10308,26 +10369,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|19458",
-   "company": "Elbit Systems",
-   "title": "Board Design Engineer",
-   "url": "https://elbitsystemscareer.com/job/?jid=19458",
-   "location": "Shfela, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2025-12-09T11:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|21097",
    "company": "Elbit Systems",
    "title": "System Engineer",
@@ -10676,26 +10717,6 @@
    "score": 1,
    "reasons": [
     "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|21193",
-   "company": "Elbit Systems",
-   "title": "מזכיר.ת מפעל",
-   "url": "https://elbitsystemscareer.com/job/?jid=21193",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-11-04T11:46:00",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי"
    ],
    "kind": "full",
    "tags": [
@@ -31865,25 +31886,6 @@
     "Python",
     "משרה בכירה",
     "דורש 6+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-11T21:46:27+00:00"
-  },
-  {
-   "id": "NVIDIA|JR2028307",
-   "company": "NVIDIA",
-   "title": "Software Automation Specialist",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Automation-Specialist_JR2028307",
-   "location": "Israel, Yokneam, Israel, Tel Aviv",
-   "department": "",
-   "posted": "Posted Yesterday",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה"
    ],
    "kind": "full",
    "tags": [
