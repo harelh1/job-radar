@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:53:15+00:00",
+ "updated": "2026-11-16T14:26:15+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -4870,6 +4870,24 @@
    "initial": true
   },
   {
+   "id": "HP Indigo|3167955-1",
+   "company": "HP Indigo",
+   "title": "Integrator – Industrial Digital Printing Production Line",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Kiryat-Gat-South-District-Israel/Integrator---Industrial-Digital-Printing-Production-Line_3167955-1",
+   "location": "Kiryat-Gat, South District, Israel",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 14,
+   "reasons": [
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "דימות"
+   ],
+   "first_seen": "2026-11-16T14:26:15+00:00"
+  },
+  {
    "id": "Elbit Systems|21178",
    "company": "Elbit Systems",
    "title": "Data Engineer",
@@ -5963,6 +5981,26 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-16T06:43:42+00:00"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/business-operations-coordinator/3598731b-e2b3-4bd2-8bce-7a17aecf7421",
+   "company": "Mobileye",
+   "title": "Business Operations Coordinator",
+   "url": "https://careers.mobileye.com/jobs/business-operations-coordinator/3598731b-e2b3-4bd2-8bce-7a17aecf7421",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 10,
+   "reasons": [
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-16T14:26:15+00:00"
   },
   {
    "id": "Elbit Systems|21163",
@@ -8580,6 +8618,28 @@
    "first_seen": "2026-11-15T10:06:59+00:00"
   },
   {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/integration-engineering/7de4df6f-46b4-4804-8ab3-08811de2e99b",
+   "company": "Mobileye",
+   "title": "Integration Engineering",
+   "url": "https://careers.mobileye.com/jobs/integration-engineering/7de4df6f-46b4-4804-8ab3-08811de2e99b",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 5,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-16T14:26:15+00:00"
+  },
+  {
    "id": "Mobileye|https://careers.mobileye.com/jobs/asic-design-cad-engineer/d7f78946-7b47-439b-92b7-a18eb2545982",
    "company": "Mobileye",
    "title": "Asic Design Cad Engineer",
@@ -9119,6 +9179,28 @@
    "initial": true
   },
   {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/deep-learning-algorithm-engineer-learnedpolicy-group/01a16cde-2ce4-4c80-a6df-fe56bc223816",
+   "company": "Mobileye",
+   "title": "Deep Learning Algorithm Engineer Learnedpolicy Group",
+   "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-engineer-learnedpolicy-group/01a16cde-2ce4-4c80-a6df-fe56bc223816",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 3,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-16T14:26:15+00:00"
+  },
+  {
    "id": "Elbit Systems|19608",
    "company": "Elbit Systems",
    "title": "Lead System Engineer",
@@ -9263,6 +9345,29 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-12T11:34:35+00:00"
+  },
+  {
+   "id": "Elbit Systems|20694",
+   "company": "Elbit Systems",
+   "title": "GenAI Engineering Expert",
+   "url": "https://elbitsystemscareer.com/job/?jid=20694",
+   "location": "Holon, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-06-18T09:16:00",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
   },
   {
    "id": "Elbit Systems|20736",
@@ -10479,29 +10584,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20694",
-   "company": "Elbit Systems",
-   "title": "GenAI Engineering Expert",
-   "url": "https://elbitsystemscareer.com/job/?jid=20694",
-   "location": "Holon, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-06-18T09:16:00",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20562",
    "company": "Elbit Systems",
    "title": "Employee Experience Specialist",
@@ -11511,28 +11593,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20855",
-   "company": "Elbit Systems",
-   "title": "Technical Production Manager",
-   "url": "https://elbitsystemscareer.com/job/?jid=20855",
-   "location": "Karmiel, Israel",
-   "department": "כלי טיס",
-   "posted": "2026-07-19T11:46:00",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20840",
    "company": "Elbit Systems",
    "title": "Operational Excellence Lead",
@@ -11824,26 +11884,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20100",
-   "company": "Elbit Systems",
-   "title": "הנדסאי.ת אלקטרוניקה",
-   "url": "https://elbitsystemscareer.com/job/?jid=20100",
-   "location": "North, Israel",
-   "department": "כלי טיס",
-   "posted": "2026-02-15T01:46:00",
-   "score": 1,
-   "reasons": [
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20011",
    "company": "Elbit Systems",
    "title": "Software Embedded Manager",
@@ -11918,6 +11958,26 @@
    "score": 1,
    "reasons": [
     "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20100",
+   "company": "Elbit Systems",
+   "title": "הנדסאי.ת אלקטרוניקה",
+   "url": "https://elbitsystemscareer.com/job/?jid=20100",
+   "location": "North, Israel",
+   "department": "כלי טיס",
+   "posted": "2026-02-15T01:46:00",
+   "score": 1,
+   "reasons": [
     "משרת טכנאי/הנדסאי"
    ],
    "kind": "full",
@@ -18556,29 +18616,6 @@
    "initial": true
   },
   {
-   "id": "Nova|CE.461",
-   "company": "Nova",
-   "title": "Assembly and Calibration Technician",
-   "url": "https://www.novami.com/comeetitem/ce461/",
-   "location": "Rehovot, IL",
-   "department": "Manufacture Engineering",
-   "posted": "2026-11-08T05:19:23Z",
-   "score": 1,
-   "reasons": [
-    "רקע אלקטרו-אופטי",
-    "עבודת מעבדה",
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Nova|88.E62",
    "company": "Nova",
    "title": "Assembly Technician",
@@ -20810,72 +20847,6 @@
    "initial": true
   },
   {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/production-quality-engineer/0a1d7baf-bfbe-466a-b12b-05ca3936108c",
-   "company": "Mobileye",
-   "title": "Production Quality Engineer",
-   "url": "https://careers.mobileye.com/jobs/production-quality-engineer/0a1d7baf-bfbe-466a-b12b-05ca3936108c",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/production-quality-engineer/23239c7c-5aa1-449b-bc44-4b754d4f42c5",
-   "company": "Mobileye",
-   "title": "Production Quality Engineer",
-   "url": "https://careers.mobileye.com/jobs/production-quality-engineer/23239c7c-5aa1-449b-bc44-4b754d4f42c5",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/production-quality-engineer/6c2c3630-b6cc-465b-9671-2a5dbbf0017d",
-   "company": "Mobileye",
-   "title": "Production Quality Engineer",
-   "url": "https://careers.mobileye.com/jobs/production-quality-engineer/6c2c3630-b6cc-465b-9671-2a5dbbf0017d",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Mobileye|https://careers.mobileye.com/jobs/production-quality-engineer/ad23da3b-e74e-4b41-84b5-bb8abfa125a6",
    "company": "Mobileye",
    "title": "Production Quality Engineer",
@@ -21015,29 +20986,6 @@
    "initial": true
   },
   {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/commercial-legal-counsel/bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0",
-   "company": "Mobileye",
-   "title": "Commercial Legal Counsel",
-   "url": "https://careers.mobileye.com/jobs/commercial-legal-counsel/bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "דורש 8+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Mobileye|https://careers.mobileye.com/jobs/ehs-specialist-safety-officer/04c8ffeb-012c-4461-88a1-58acc073958b",
    "company": "Mobileye",
    "title": "Ehs Specialist Safety Officer",
@@ -21072,6 +21020,29 @@
     "בדיקות/אינטגרציה",
     "עבודת מעבדה",
     "דורש 4+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/commercial-legal-counsel/bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0",
+   "company": "Mobileye",
+   "title": "Commercial Legal Counsel",
+   "url": "https://careers.mobileye.com/jobs/commercial-legal-counsel/bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 8+ שנות ניסיון",
     "תחום פחות רלוונטי"
    ],
    "kind": "full",
@@ -23613,28 +23584,6 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2023917",
-   "company": "NVIDIA",
-   "title": "Senior Product Security Compliance Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Product-Security-Compliance-Architect_JR2023917",
-   "location": "Israel, Tel Aviv, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "NVIDIA|JR2024292",
    "company": "NVIDIA",
    "title": "Senior RDMA and Networking Architect",
@@ -24893,28 +24842,6 @@
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2014234-1",
-   "company": "NVIDIA",
-   "title": "Manager, SONiC Software",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Manager--SONiC-Software_JR2014234-1",
-   "location": "Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -26446,27 +26373,6 @@
    "reasons": [
     "משרה בכירה",
     "דורש 12+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2026101",
-   "company": "NVIDIA",
-   "title": "Senior NPI Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-NPI-Engineer_JR2026101",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -29634,28 +29540,6 @@
    "reasons": [
     "עבודת מעבדה",
     "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "רדאר",
-    "רכב"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Arbe Robotics|5F.F63",
-   "company": "Arbe Robotics",
-   "title": "IC Product Engineer",
-   "url": "https://arberobotics.com/career/co/tel-aviv/5F.F63/ic-product-engineer/",
-   "location": "Tel Aviv-Yafo, IL",
-   "department": "Operations",
-   "posted": "2026-11-09T08:34:35Z",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -33341,6 +33225,73 @@
     "אלקטרו-אופטיקה"
    ],
    "first_seen": "2026-11-16T11:53:15+00:00"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/system-integration-engineer/cb66d92f-f4e9-4578-9d51-2ac0394aca20",
+   "company": "Mobileye",
+   "title": "System Integration Engineer",
+   "url": "https://careers.mobileye.com/jobs/system-integration-engineer/cb66d92f-f4e9-4578-9d51-2ac0394aca20",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 6+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-16T14:26:15+00:00"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/data-product-manager/02a8ccb8-8d69-4862-a85a-5b28b5777716",
+   "company": "Mobileye",
+   "title": "Data Product Manager",
+   "url": "https://careers.mobileye.com/jobs/data-product-manager/02a8ccb8-8d69-4862-a85a-5b28b5777716",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-16T14:26:15+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2029070",
+   "company": "NVIDIA",
+   "title": "Senior DevOps Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DevOps-Engineer_JR2029070",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-16T14:26:15+00:00"
   }
  ]
 }

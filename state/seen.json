@@ -1214,7 +1214,8 @@
    "JR2029278": "2026-11-16T02:58:48+00:00",
    "JR2029724": "2026-11-16T02:58:48+00:00",
    "JR2026683": "2026-11-16T09:26:01+00:00",
-   "JR2026084-9": "2026-11-16T11:53:15+00:00"
+   "JR2026084-9": "2026-11-16T11:53:15+00:00",
+   "JR2029070": "2026-11-16T14:26:15+00:00"
   },
   "Marvell": {
    "2603477": "2026-11-09T20:02:53+00:00",
@@ -1245,7 +1246,8 @@
    "3166538-1": "2026-11-09T20:02:53+00:00",
    "3162826-1": "2026-11-09T20:02:53+00:00",
    "UNI4534-2": "2026-11-10T11:52:28+00:00",
-   "UNI4538-1": "2026-11-11T07:42:49+00:00"
+   "UNI4538-1": "2026-11-11T07:42:49+00:00",
+   "3167955-1": "2026-11-16T14:26:15+00:00"
   },
   "Nova": {
    "96.476": "2026-11-09T20:02:53+00:00",
@@ -1570,7 +1572,12 @@
    "https://careers.mobileye.com/jobs/software-developer/2a817378-710e-43df-929b-a53ce94f1daa": "2026-11-16T09:26:01+00:00",
    "https://careers.mobileye.com/jobs/software-developer/c57aff9f-88fb-4fa2-b970-60c59a16b58b": "2026-11-16T09:26:01+00:00",
    "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer-sun/48bc6d00-8668-41e4-803d-22fe7c74fcf8": "2026-11-16T10:52:36+00:00",
-   "https://careers.mobileye.com/jobs/algorithm-sw-developer-student-calibration-team/bbeb4626-09ea-4975-b5a2-56e4441b8784": "2026-11-16T11:53:15+00:00"
+   "https://careers.mobileye.com/jobs/algorithm-sw-developer-student-calibration-team/bbeb4626-09ea-4975-b5a2-56e4441b8784": "2026-11-16T11:53:15+00:00",
+   "https://careers.mobileye.com/jobs/deep-learning-algorithm-engineer-learnedpolicy-group/01a16cde-2ce4-4c80-a6df-fe56bc223816": "2026-11-16T14:26:15+00:00",
+   "https://careers.mobileye.com/jobs/system-integration-engineer/cb66d92f-f4e9-4578-9d51-2ac0394aca20": "2026-11-16T14:26:15+00:00",
+   "https://careers.mobileye.com/jobs/integration-engineering/7de4df6f-46b4-4804-8ab3-08811de2e99b": "2026-11-16T14:26:15+00:00",
+   "https://careers.mobileye.com/jobs/business-operations-coordinator/3598731b-e2b3-4bd2-8bce-7a17aecf7421": "2026-11-16T14:26:15+00:00",
+   "https://careers.mobileye.com/jobs/data-product-manager/02a8ccb8-8d69-4862-a85a-5b28b5777716": "2026-11-16T14:26:15+00:00"
   },
   "Tower Semiconductor": {
    "https://careers.towersemi.com/job-description?job_id=9734": "2026-11-09T20:02:53+00:00",
