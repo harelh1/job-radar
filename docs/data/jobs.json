@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:43:42+00:00",
+ "updated": "2026-11-16T06:45:39+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -7692,6 +7692,23 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20944",
+   "company": "Elbit Systems",
+   "title": "פלנר.ית",
+   "url": "https://elbitsystemscareer.com/job/?jid=20944",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-08-17T06:46:00",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Elbit Systems|20876",
    "company": "Elbit Systems",
    "title": "מחווט.ת כבלים ורתמות",
@@ -7708,23 +7725,6 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
-  },
-  {
-   "id": "Elbit Systems|20944",
-   "company": "Elbit Systems",
-   "title": "פלנר.ית",
-   "url": "https://elbitsystemscareer.com/job/?jid=20944",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-08-17T06:46:00",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "KLA (Orbotech)|2634646-1",
@@ -15478,6 +15478,25 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|19703",
+   "company": "Elbit Systems",
+   "title": "מהנדס.ת תוכנה Real Time Embedded מנוסה",
+   "url": "https://elbitsystemscareer.com/job/?jid=19703",
+   "location": "Jerusalem Area, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2025-05-22T12:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Elbit Systems|19705",
    "company": "Elbit Systems",
    "title": "מנהל.ת תפעול מנוסה",
@@ -15488,46 +15507,6 @@
    "score": 1,
    "reasons": [
     "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|19704",
-   "company": "Elbit Systems",
-   "title": "מהנדס.ת מערכת",
-   "url": "https://elbitsystemscareer.com/job/?jid=19704",
-   "location": "Jerusalem Area, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2025-05-22T12:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20699",
-   "company": "Elbit Systems",
-   "title": "מכונאי.ת אחזקה",
-   "url": "https://elbitsystemscareer.com/job/?jid=20699",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-06-21T11:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15551,6 +15530,26 @@
     "תחום פחות רלוונטי"
    ],
    "kind": "student",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20699",
+   "company": "Elbit Systems",
+   "title": "מכונאי.ת אחזקה",
+   "url": "https://elbitsystemscareer.com/job/?jid=20699",
+   "location": "North, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-06-21T11:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
@@ -15774,26 +15773,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|19346",
-   "company": "Elbit Systems",
-   "title": "Operations Quality Inspector",
-   "url": "https://elbitsystemscareer.com/job/?jid=19346",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2025-03-27T01:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20508",
    "company": "Elbit Systems",
    "title": "Mechanical Quality Inspector",
@@ -15804,6 +15783,26 @@
    "score": 1,
    "reasons": [
     "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|19346",
+   "company": "Elbit Systems",
+   "title": "Operations Quality Inspector",
+   "url": "https://elbitsystemscareer.com/job/?jid=19346",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2025-03-27T01:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15919,26 +15918,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20556",
-   "company": "Elbit Systems",
-   "title": "Head of Quality – Electronics Manufacturing Center",
-   "url": "https://elbitsystemscareer.com/job/?jid=20556",
-   "location": "Shfela, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-27T09:46:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19811",
    "company": "Elbit Systems",
    "title": "Design for Testability (DFT) Engineer",
@@ -15950,6 +15929,26 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20556",
+   "company": "Elbit Systems",
+   "title": "Head of Quality – Electronics Manufacturing Center",
+   "url": "https://elbitsystemscareer.com/job/?jid=20556",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-27T09:46:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
