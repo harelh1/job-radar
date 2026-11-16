@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:32:06+00:00",
+ "updated": "2026-11-16T10:52:36+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -4318,6 +4318,28 @@
    "initial": true
   },
   {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/deep-learning-algorithm-developer-sun/48bc6d00-8668-41e4-803d-22fe7c74fcf8",
+   "company": "Mobileye",
+   "title": "Deep Learning Algorithm Developer Sun",
+   "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer-sun/48bc6d00-8668-41e4-803d-22fe7c74fcf8",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 17,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "Python",
+    "עבודת מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-16T10:52:36+00:00"
+  },
+  {
    "id": "Elbit Systems|19022",
    "company": "Elbit Systems",
    "title": "System Engineer",
@@ -6369,13 +6391,13 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|21199",
+   "id": "Elbit Systems|21051",
    "company": "Elbit Systems",
-   "title": "Pre-Sale",
-   "url": "https://elbitsystemscareer.com/job/?jid=21199",
-   "location": "Center, Israel",
-   "department": "תקשוב וסייבר",
-   "posted": "2026-11-05T01:46:00",
+   "title": "פלנר.ית לעיתוד מלאי",
+   "url": "https://elbitsystemscareer.com/job/?jid=21051",
+   "location": "North, Israel",
+   "department": "כלי טיס",
+   "posted": "2026-09-10T12:16:00",
    "score": 6,
    "reasons": [],
    "kind": "full",
@@ -6387,13 +6409,13 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|21051",
+   "id": "Elbit Systems|21199",
    "company": "Elbit Systems",
-   "title": "פלנר.ית לעיתוד מלאי",
-   "url": "https://elbitsystemscareer.com/job/?jid=21051",
-   "location": "North, Israel",
-   "department": "כלי טיס",
-   "posted": "2026-09-10T12:16:00",
+   "title": "Pre-Sale",
+   "url": "https://elbitsystemscareer.com/job/?jid=21199",
+   "location": "Center, Israel",
+   "department": "תקשוב וסייבר",
+   "posted": "2026-11-05T01:46:00",
    "score": 6,
    "reasons": [],
    "kind": "full",
@@ -6954,24 +6976,6 @@
    "location": "South, Israel",
    "department": "כלי טיס",
    "posted": "2026-08-27T08:46:00",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20981",
-   "company": "Elbit Systems",
-   "title": "מחווט.ת",
-   "url": "https://elbitsystemscareer.com/job/?jid=20981",
-   "location": "North, Israel",
-   "department": "כלי טיס",
-   "posted": "2026-08-27T11:46:00",
    "score": 6,
    "reasons": [],
    "kind": "full",
@@ -9241,6 +9245,26 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-12T11:34:35+00:00"
+  },
+  {
+   "id": "Elbit Systems|20901",
+   "company": "Elbit Systems",
+   "title": "Mechanical Design Engineer",
+   "url": "https://elbitsystemscareer.com/job/?jid=20901",
+   "location": "Sharon, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-07-26T01:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
   },
   {
    "id": "Elbit Systems|19545",
@@ -14433,26 +14457,6 @@
    "score": 1,
    "reasons": [
     "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20901",
-   "company": "Elbit Systems",
-   "title": "Mechanical Design Engineer",
-   "url": "https://elbitsystemscareer.com/job/?jid=20901",
-   "location": "Sharon, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-07-26T01:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -26189,27 +26193,6 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2024027",
-   "company": "NVIDIA",
-   "title": "Linux Driver Developer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Linux-Driver-Developer_JR2024027",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "NVIDIA|JR2023247-1",
    "company": "NVIDIA",
    "title": "Senior Software Engineer, Network System Validation",
@@ -26379,29 +26362,6 @@
    "score": 1,
    "reasons": [
     "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2025452",
-   "company": "NVIDIA",
-   "title": "Senior Hardware Program Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Hardware-Program-Manager_JR2025452",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 26 Days Ago",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
    ],
    "kind": "full",
    "tags": [
@@ -28224,26 +28184,6 @@
    "company": "NVIDIA",
    "title": "Senior Architect, IC-System",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Architect--IC-System_JR2023310",
-   "location": "Israel, Tel Aviv",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2022987",
-   "company": "NVIDIA",
-   "title": "Senior Networking Architect, Space Systems",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Networking-Architect--Space-Systems_JR2022987",
    "location": "Israel, Tel Aviv",
    "department": "",
    "posted": "Posted 30+ Days Ago",
@@ -33238,25 +33178,6 @@
    "first_seen": "2026-11-16T02:58:48+00:00"
   },
   {
-   "id": "Elbit Systems|20808",
-   "company": "Elbit Systems",
-   "title": "פלנר.ית תפ\"י - החלפה לחל\"ד",
-   "url": "https://elbitsystemscareer.com/job/?jid=20808",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-07-08T09:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-16T09:26:01+00:00"
-  },
-  {
    "id": "Elbit Systems|19580",
    "company": "Elbit Systems",
    "title": "רכז.ת גיוס משרת סטודנט.ית",
@@ -33270,6 +33191,25 @@
     "תחום פחות רלוונטי"
    ],
    "kind": "student",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-16T09:26:01+00:00"
+  },
+  {
+   "id": "Elbit Systems|20808",
+   "company": "Elbit Systems",
+   "title": "פלנר.ית תפ\"י - החלפה לחל\"ד",
+   "url": "https://elbitsystemscareer.com/job/?jid=20808",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-07-08T09:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
