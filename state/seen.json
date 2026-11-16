@@ -558,7 +558,11 @@
    "21214": "2026-11-12T06:29:52+00:00",
    "21152": "2026-11-12T08:52:37+00:00",
    "21218": "2026-11-12T13:48:12+00:00",
-   "21164": "2026-11-15T08:32:55+00:00"
+   "21164": "2026-11-15T08:32:55+00:00",
+   "21202": "2026-11-16T09:26:01+00:00",
+   "21216": "2026-11-16T09:26:01+00:00",
+   "19580": "2026-11-16T09:26:01+00:00",
+   "20808": "2026-11-16T09:26:01+00:00"
   },
   "KLA (Orbotech)": {
    "2638257-1": "2026-11-09T20:02:53+00:00",
@@ -1206,7 +1210,8 @@
    "JR2029393-1": "2026-11-16T02:54:39+00:00",
    "JR2028494-1": "2026-11-16T02:58:48+00:00",
    "JR2029278": "2026-11-16T02:58:48+00:00",
-   "JR2029724": "2026-11-16T02:58:48+00:00"
+   "JR2029724": "2026-11-16T02:58:48+00:00",
+   "JR2026683": "2026-11-16T09:26:01+00:00"
   },
   "Marvell": {
    "2603477": "2026-11-09T20:02:53+00:00",
@@ -1554,7 +1559,13 @@
    "https://careers.mobileye.com/jobs/data-validation-engineer/032848ce-2904-4aeb-9caf-3374ddbe8ac4": "2026-11-15T10:06:59+00:00",
    "https://careers.mobileye.com/jobs/senior-data-ml-engineer/d1b15808-b89c-4b61-b329-438963133015": "2026-11-15T10:06:59+00:00",
    "https://careers.mobileye.com/jobs/senior-data-product-validation-engineer/032848ce-2904-4aeb-9caf-3374ddbe8ac4": "2026-11-15T12:02:19+00:00",
-   "https://careers.mobileye.com/jobs/deep-learning-developer-rem-modeling/173fb0c4-6d9d-4131-93d4-a41845dc6398": "2026-11-16T06:43:42+00:00"
+   "https://careers.mobileye.com/jobs/deep-learning-developer-rem-modeling/173fb0c4-6d9d-4131-93d4-a41845dc6398": "2026-11-16T06:43:42+00:00",
+   "https://careers.mobileye.com/jobs/algorithm-developer-student/0ea9583a-7cee-48d2-91b7-efaa08725de2": "2026-11-16T09:26:01+00:00",
+   "https://careers.mobileye.com/jobs/algorithm-group-manager-close-range-3d-perception/0b514132-2134-473a-bc28-9a7d55ebf0e7": "2026-11-16T09:26:01+00:00",
+   "https://careers.mobileye.com/jobs/data-scientist/babc54fb-939c-44a4-ba19-fa39b10d6831": "2026-11-16T09:26:01+00:00",
+   "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer/c359a528-8058-4393-818b-52e162418a58": "2026-11-16T09:26:01+00:00",
+   "https://careers.mobileye.com/jobs/software-developer/2a817378-710e-43df-929b-a53ce94f1daa": "2026-11-16T09:26:01+00:00",
+   "https://careers.mobileye.com/jobs/software-developer/c57aff9f-88fb-4fa2-b970-60c59a16b58b": "2026-11-16T09:26:01+00:00"
   },
   "Tower Semiconductor": {
    "https://careers.towersemi.com/job-description?job_id=9734": "2026-11-09T20:02:53+00:00",
@@ -1783,7 +1794,7 @@
    "69.473": "2026-11-13T08:25:48+00:00"
   }
  },
- "tg_offset": 981000187,
+ "tg_offset": 981000188,
  "shown": [
   "Applied Materials|R2519839",
   "Applied Materials|R2626909",
