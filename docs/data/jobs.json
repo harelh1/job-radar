@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T09:45:22+00:00",
+ "updated": "2026-11-17T09:47:25+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -4879,6 +4879,28 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20476",
+   "company": "Elbit Systems",
+   "title": "Experienced System Engineer",
+   "url": "https://elbitsystemscareer.com/job/?jid=20476",
+   "location": "Modiin, Israel",
+   "department": "כלי טיס",
+   "posted": "2026-05-11T07:16:00",
+   "score": 13,
+   "reasons": [
+    "הנדסת מערכות",
+    "MATLAB",
+    "Python",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Elbit Systems|19901",
    "company": "Elbit Systems",
    "title": "Computer Vision Algorithm Engineer",
@@ -8518,6 +8540,27 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-16T17:41:09+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2011195",
+   "company": "NVIDIA",
+   "title": "Software Validation Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Validation-Engineer_JR2011195",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 5,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-17T08:48:45+00:00"
   },
   {
    "id": "Mobileye|https://careers.mobileye.com/jobs/asic-design-cad-engineer/d7f78946-7b47-439b-92b7-a18eb2545982",
@@ -27085,6 +27128,28 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2009084",
+   "company": "NVIDIA",
+   "title": "Senior System Validation Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Validation-Engineer_JR2009084",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2012126",
