@@ -1225,7 +1225,8 @@
    "JR2029750": "2026-11-16T21:05:57+00:00",
    "JR2029863": "2026-11-16T21:05:57+00:00",
    "JR2029857": "2026-11-16T21:51:49+00:00",
-   "JR2029989-1": "2026-11-16T21:51:49+00:00"
+   "JR2029989-1": "2026-11-16T21:51:49+00:00",
+   "JR2011195": "2026-11-17T08:48:45+00:00"
   },
   "Marvell": {
    "2603477": "2026-11-09T20:02:53+00:00",
@@ -1589,7 +1590,8 @@
    "https://careers.mobileye.com/jobs/integration-engineering/7de4df6f-46b4-4804-8ab3-08811de2e99b": "2026-11-16T14:26:15+00:00",
    "https://careers.mobileye.com/jobs/business-operations-coordinator/3598731b-e2b3-4bd2-8bce-7a17aecf7421": "2026-11-16T14:26:15+00:00",
    "https://careers.mobileye.com/jobs/data-product-manager/02a8ccb8-8d69-4862-a85a-5b28b5777716": "2026-11-16T14:26:15+00:00",
-   "https://careers.mobileye.com/jobs/integration-engineer/7de4df6f-46b4-4804-8ab3-08811de2e99b": "2026-11-16T17:41:09+00:00"
+   "https://careers.mobileye.com/jobs/integration-engineer/7de4df6f-46b4-4804-8ab3-08811de2e99b": "2026-11-16T17:41:09+00:00",
+   "https://careers.mobileye.com/jobs/msc-student-deep-learning-algorithm-developer/10c70ff9-9def-46ce-9d7e-389c818fd92a": "2026-11-17T08:48:45+00:00"
   },
   "Tower Semiconductor": {
    "https://careers.towersemi.com/job-description?job_id=9734": "2026-11-09T20:02:53+00:00",
@@ -1748,7 +1750,8 @@
    "6B.272": "2026-11-11T21:48:31+00:00",
    "5D.47C": "2026-11-11T21:48:31+00:00",
    "04.577": "2026-11-12T15:40:47+00:00",
-   "D8.E65": "2026-11-15T15:42:21+00:00"
+   "D8.E65": "2026-11-15T15:42:21+00:00",
+   "A6.07A": "2026-11-17T08:48:45+00:00"
   },
   "Quantum Source": {
    "94410725-95ea-445b-8d41-9ef58519c147": "2026-11-13T08:25:48+00:00",
@@ -1818,7 +1821,7 @@
    "69.473": "2026-11-13T08:25:48+00:00"
   }
  },
- "tg_offset": 981000188,
+ "tg_offset": 981000189,
  "shown": [
   "Applied Materials|R2519839",
   "Applied Materials|R2626909",

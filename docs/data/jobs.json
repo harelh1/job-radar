@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T08:01:28+00:00",
+ "updated": "2026-11-17T08:48:45+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -1031,6 +1031,23 @@
    "initial": true
   },
   {
+   "id": "Xsight Labs|A6.07A",
+   "company": "Xsight Labs",
+   "title": "Student Verification Engineer",
+   "url": "https://xsightlabs.com/careers/jobs/A6.07A/student-verification-engineer",
+   "location": "Giv'atayim, Israel",
+   "department": "R&D",
+   "posted": "2026-11-17T08:45:04Z",
+   "score": 39,
+   "reasons": [
+    "משרת סטודנט",
+    "בדיקות/אינטגרציה"
+   ],
+   "kind": "student",
+   "tags": [],
+   "first_seen": "2026-11-17T08:48:45+00:00"
+  },
+  {
    "id": "KLA (Orbotech)|2643272",
    "company": "KLA (Orbotech)",
    "title": "System Integrator, Laser-Based Platforms",
@@ -1988,6 +2005,30 @@
    "initial": true
   },
   {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/msc-student-deep-learning-algorithm-developer/10c70ff9-9def-46ce-9d7e-389c818fd92a",
+   "company": "Mobileye",
+   "title": "Msc Student Deep Learning Algorithm Developer",
+   "url": "https://careers.mobileye.com/jobs/msc-student-deep-learning-algorithm-developer/10c70ff9-9def-46ce-9d7e-389c818fd92a",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 28,
+   "reasons": [
+    "משרת סטודנט",
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "Python",
+    "עבודת מעבדה",
+    "מיועד לתואר מתקדם"
+   ],
+   "kind": "student",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-17T08:48:45+00:00"
+  },
+  {
    "id": "Applied Materials|R2517464",
    "company": "Applied Materials",
    "title": "Electron Optics Devices Software Engineer",
@@ -2714,26 +2755,6 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-13T08:25:48+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|19621",
-   "company": "Elbit Systems",
-   "title": "EMC Student",
-   "url": "https://elbitsystemscareer.com/job/?jid=19621",
-   "location": "Haifa, Israel",
-   "department": "כלי טיס",
-   "posted": "2026-01-07T07:46:00",
-   "score": 24,
-   "reasons": [
-    "משרת סטודנט"
-   ],
-   "kind": "student",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
   },
   {
@@ -5222,30 +5243,6 @@
    "tags": [
     "מוליכים למחצה",
     "מטרולוגיה אופטית"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/experienced-laboratory-integration-engineer/4defafe4-48ba-444b-8037-a56119c0956d",
-   "company": "Mobileye",
-   "title": "Experienced Laboratory Integration Engineer",
-   "url": "https://careers.mobileye.com/jobs/experienced-laboratory-integration-engineer/4defafe4-48ba-444b-8037-a56119c0956d",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 11,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "Python",
-    "עבודת מעבדה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -8588,6 +8585,27 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-16T17:41:09+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2011195",
+   "company": "NVIDIA",
+   "title": "Software Validation Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Validation-Engineer_JR2011195",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 5,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-17T08:48:45+00:00"
   },
   {
    "id": "Mobileye|https://careers.mobileye.com/jobs/asic-design-cad-engineer/d7f78946-7b47-439b-92b7-a18eb2545982",
@@ -15471,24 +15489,23 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|19705",
+   "id": "Elbit Systems|19703",
    "company": "Elbit Systems",
-   "title": "מנהל.ת תפעול מנוסה",
-   "url": "https://elbitsystemscareer.com/job/?jid=19705",
+   "title": "מהנדס.ת תוכנה Real Time Embedded מנוסה",
+   "url": "https://elbitsystemscareer.com/job/?jid=19703",
    "location": "Jerusalem Area, Israel",
    "department": "יבשה ותעש",
-   "posted": "2025-04-24T11:46:00",
+   "posted": "2025-05-22T12:46:00",
    "score": 1,
    "reasons": [
-    "משרה בכירה"
+    "דורש 10+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
    ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "Elbit Systems|19704",
