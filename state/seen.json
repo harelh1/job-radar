@@ -774,7 +774,9 @@
    "JR0289024": "2026-11-15T13:38:48+00:00",
    "JR0288531": "2026-11-15T15:42:21+00:00",
    "JR0289115-1": "2026-11-16T11:53:15+00:00",
-   "JR0289122": "2026-11-16T16:20:50+00:00"
+   "JR0289122": "2026-11-16T16:20:50+00:00",
+   "JR0289229-1": "2026-11-17T11:30:06+00:00",
+   "JR0289237": "2026-11-17T11:30:06+00:00"
   },
   "NVIDIA": {
    "JR2017969": "2026-11-09T20:02:53+00:00",
@@ -1593,7 +1595,12 @@
    "https://careers.mobileye.com/jobs/business-operations-coordinator/3598731b-e2b3-4bd2-8bce-7a17aecf7421": "2026-11-16T14:26:15+00:00",
    "https://careers.mobileye.com/jobs/data-product-manager/02a8ccb8-8d69-4862-a85a-5b28b5777716": "2026-11-16T14:26:15+00:00",
    "https://careers.mobileye.com/jobs/integration-engineer/7de4df6f-46b4-4804-8ab3-08811de2e99b": "2026-11-16T17:41:09+00:00",
-   "https://careers.mobileye.com/jobs/msc-student-deep-learning-algorithm-developer/10c70ff9-9def-46ce-9d7e-389c818fd92a": "2026-11-17T08:48:45+00:00"
+   "https://careers.mobileye.com/jobs/msc-student-deep-learning-algorithm-developer/10c70ff9-9def-46ce-9d7e-389c818fd92a": "2026-11-17T08:48:45+00:00",
+   "https://careers.mobileye.com/jobs/ic-package-layout-engineer/913ec43a-f4de-4470-ac27-907240164fea": "2026-11-17T11:30:06+00:00",
+   "https://careers.mobileye.com/jobs/ic-package-layout-engineer/a1aa0e47-f672-4998-b371-8fa0009d5527": "2026-11-17T11:30:06+00:00",
+   "https://careers.mobileye.com/jobs/machine-learning-software-engineer/1b3f71b9-fe39-41d3-bd43-4ae7ad18f92e": "2026-11-17T11:30:06+00:00",
+   "https://careers.mobileye.com/jobs/machine-learning-software-engineer/72e986e2-94b4-49f6-be5f-74a48de8a71d": "2026-11-17T11:30:06+00:00",
+   "https://careers.mobileye.com/jobs/npi-logistic-and-operations-student-radar/2aa6daf7-93a0-4053-ae47-6d4d5f6bcebc": "2026-11-17T11:30:06+00:00"
   },
   "Tower Semiconductor": {
    "https://careers.towersemi.com/job-description?job_id=9734": "2026-11-09T20:02:53+00:00",
