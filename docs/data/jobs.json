@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:21:48+00:00",
+ "updated": "2026-11-18T20:24:04+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -17457,6 +17457,28 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "Applied Materials|R2626474-1",
+   "company": "Applied Materials",
+   "title": "Engineering IT Portfolio Manager",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/EIT-Portfolio-Manager_R2626474-1",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "Applied Materials|R2626581-1",
