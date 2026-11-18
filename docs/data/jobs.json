@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:33:18+00:00",
+ "updated": "2026-11-18T12:37:24+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -4479,6 +4479,25 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/35.277/",
+   "company": "Camtek",
+   "title": "PM & System Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/35.277/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 15,
+   "reasons": [
+    "הנדסת מערכות",
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-09T20:38:42+00:00"
   },
   {
    "id": "QuamCore|https://www.quamcore.com/careers/rfic-quantum-hardware-design-engineer/",
@@ -29592,46 +29611,6 @@
    "initial": true
   },
   {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/CD.658/",
-   "company": "Camtek",
-   "title": "AI SW Infrastructure Engineer",
-   "url": "https://www.camtek.com/careers/open-positions/CD.658/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "אינטרפרומטריה",
-    "Python",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
-   "id": "Camtek|https://www.camtek.com/careers/open-positions/62.276/",
-   "company": "Camtek",
-   "title": "Applied AI Research Team Leader",
-   "url": "https://www.camtek.com/careers/open-positions/62.276/",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "אינטרפרומטריה",
-    "Python",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [],
-   "first_seen": "2026-11-09T20:38:42+00:00",
-   "initial": true
-  },
-  {
    "id": "Camtek|https://www.camtek.com/careers/open-positions/C6.370/",
    "company": "Camtek",
    "title": "Configuration Control Team Leader",
@@ -32998,6 +32977,42 @@
     "רפואי"
    ],
    "first_seen": "2026-11-18T12:33:18+00:00"
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/45.571/",
+   "company": "Camtek",
+   "title": "Mechanical Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/45.571/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 7+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-18T12:37:24+00:00"
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/AE.C44/",
+   "company": "Camtek",
+   "title": "Planner",
+   "url": "https://www.camtek.com/careers/open-positions/AE.C44/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-18T12:37:24+00:00"
   }
  ]
 }
