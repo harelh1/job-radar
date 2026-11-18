@@ -569,7 +569,8 @@
    "21223": "2026-11-17T09:45:22+00:00",
    "21224": "2026-11-17T09:45:22+00:00",
    "21159": "2026-11-18T10:41:46+00:00",
-   "21226": "2026-11-18T11:37:09+00:00"
+   "21226": "2026-11-18T11:37:09+00:00",
+   "21186": "2026-11-18T13:49:13+00:00"
   },
   "KLA (Orbotech)": {
    "2638257-1": "2026-11-09T20:02:53+00:00",
@@ -1621,7 +1622,9 @@
    "https://careers.mobileye.com/jobs/senior-c-developer-neural-network-integration-production-3d-sensing-systems/a3c063b1-9d4e-436e-b0d8-c1619377be37": "2026-11-17T17:31:05+00:00",
    "https://careers.mobileye.com/jobs/experienced-validation-engineer/628faaf0-a7df-4043-b720-e2fd3acb89b4": "2026-11-17T18:23:07+00:00",
    "https://careers.mobileye.com/jobs/director-of-algorithm-software-infrastructure-integration/adfee845-9356-4f68-8103-c6d24d7f3a3f": "2026-11-18T07:55:42+00:00",
-   "https://careers.mobileye.com/jobs/director-of-algorithm-software-infrastructure-integration/eadec8b5-6b58-40f5-a024-5915cef79001": "2026-11-18T07:55:42+00:00"
+   "https://careers.mobileye.com/jobs/director-of-algorithm-software-infrastructure-integration/eadec8b5-6b58-40f5-a024-5915cef79001": "2026-11-18T07:55:42+00:00",
+   "https://careers.mobileye.com/jobs/director-of-release-management/7e5223a3-ffe2-4d05-8ae7-07b26e48c049": "2026-11-18T13:49:13+00:00",
+   "https://careers.mobileye.com/jobs/director-of-release-management/f8acdfa6-bd0d-4a64-a3e1-709d62e4c554": "2026-11-18T13:49:13+00:00"
   },
   "Tower Semiconductor": {
    "https://careers.towersemi.com/job-description?job_id=9734": "2026-11-09T20:02:53+00:00",
@@ -1853,7 +1856,7 @@
    "69.473": "2026-11-13T08:25:48+00:00"
   }
  },
- "tg_offset": 981000190,
+ "tg_offset": 981000191,
  "shown": [
   "Applied Materials|R2519839",
   "Applied Materials|R2626909",

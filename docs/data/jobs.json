@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:37:24+00:00",
+ "updated": "2026-11-18T13:49:13+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -2111,28 +2111,6 @@
    "initial": true
   },
   {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/deep-learning-algorithm-developer/c359a528-8058-4393-818b-52e162418a58",
-   "company": "Mobileye",
-   "title": "Deep Learning Algorithm Developer",
-   "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-developer/c359a528-8058-4393-818b-52e162418a58",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 27,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-16T09:26:01+00:00"
-  },
-  {
    "id": "Elbit Systems|21179",
    "company": "Elbit Systems",
    "title": "Physicist",
@@ -2591,30 +2569,6 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Applied Materials|R2629302",
-   "company": "Applied Materials",
-   "title": "R&D System Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/R-D-System-Engineer_R2629302",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 25,
-   "reasons": [
-    "הנדסת מערכות",
-    "רקע אלקטרו-אופטי",
-    "Python",
-    "דורש בדיוק את התואר שלך",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -7586,6 +7540,23 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20944",
+   "company": "Elbit Systems",
+   "title": "פלנר.ית",
+   "url": "https://elbitsystemscareer.com/job/?jid=20944",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-08-17T06:46:00",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Elbit Systems|20876",
    "company": "Elbit Systems",
    "title": "מחווט.ת כבלים ורתמות",
@@ -7602,23 +7573,6 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
-  },
-  {
-   "id": "Elbit Systems|20944",
-   "company": "Elbit Systems",
-   "title": "פלנר.ית",
-   "url": "https://elbitsystemscareer.com/job/?jid=20944",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-08-17T06:46:00",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "KLA (Orbotech)|2634646-1",
@@ -8940,28 +8894,6 @@
    "initial": true
   },
   {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/deep-learning-algorithm-engineer-learnedpolicy-group/01a16cde-2ce4-4c80-a6df-fe56bc223816",
-   "company": "Mobileye",
-   "title": "Deep Learning Algorithm Engineer Learnedpolicy Group",
-   "url": "https://careers.mobileye.com/jobs/deep-learning-algorithm-engineer-learnedpolicy-group/01a16cde-2ce4-4c80-a6df-fe56bc223816",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 3,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "עבודת מעבדה",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-16T14:26:15+00:00"
-  },
-  {
    "id": "Elbit Systems|19608",
    "company": "Elbit Systems",
    "title": "Lead System Engineer",
@@ -9106,6 +9038,26 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-12T11:34:35+00:00"
+  },
+  {
+   "id": "Elbit Systems|21149",
+   "company": "Elbit Systems",
+   "title": "עורך.ת מעגלים אלקטרוניים ( PCB )",
+   "url": "https://elbitsystemscareer.com/job/?jid=21149",
+   "location": "Center, Israel",
+   "department": "תקשוב וסייבר",
+   "posted": "2026-10-22T07:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
   },
   {
    "id": "Elbit Systems|20862",
@@ -12777,26 +12729,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|21149",
-   "company": "Elbit Systems",
-   "title": "עורך.ת מעגלים אלקטרוניים ( PCB )",
-   "url": "https://elbitsystemscareer.com/job/?jid=21149",
-   "location": "Center, Israel",
-   "department": "תקשוב וסייבר",
-   "posted": "2026-10-22T07:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|21150",
    "company": "Elbit Systems",
    "title": "טכנאי.ת אחזקה",
@@ -15241,6 +15173,27 @@
    "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
+   "id": "Elbit Systems|19702",
+   "company": "Elbit Systems",
+   "title": "R&D Manager",
+   "url": "https://elbitsystemscareer.com/job/?jid=19702",
+   "location": "Jerusalem Area, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2025-05-22T12:46:00",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Elbit Systems|19703",
    "company": "Elbit Systems",
    "title": "מהנדס.ת תוכנה Real Time Embedded מנוסה",
@@ -15279,23 +15232,25 @@
    "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
-   "id": "Elbit Systems|19704",
+   "id": "Elbit Systems|20898",
    "company": "Elbit Systems",
-   "title": "מהנדס.ת מערכת",
-   "url": "https://elbitsystemscareer.com/job/?jid=19704",
-   "location": "Jerusalem Area, Israel",
+   "title": "סטודנט.ית לשיווק",
+   "url": "https://elbitsystemscareer.com/job/?jid=20898",
+   "location": "Shfela, Israel",
    "department": "יבשה ותעש",
-   "posted": "2025-05-22T12:46:00",
+   "posted": "2026-08-03T01:46:00",
    "score": 1,
    "reasons": [
-    "דורש 5+ שנות ניסיון"
+    "משרת סטודנט",
+    "תחום פחות רלוונטי"
    ],
-   "kind": "full",
+   "kind": "student",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
    ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
   },
   {
    "id": "Elbit Systems|20699",
@@ -15310,27 +15265,6 @@
     "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20898",
-   "company": "Elbit Systems",
-   "title": "סטודנט.ית לשיווק",
-   "url": "https://elbitsystemscareer.com/job/?jid=20898",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-08-03T01:46:00",
-   "score": 1,
-   "reasons": [
-    "משרת סטודנט",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "student",
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
@@ -15534,26 +15468,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|19346",
-   "company": "Elbit Systems",
-   "title": "Operations Quality Inspector",
-   "url": "https://elbitsystemscareer.com/job/?jid=19346",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2025-03-27T01:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20508",
    "company": "Elbit Systems",
    "title": "Mechanical Quality Inspector",
@@ -15564,6 +15478,26 @@
    "score": 1,
    "reasons": [
     "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|19346",
+   "company": "Elbit Systems",
+   "title": "Operations Quality Inspector",
+   "url": "https://elbitsystemscareer.com/job/?jid=19346",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2025-03-27T01:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15657,26 +15591,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20556",
-   "company": "Elbit Systems",
-   "title": "Head of Quality – Electronics Manufacturing Center",
-   "url": "https://elbitsystemscareer.com/job/?jid=20556",
-   "location": "Shfela, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-27T09:46:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19811",
    "company": "Elbit Systems",
    "title": "Design for Testability (DFT) Engineer",
@@ -15688,6 +15602,26 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20556",
+   "company": "Elbit Systems",
+   "title": "Head of Quality – Electronics Manufacturing Center",
+   "url": "https://elbitsystemscareer.com/job/?jid=20556",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-27T09:46:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
@@ -33013,6 +32947,74 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-18T12:37:24+00:00"
+  },
+  {
+   "id": "Elbit Systems|21186",
+   "company": "Elbit Systems",
+   "title": "IT and Security Specialist",
+   "url": "https://elbitsystemscareer.com/job/?jid=21186",
+   "location": "Sharon, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-11-02T01:46:00",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "דורש 10+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-18T13:49:13+00:00"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/director-of-release-management/7e5223a3-ffe2-4d05-8ae7-07b26e48c049",
+   "company": "Mobileye",
+   "title": "Director Of Release Management",
+   "url": "https://careers.mobileye.com/jobs/director-of-release-management/7e5223a3-ffe2-4d05-8ae7-07b26e48c049",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-18T13:49:13+00:00"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/director-of-release-management/f8acdfa6-bd0d-4a64-a3e1-709d62e4c554",
+   "company": "Mobileye",
+   "title": "Director Of Release Management",
+   "url": "https://careers.mobileye.com/jobs/director-of-release-management/f8acdfa6-bd0d-4a64-a3e1-709d62e4c554",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-18T13:49:13+00:00"
   }
  ]
 }
