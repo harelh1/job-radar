@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:41:36+00:00",
+ "updated": "2026-11-18T01:54:42+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -15937,48 +15937,6 @@
    "initial": true
   },
   {
-   "id": "KLA (Orbotech)|2638257-1",
-   "company": "KLA (Orbotech)",
-   "title": "Regional Trade Compliance Program Manager",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Regional-Trade-Compliance-Program-Manager_2638257-1",
-   "location": "Yavne, Israel, Migdal Ha'emek, Israel",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "KLA (Orbotech)|2642109-1",
-   "company": "KLA (Orbotech)",
-   "title": "Talent Acquisition Partner",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Talent-Acquisition-Partner_2642109-1",
-   "location": "Yavne, Israel, Migdal Ha'emek, Israel",
-   "department": "",
-   "posted": "Posted 11 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש 6+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "KLA (Orbotech)|2636119-1",
    "company": "KLA (Orbotech)",
    "title": "R&D Director",
@@ -16346,6 +16304,48 @@
    "reasons": [
     "עבודת מעבדה",
     "דורש 4+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "KLA (Orbotech)|2638257-1",
+   "company": "KLA (Orbotech)",
+   "title": "Regional Trade Compliance Program Manager",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Regional-Trade-Compliance-Program-Manager_2638257-1",
+   "location": "Yavne, Israel, Migdal Ha'emek, Israel",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "KLA (Orbotech)|2642109-1",
+   "company": "KLA (Orbotech)",
+   "title": "Talent Acquisition Partner",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Talent-Acquisition-Partner_2642109-1",
+   "location": "Yavne, Israel, Migdal Ha'emek, Israel",
+   "department": "",
+   "posted": "Posted 11 Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש 6+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
