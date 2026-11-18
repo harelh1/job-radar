@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:59:48+00:00",
+ "updated": "2026-11-18T08:03:56+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -24791,29 +24791,6 @@
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2019532",
-   "company": "NVIDIA",
-   "title": "Manager, Networking Firmware Verification",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Manager--Firmware-Verification-Infrastructure_JR2019532",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
