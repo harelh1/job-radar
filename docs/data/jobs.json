@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:42:54+00:00",
+ "updated": "2026-11-19T10:45:10+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -33163,6 +33163,29 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-19T10:42:54+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2029862",
+   "company": "NVIDIA",
+   "title": "Senior VLSI Integration Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR2029862",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-19T10:45:10+00:00"
   }
  ]
 }
