@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:47:11+00:00",
+ "updated": "2026-11-19T10:55:04+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -2187,6 +2187,25 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-19T10:42:54+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2029865",
+   "company": "NVIDIA",
+   "title": "Physical Design Backend STA Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Backend-STA-Engineer_JR2029865",
+   "location": "Israel, Yokneam, Israel, Tel Aviv",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 27,
+   "reasons": [
+    "פיזיקה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-19T10:55:04+00:00"
   },
   {
    "id": "Elbit Systems|21179",
