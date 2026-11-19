@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:46:32+00:00",
+ "updated": "2026-11-19T09:48:28+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -6263,13 +6263,13 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20937",
+   "id": "Elbit Systems|20963",
    "company": "Elbit Systems",
-   "title": "מלגזן.ית",
-   "url": "https://elbitsystemscareer.com/job/?jid=20937",
+   "title": "מידעינ.ית ביקורת איכות",
+   "url": "https://elbitsystemscareer.com/job/?jid=20963",
    "location": "North, Israel",
    "department": "יבשה ותעש",
-   "posted": "2026-08-05T07:16:00",
+   "posted": "2026-08-13T12:46:00",
    "score": 6,
    "reasons": [],
    "kind": "full",
@@ -6281,13 +6281,13 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20963",
+   "id": "Elbit Systems|20937",
    "company": "Elbit Systems",
-   "title": "מידעינ.ית ביקורת איכות",
-   "url": "https://elbitsystemscareer.com/job/?jid=20963",
+   "title": "מלגזן.ית",
+   "url": "https://elbitsystemscareer.com/job/?jid=20937",
    "location": "North, Israel",
    "department": "יבשה ותעש",
-   "posted": "2026-08-13T12:46:00",
+   "posted": "2026-08-05T07:16:00",
    "score": 6,
    "reasons": [],
    "kind": "full",
@@ -8158,6 +8158,23 @@
    "first_seen": "2026-11-18T17:35:01+00:00"
   },
   {
+   "id": "Elbit Systems|21227",
+   "company": "Elbit Systems",
+   "title": "Planner - Temp. Position",
+   "url": "https://elbitsystemscareer.com/job/?jid=21227",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-11-19T08:13:00",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-19T09:48:28+00:00"
+  },
+  {
    "id": "Elbit Systems|19290",
    "company": "Elbit Systems",
    "title": "Senior System Engineer (Optical Communications)- Relocation",
@@ -9120,6 +9137,25 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20343",
+   "company": "Elbit Systems",
+   "title": "Production Engineer",
+   "url": "https://elbitsystemscareer.com/job/?jid=20343",
+   "location": "North, Israel",
+   "department": "כלי טיס",
+   "posted": "2026-04-19T02:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Elbit Systems|20778",
    "company": "Elbit Systems",
    "title": "מוביל אינטגרציה בתחום מכניקה",
@@ -9131,26 +9167,6 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|19754",
-   "company": "Elbit Systems",
-   "title": "רכז.ת גיוס",
-   "url": "https://elbitsystemscareer.com/job/?jid=19754",
-   "location": "Center, Israel",
-   "department": "מטה החברה",
-   "posted": "2025-09-10T08:46:00",
-   "score": 1,
-   "reasons": [
-    "תחום פחות רלוונטי"
    ],
    "kind": "full",
    "tags": [
@@ -11849,25 +11865,6 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
-  },
-  {
-   "id": "Elbit Systems|20343",
-   "company": "Elbit Systems",
-   "title": "Production Engineer",
-   "url": "https://elbitsystemscareer.com/job/?jid=20343",
-   "location": "North, Israel",
-   "department": "כלי טיס",
-   "posted": "2026-04-19T02:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "Elbit Systems|20212",
