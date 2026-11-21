@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:54:16+00:00",
+ "updated": "2026-11-21T07:56:16+00:00",
  "pending": [
   {
    "name": "Rafael",
@@ -31,7 +31,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 536
    },
    "careers_url": "https://elbitsystemscareer.com/jobs/",
@@ -49,7 +49,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-21T06:40:25+00:00",
     "count": 81,
-    "last_try": "2026-11-21T07:54:16+00:00"
+    "last_try": "2026-11-21T07:56:16+00:00"
    },
    "careers_url": null,
    "note": null
@@ -66,7 +66,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-21T06:40:25+00:00",
     "count": 85,
-    "last_try": "2026-11-21T07:54:16+00:00"
+    "last_try": "2026-11-21T07:56:16+00:00"
    },
    "careers_url": null,
    "note": null
@@ -82,7 +82,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-21T06:40:25+00:00",
     "count": 25,
-    "last_try": "2026-11-21T07:54:16+00:00"
+    "last_try": "2026-11-21T07:56:16+00:00"
    },
    "careers_url": null,
    "note": null
@@ -99,7 +99,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-21T06:40:25+00:00",
     "count": 388,
-    "last_try": "2026-11-21T07:54:16+00:00"
+    "last_try": "2026-11-21T07:56:16+00:00"
    },
    "careers_url": null,
    "note": null
@@ -115,7 +115,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-21T06:40:25+00:00",
     "count": 7,
-    "last_try": "2026-11-21T07:54:16+00:00"
+    "last_try": "2026-11-21T07:56:16+00:00"
    },
    "careers_url": null,
    "note": null
@@ -131,7 +131,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-21T06:40:25+00:00",
     "count": 11,
-    "last_try": "2026-11-21T07:54:16+00:00"
+    "last_try": "2026-11-21T07:56:16+00:00"
    },
    "careers_url": null,
    "note": null
@@ -146,7 +146,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 46
    },
    "careers_url": null,
@@ -162,7 +162,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 1
    },
    "careers_url": null,
@@ -178,7 +178,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 3,
     "last_try": "2026-11-19T15:38:16+00:00"
    },
@@ -195,7 +195,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 11,
     "last_try": "2026-11-19T15:38:16+00:00"
    },
@@ -212,7 +212,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 7
    },
    "careers_url": null,
@@ -228,7 +228,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 5,
     "last_try": "2026-11-19T15:38:16+00:00"
    },
@@ -244,7 +244,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 24,
     "last_try": "2026-11-19T15:38:16+00:00"
    },
@@ -261,7 +261,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 20
    },
    "careers_url": null,
@@ -278,7 +278,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 148,
     "last_try": "2026-11-14T16:07:23+00:00"
    },
@@ -294,7 +294,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 0
    },
    "careers_url": null,
@@ -310,7 +310,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 8,
     "last_try": "2026-11-09T20:08:37+00:00"
    },
@@ -324,10 +324,10 @@
     "מוליכים למחצה"
    ],
    "status": {
-    "ok": false,
-    "error": "HTTPError: HTTP Error 429: Too Many Requests",
+    "ok": true,
+    "error": null,
     "last_try": "2026-11-21T07:54:16+00:00",
-    "last_ok": "2026-11-21T07:52:10+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 23
    },
    "careers_url": null,
@@ -340,7 +340,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 20,
     "last_try": "2026-11-20T07:45:42+00:00"
    },
@@ -354,7 +354,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 0,
     "last_try": "2026-11-19T15:38:16+00:00"
    },
@@ -370,7 +370,7 @@
     "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "last_ok": "2026-11-21T06:40:25+00:00",
     "count": 27,
-    "last_try": "2026-11-21T07:54:16+00:00"
+    "last_try": "2026-11-21T07:56:16+00:00"
    },
    "careers_url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA",
    "note": null
@@ -382,7 +382,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 38,
     "last_try": "2026-11-20T07:45:42+00:00"
    },
@@ -394,9 +394,9 @@
    "type": "comeet",
    "tags": null,
    "status": {
-    "ok": false,
-    "error": "HTTPError: HTTP Error 429: Too Many Requests",
-    "last_ok": "2026-11-21T07:52:10+00:00",
+    "ok": true,
+    "error": null,
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 23,
     "last_try": "2026-11-21T07:54:16+00:00"
    },
@@ -410,7 +410,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 0,
     "last_try": "2026-11-19T15:38:16+00:00"
    },
@@ -424,7 +424,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 7
    },
    "careers_url": "https://qslabshr.careers.hibob.com/",
@@ -437,7 +437,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 3
    },
    "careers_url": "https://credo.careers.hibob.com/",
@@ -450,7 +450,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 14,
     "last_try": "2026-11-20T07:45:42+00:00"
    },
@@ -464,7 +464,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 13,
     "last_try": "2026-11-19T15:38:16+00:00"
    },
@@ -478,7 +478,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 5
    },
    "careers_url": "https://www.raicol.com/careers",
@@ -491,7 +491,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 4
    },
    "careers_url": "https://www.quamcore.com/careers",
@@ -504,7 +504,7 @@
    "status": {
     "ok": true,
     "error": null,
-    "last_ok": "2026-11-21T07:54:16+00:00",
+    "last_ok": "2026-11-21T07:56:16+00:00",
     "count": 7,
     "last_try": "2026-11-19T15:38:16+00:00"
    },
