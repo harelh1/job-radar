@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:44:10+00:00",
+ "updated": "2026-11-22T14:46:13+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -33041,6 +33041,28 @@
    "kind": "full",
    "tags": [],
    "first_seen": "2026-11-22T13:03:55+00:00"
+  },
+  {
+   "id": "Elbit Systems|18216",
+   "company": "Elbit Systems",
+   "title": "Electrical Testing Technician",
+   "url": "https://elbitsystemscareer.com/job/?jid=18216",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2023-10-16T00:00:00",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "דורש 5+ שנות ניסיון",
+    "תחום פחות רלוונטי",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-22T13:57:58+00:00"
   },
   {
    "id": "Elbit Systems|21232",
