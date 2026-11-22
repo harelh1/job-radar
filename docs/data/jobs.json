@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:12:10+00:00",
+ "updated": "2026-11-22T12:14:13+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -7665,6 +7665,25 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "Applied Materials|R2623659",
+   "company": "Applied Materials",
+   "title": "Application Engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Application-Engineer_R2623659",
+   "location": "Rehovot,ISR",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 6,
+   "reasons": [
+    "חומרה/מעבדה"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "מטרולוגיה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "Applied Materials|R2627555",
