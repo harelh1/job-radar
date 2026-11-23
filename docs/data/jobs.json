@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:01:10+00:00",
+ "updated": "2026-11-23T14:53:40+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -4071,27 +4071,6 @@
     "דימות/גלאים/מצלמות",
     "עבודת מעבדה",
     "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2027271",
-   "company": "NVIDIA",
-   "title": "Hardware Validation Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Validation-Engineer_JR2027271",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted Yesterday",
-   "score": 18,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "עבודת מעבדה"
    ],
    "kind": "full",
    "tags": [
