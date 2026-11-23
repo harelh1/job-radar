@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:51:09+00:00",
+ "updated": "2026-11-23T06:50:06+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -9136,26 +9136,6 @@
    "first_seen": "2026-11-12T11:34:35+00:00"
   },
   {
-   "id": "Elbit Systems|20941",
-   "company": "Elbit Systems",
-   "title": "מהנדס.ת תפי",
-   "url": "https://elbitsystemscareer.com/job/?jid=20941",
-   "location": "Sharon, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-08-04T02:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|21138",
    "company": "Elbit Systems",
    "title": "מנהל.ת ILS",
@@ -9167,6 +9147,26 @@
    "reasons": [
     "משרה בכירה",
     "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20941",
+   "company": "Elbit Systems",
+   "title": "מהנדס.ת תפי",
+   "url": "https://elbitsystemscareer.com/job/?jid=20941",
+   "location": "Sharon, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-08-04T02:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 4+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -16360,28 +16360,6 @@
     "MATLAB",
     "Python",
     "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "KLA (Orbotech)|2639780-1",
-   "company": "KLA (Orbotech)",
-   "title": "R&D Software Engineer",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/R-D-Software-Engineer_2639780-1",
-   "location": "Migdal Ha'emek, Israel",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "עבודת מעבדה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
