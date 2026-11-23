@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:39:02+00:00",
+ "updated": "2026-11-23T09:45:14+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -33076,6 +33076,25 @@
     "אלקטרו-אופטיקה"
    ],
    "first_seen": "2026-11-23T09:39:02+00:00"
+  },
+  {
+   "id": "Intel|JR0288787",
+   "company": "Intel",
+   "title": "Supply Chain Analyst",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Supply-Chain-Analyst_JR0288787",
+   "location": "Israel, Kiryat-Gat, Israel, Jerusalem",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה"
+   ],
+   "first_seen": "2026-11-23T09:45:14+00:00"
   }
  ]
 }
