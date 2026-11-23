@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:56:57+00:00",
+ "updated": "2026-11-23T14:01:10+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -33159,6 +33159,26 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-23T13:56:57+00:00"
+  },
+  {
+   "id": "Elbit Systems|21242",
+   "company": "Elbit Systems",
+   "title": "עובד.ת ייצור למחלקת כיול",
+   "url": "https://elbitsystemscareer.com/job/?jid=21242",
+   "location": "North, Israel",
+   "department": "כלי טיס",
+   "posted": "2026-11-19T10:10:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון",
+    "משרת טכנאי/הנדסאי"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-23T14:01:10+00:00"
   }
  ]
 }
