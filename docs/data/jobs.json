@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:45:14+00:00",
+ "updated": "2026-11-23T10:43:10+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -4379,28 +4379,6 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-16T10:52:36+00:00"
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/research-engineer-applied-ai-multimodal-models/603cb801-760e-4155-be2c-f7f8951d75dc",
-   "company": "Mobileye",
-   "title": "Research Engineer Applied Ai Multimodal Models",
-   "url": "https://careers.mobileye.com/jobs/research-engineer-applied-ai-multimodal-models/603cb801-760e-4155-be2c-f7f8951d75dc",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 17,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-23T09:39:02+00:00"
   },
   {
    "id": "Elbit Systems|19022",
@@ -9200,6 +9178,26 @@
    "first_seen": "2026-11-12T11:34:35+00:00"
   },
   {
+   "id": "Elbit Systems|20864",
+   "company": "Elbit Systems",
+   "title": "ראש תחום NPI",
+   "url": "https://elbitsystemscareer.com/job/?jid=20864",
+   "location": "North, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-07-22T02:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19994",
    "company": "Elbit Systems",
    "title": "Subcontractor Manager - Strategic Procurement and Project Management",
@@ -13044,26 +13042,6 @@
    "score": 1,
    "reasons": [
     "דורש 12+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20864",
-   "company": "Elbit Systems",
-   "title": "ראש תחום NPI",
-   "url": "https://elbitsystemscareer.com/job/?jid=20864",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-07-22T02:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 7+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -17268,28 +17246,6 @@
    "initial": true
   },
   {
-   "id": "Applied Materials|R2612553",
-   "company": "Applied Materials",
-   "title": "Senior Software Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Engineer_R2612553",
-   "location": "Rehovot,ISR",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Applied Materials|R2622536",
    "company": "Applied Materials",
    "title": "Senior Buyer",
@@ -18693,177 +18649,175 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2015229",
+   "id": "NVIDIA|JR2017969",
    "company": "NVIDIA",
-   "title": "Senior PHY System Integration Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Optic-PHY-Engineer_JR2015229",
-   "location": "Israel, Yokneam, Israel, Raanana",
+   "title": "Senior Silicon Security Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR2017969",
+   "location": "Israel, Yokneam, Israel, Beer Sheva, Israel, Tel Aviv, Israel, Raanana, Israel, Tel Hai",
    "department": "",
    "posted": "Posted 30+ Days Ago",
    "score": 1,
    "reasons": [
-    "בדיקות/אינטגרציה",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 7+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2018353",
+   "company": "NVIDIA",
+   "title": "Senior Security Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana, Israel, Tel Hai",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "משרה בכירה",
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2020499",
+   "company": "NVIDIA",
+   "title": "Senior Software Architect, RISC-V Networking Accelerator",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Architect--RISC-V-Networking-Accelerator_JR2020499",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana, Israel, Tel Hai",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2021941-1",
+   "company": "NVIDIA",
+   "title": "Senior Security Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2021941-1",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana, Israel, Tel Hai",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "משרה בכירה",
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR1998545",
+   "company": "NVIDIA",
+   "title": "Senior Software Architect, AI Cloud",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Architect--AI-Cloud-Infrastructure_JR1998545",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana, Israel, Tel Hai",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 8+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2016624",
+   "company": "NVIDIA",
+   "title": "Senior Performance Engineer - LLM Inference Frameworks",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Performance-Engineer---LLM-Inference-Frameworks_JR2016624",
+   "location": "Israel, Yokneam, Israel, Tel Aviv, Israel, Raanana, Israel, Tel Hai",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2018549",
+   "company": "NVIDIA",
+   "title": "Senior AI Security Researcher",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-AI-Safety-Red-Teamer_JR2018549",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2020853",
+   "company": "NVIDIA",
+   "title": "Senior Signal & Power Integrity Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Signal-Integrity---Power-Integrity-Engineer_JR2020853",
+   "location": "Israel, Yokneam, Israel, Tel Aviv, Israel, Raanana, Israel, Tel Hai",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
     "רקע אלקטרו-אופטי",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2015270",
-   "company": "NVIDIA",
-   "title": "Board Design Engineer, NVLINK",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Board-Design-Engineer--NVLINK_JR2015270",
-   "location": "Israel, Raanana, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2018397",
-   "company": "NVIDIA",
-   "title": "Senior LLM Agents Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-LLM-Agents-Architect_JR2018397",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2021322",
-   "company": "NVIDIA",
-   "title": "Senior Software Engineer, DOCA SDK",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer--DOCA-SDK_JR2021322",
-   "location": "Israel, Raanana, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 27 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2021407",
-   "company": "NVIDIA",
-   "title": "Senior Hardware Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Hardware-Engineer_JR2021407",
-   "location": "Israel, Raanana, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2023705",
-   "company": "NVIDIA",
-   "title": "Software Architect, Network System Validation",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Architect--Network-System-Validation_JR2023705",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2024251",
-   "company": "NVIDIA",
-   "title": "Senior Site Reliability Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2024251",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 12+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2025289",
-   "company": "NVIDIA",
-   "title": "Engineering Manager, Network System Validation",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Engineering-Manager--Network-System-Validation_JR2025289",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
+    "MATLAB",
     "Python",
     "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
+    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -18874,17 +18828,18 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2025266",
+   "id": "NVIDIA|JR2022247",
    "company": "NVIDIA",
-   "title": "Senior Software Engineer, DOCA SDK",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-SDK_JR2025266",
-   "location": "Israel, Yokneam, Israel, Raanana",
+   "title": "Senior Software and System Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-and-System-Architect_JR2022247",
+   "location": "Israel, Yokneam, Israel, Beer Sheva, Israel, Tel Aviv, Israel, Raanana",
    "department": "",
    "posted": "Posted 30+ Days Ago",
    "score": 1,
    "reasons": [
+    "עבודת מעבדה",
     "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
+    "דורש 9+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -18895,85 +18850,15 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2025930",
+   "id": "NVIDIA|JR2023671",
    "company": "NVIDIA",
-   "title": "Senior Board Design Hardware Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Board-Design-Hardware-Engineer_JR2025930",
-   "location": "Israel, Raanana, Israel, Yokneam",
+   "title": "Senior Firmware Security Architect, Networking",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Firmware-Security-Architect--Networking_JR2023671",
+   "location": "Israel, Yokneam, Israel, Beer Sheva, Israel, Tel Aviv, Israel, Raanana",
    "department": "",
    "posted": "Posted 30+ Days Ago",
    "score": 1,
    "reasons": [
-    "חומרה/מעבדה",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2025934-1",
-   "company": "NVIDIA",
-   "title": "Senior Hardware Integration and Validation Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Hardware-Integration-and-Validation-Engineer_JR2025934-1",
-   "location": "Israel, Raanana, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2025297",
-   "company": "NVIDIA",
-   "title": "Senior System Hardware Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Hardware-Architect_JR2025297",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 24 Days Ago",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2027906",
-   "company": "NVIDIA",
-   "title": "Senior Hardware Validation Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Hardware-Validation-Engineer_JR2027906",
-   "location": "Israel, Raanana, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 5+ שנות ניסיון"
@@ -18987,84 +18872,18 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2005814-1",
+   "id": "NVIDIA|JR2025265",
    "company": "NVIDIA",
-   "title": "Senior Software Technical Program Manager",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Technical-Program-Manager_JR2005814-1",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 22 Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 8+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2008755",
-   "company": "NVIDIA",
-   "title": "Senior PCB Design Layout Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-PCB-Design-Layout-Engineer_JR2008755",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 21 Days Ago",
-   "score": 1,
-   "reasons": [
-    "דורש בדיוק את התואר שלך",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2011255-1",
-   "company": "NVIDIA",
-   "title": "Senior Hardware Manager, Co Package Optics Switch Design",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Hardware-Manager--Co-Package-Optics-Switch-Design_JR2011255-1",
-   "location": "Israel, Yokneam, Israel, Raanana",
+   "title": "Senior Switch Silicon Security Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Switch-Silicon-Security-Architect_JR2025265",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana",
    "department": "",
    "posted": "Posted 30+ Days Ago",
    "score": 1,
    "reasons": [
-    "אופטיקה/פוטוניקה בכותרת",
     "עבודת מעבדה",
     "משרה בכירה",
-    "דורש 6+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2011546",
-   "company": "NVIDIA",
-   "title": "Senior System Architect, High-Speed Interconnects",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Architect--High-Speed-Interconnects_JR2011546",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 12+ שנות ניסיון"
+    "דורש 25+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -19651,66 +19470,20 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2016624",
+   "id": "NVIDIA|JR2015229",
    "company": "NVIDIA",
-   "title": "Senior Performance Engineer - LLM Inference Frameworks",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Performance-Engineer---LLM-Inference-Frameworks_JR2016624",
-   "location": "Israel, Yokneam, Israel, Tel Aviv, Israel, Raanana, Israel, Tel Hai",
+   "title": "Senior PHY System Integration Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Optic-PHY-Engineer_JR2015229",
+   "location": "Israel, Yokneam, Israel, Raanana",
    "department": "",
    "posted": "Posted 30+ Days Ago",
    "score": 1,
    "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2018549",
-   "company": "NVIDIA",
-   "title": "Senior AI Security Researcher",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-AI-Safety-Red-Teamer_JR2018549",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2020853",
-   "company": "NVIDIA",
-   "title": "Senior Signal & Power Integrity Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Signal-Integrity---Power-Integrity-Engineer_JR2020853",
-   "location": "Israel, Yokneam, Israel, Tel Aviv, Israel, Raanana, Israel, Tel Hai",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
+    "בדיקות/אינטגרציה",
     "רקע אלקטרו-אופטי",
-    "MATLAB",
-    "Python",
+    "עבודת מעבדה",
     "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
+    "דורש 8+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -19721,18 +19494,16 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2022247",
+   "id": "NVIDIA|JR2015270",
    "company": "NVIDIA",
-   "title": "Senior Software and System Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-and-System-Architect_JR2022247",
-   "location": "Israel, Yokneam, Israel, Beer Sheva, Israel, Tel Aviv, Israel, Raanana",
+   "title": "Board Design Engineer, NVLINK",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Board-Design-Engineer--NVLINK_JR2015270",
+   "location": "Israel, Raanana, Israel, Yokneam",
    "department": "",
    "posted": "Posted 30+ Days Ago",
    "score": 1,
    "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 9+ שנות ניסיון"
+    "עבודת מעבדה"
    ],
    "kind": "full",
    "tags": [
@@ -19743,55 +19514,11 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2023671",
+   "id": "NVIDIA|JR2018397",
    "company": "NVIDIA",
-   "title": "Senior Firmware Security Architect, Networking",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Firmware-Security-Architect--Networking_JR2023671",
-   "location": "Israel, Yokneam, Israel, Beer Sheva, Israel, Tel Aviv, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2025265",
-   "company": "NVIDIA",
-   "title": "Senior Switch Silicon Security Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Switch-Silicon-Security-Architect_JR2025265",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2017969",
-   "company": "NVIDIA",
-   "title": "Senior Silicon Security Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR2017969",
-   "location": "Israel, Yokneam, Israel, Beer Sheva, Israel, Tel Aviv, Israel, Raanana, Israel, Tel Hai",
+   "title": "Senior LLM Agents Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-LLM-Agents-Architect_JR2018397",
+   "location": "Israel, Yokneam, Israel, Raanana",
    "department": "",
    "posted": "Posted 30+ Days Ago",
    "score": 1,
@@ -19799,7 +19526,7 @@
     "Python",
     "עבודת מעבדה",
     "משרה בכירה",
-    "דורש 7+ שנות ניסיון"
+    "דורש 8+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -19810,82 +19537,311 @@
    "initial": true
   },
   {
-   "id": "NVIDIA|JR2018353",
+   "id": "NVIDIA|JR2021322",
    "company": "NVIDIA",
-   "title": "Senior Security Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana, Israel, Tel Hai",
+   "title": "Senior Software Engineer, DOCA SDK",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer--DOCA-SDK_JR2021322",
+   "location": "Israel, Raanana, Israel, Yokneam",
    "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2020499",
-   "company": "NVIDIA",
-   "title": "Senior Software Architect, RISC-V Networking Accelerator",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Architect--RISC-V-Networking-Accelerator_JR2020499",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana, Israel, Tel Hai",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2021941-1",
-   "company": "NVIDIA",
-   "title": "Senior Security Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2021941-1",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana, Israel, Tel Hai",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR1998545",
-   "company": "NVIDIA",
-   "title": "Senior Software Architect, AI Cloud",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Architect--AI-Cloud-Infrastructure_JR1998545",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva, Israel, Yokneam, Israel, Raanana, Israel, Tel Hai",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
+   "posted": "Posted 27 Days Ago",
    "score": 1,
    "reasons": [
     "משרה בכירה",
     "דורש 8+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2021407",
+   "company": "NVIDIA",
+   "title": "Senior Hardware Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Hardware-Engineer_JR2021407",
+   "location": "Israel, Raanana, Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2023705",
+   "company": "NVIDIA",
+   "title": "Software Architect, Network System Validation",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Architect--Network-System-Validation_JR2023705",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2024251",
+   "company": "NVIDIA",
+   "title": "Senior Site Reliability Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2024251",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 12+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2025289",
+   "company": "NVIDIA",
+   "title": "Engineering Manager, Network System Validation",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Engineering-Manager--Network-System-Validation_JR2025289",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "משרה בכירה",
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2025266",
+   "company": "NVIDIA",
+   "title": "Senior Software Engineer, DOCA SDK",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-SDK_JR2025266",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2025930",
+   "company": "NVIDIA",
+   "title": "Senior Board Design Hardware Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Board-Design-Hardware-Engineer_JR2025930",
+   "location": "Israel, Raanana, Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2025934-1",
+   "company": "NVIDIA",
+   "title": "Senior Hardware Integration and Validation Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Hardware-Integration-and-Validation-Engineer_JR2025934-1",
+   "location": "Israel, Raanana, Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 8+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2025297",
+   "company": "NVIDIA",
+   "title": "Senior System Hardware Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Hardware-Architect_JR2025297",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 24 Days Ago",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 25+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2027906",
+   "company": "NVIDIA",
+   "title": "Senior Hardware Validation Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Hardware-Validation-Engineer_JR2027906",
+   "location": "Israel, Raanana, Israel, Yokneam",
+   "department": "",
+   "posted": "Posted 21 Days Ago",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2005814-1",
+   "company": "NVIDIA",
+   "title": "Senior Software Technical Program Manager",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Technical-Program-Manager_JR2005814-1",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 22 Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 8+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2008755",
+   "company": "NVIDIA",
+   "title": "Senior PCB Design Layout Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-PCB-Design-Layout-Engineer_JR2008755",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 21 Days Ago",
+   "score": 1,
+   "reasons": [
+    "דורש בדיוק את התואר שלך",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2011255-1",
+   "company": "NVIDIA",
+   "title": "Senior Hardware Manager, Co Package Optics Switch Design",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Hardware-Manager--Co-Package-Optics-Switch-Design_JR2011255-1",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "אופטיקה/פוטוניקה בכותרת",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 6+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2011546",
+   "company": "NVIDIA",
+   "title": "Senior System Architect, High-Speed Interconnects",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Architect--High-Speed-Interconnects_JR2011546",
+   "location": "Israel, Yokneam, Israel, Raanana",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 12+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -21629,6 +21585,138 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2015029",
+   "company": "NVIDIA",
+   "title": "Senior Chip Design Verification Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2015029",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2015057",
+   "company": "NVIDIA",
+   "title": "Senior Chip Design Verification Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-Chip-Design-Verification-Engineer_JR2015057",
+   "location": "Israel, Beer Sheva, Israel, Tel Aviv",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2015633",
+   "company": "NVIDIA",
+   "title": "Senior Software Engineer – Networking Platforms, Diagnostics Tools and Performance",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2015633",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva",
+   "department": "",
+   "posted": "Posted 27 Days Ago",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2018350",
+   "company": "NVIDIA",
+   "title": "Senior Chip Design Verification Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2018350",
+   "location": "Israel, Tel Aviv, Israel, Beer Sheva",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2020435-1",
+   "company": "NVIDIA",
+   "title": "Senior ASIC Hardware Design Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-ASIC-Hardware-Design-Engineer_JR2020435-1",
+   "location": "Israel, Beer Sheva, Israel, Tel Aviv",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "NVIDIA|JR2025563",
+   "company": "NVIDIA",
+   "title": "Senior Hardware Security Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-Hardware-Security-Architect_JR2025563",
+   "location": "Israel, Beer Sheva, Israel, Tel Aviv",
+   "department": "",
+   "posted": "Posted 30+ Days Ago",
+   "score": 1,
+   "reasons": [
+    "חומרה/מעבדה",
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2014028",
@@ -24180,138 +24268,6 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2015029",
-   "company": "NVIDIA",
-   "title": "Senior Chip Design Verification Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2015029",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2015057",
-   "company": "NVIDIA",
-   "title": "Senior Chip Design Verification Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-Chip-Design-Verification-Engineer_JR2015057",
-   "location": "Israel, Beer Sheva, Israel, Tel Aviv",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2015633",
-   "company": "NVIDIA",
-   "title": "Senior Software Engineer – Networking Platforms, Diagnostics Tools and Performance",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2015633",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva",
-   "department": "",
-   "posted": "Posted 27 Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2018350",
-   "company": "NVIDIA",
-   "title": "Senior Chip Design Verification Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Verification-Engineer_JR2018350",
-   "location": "Israel, Tel Aviv, Israel, Beer Sheva",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2020435-1",
-   "company": "NVIDIA",
-   "title": "Senior ASIC Hardware Design Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-ASIC-Hardware-Design-Engineer_JR2020435-1",
-   "location": "Israel, Beer Sheva, Israel, Tel Aviv",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2025563",
-   "company": "NVIDIA",
-   "title": "Senior Hardware Security Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-Hardware-Security-Architect_JR2025563",
-   "location": "Israel, Beer Sheva, Israel, Tel Aviv",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "חומרה/מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2013845",
@@ -27297,27 +27253,6 @@
    "initial": true
   },
   {
-   "id": "Intel|JR0288605",
-   "company": "Intel",
-   "title": "Manufacturing Technician for Intel Kiryat Gat",
-   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Manufacturing-Technician-for-Intel-Kiryat-Gat_JR0288605",
-   "location": "Israel, Kiryat-Gat",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "תחום פחות רלוונטי",
-    "משרת טכנאי/הנדסאי"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "HP Indigo|UNI2641-2",
    "company": "HP Indigo",
    "title": "Machine Operator / Integrator",
@@ -29431,26 +29366,6 @@
    "first_seen": "2026-11-11T21:46:27+00:00"
   },
   {
-   "id": "NVIDIA|JR2028812",
-   "company": "NVIDIA",
-   "title": "Senior SOC Architect",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SOC-Architect_JR2028812",
-   "location": "Israel, Tel Aviv, Israel, Raanana, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 12+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-11T21:46:27+00:00"
-  },
-  {
    "id": "NVIDIA|JR2029727",
    "company": "NVIDIA",
    "title": "Senior Signal and Power Integrity Engineer",
@@ -29464,6 +29379,26 @@
     "Python",
     "משרה בכירה",
     "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-11T21:46:27+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2028812",
+   "company": "NVIDIA",
+   "title": "Senior SOC Architect",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SOC-Architect_JR2028812",
+   "location": "Israel, Tel Aviv, Israel, Raanana, Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 12+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -33095,6 +33030,45 @@
     "מוליכים למחצה"
    ],
    "first_seen": "2026-11-23T09:45:14+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2029252",
+   "company": "NVIDIA",
+   "title": "Director, Software Technical Program Management",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Director--Software-Technical-Program-Management_JR2029252",
+   "location": "Israel, Yokneam, Israel, Raanana, Israel, Tel Aviv",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 15+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-23T10:43:10+00:00"
+  },
+  {
+   "id": "HP Indigo|3170533-2",
+   "company": "HP Indigo",
+   "title": "Senior Quality Engineer",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Ness-Ziona-Center-District-Israel/Senior-Quality-Engineer_3170533-2",
+   "location": "Ness Ziona, Center District, Israel",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "דימות"
+   ],
+   "first_seen": "2026-11-23T10:43:10+00:00"
   }
  ]
 }
