@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:33:42+00:00",
+ "updated": "2026-11-23T12:39:52+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -3140,6 +3140,26 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-16T11:53:15+00:00"
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/49.57D/",
+   "company": "Camtek",
+   "title": "Validation Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/49.57D/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 23,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "רקע אלקטרו-אופטי",
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-23T12:39:52+00:00"
   },
   {
    "id": "Elbit Systems|19859",
@@ -33047,6 +33067,44 @@
     "ירושלים"
    ],
    "first_seen": "2026-11-23T12:33:42+00:00"
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/49.57A/",
+   "company": "Camtek",
+   "title": "Product Engineer",
+   "url": "https://www.camtek.com/careers/open-positions/49.57A/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-23T12:39:52+00:00"
+  },
+  {
+   "id": "Camtek|https://www.camtek.com/careers/open-positions/59.571/",
+   "company": "Camtek",
+   "title": "Project Manager",
+   "url": "https://www.camtek.com/careers/open-positions/59.571/",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "אינטרפרומטריה",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 3+ שנות ניסיון",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [],
+   "first_seen": "2026-11-23T12:39:52+00:00"
   }
  ]
 }
