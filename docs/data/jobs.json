@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:59:26+00:00",
+ "updated": "2026-11-24T16:59:36+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -29174,25 +29174,6 @@
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 4+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-11T21:46:27+00:00"
-  },
-  {
-   "id": "NVIDIA|JR2029504-1",
-   "company": "NVIDIA",
-   "title": "Chip Design HW Emulation Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-HW-Emulation-Engineer_JR2029504-1",
-   "location": "Israel, Tel Aviv, Israel, Yokneam",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה"
    ],
    "kind": "full",
    "tags": [
