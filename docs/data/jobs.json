@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:57:54+00:00",
+ "updated": "2026-11-24T09:01:55+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -26502,6 +26502,27 @@
    "initial": true
   },
   {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/technical-pm/1beaa9a2-6edd-468a-a719-d2f320c7ee70",
+   "company": "Mobileye",
+   "title": "Technical Pm",
+   "url": "https://careers.mobileye.com/jobs/technical-pm/1beaa9a2-6edd-468a-a719-d2f320c7ee70",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Mobileye|https://careers.mobileye.com/jobs/ehs-specialist-safety-officer/04c8ffeb-012c-4461-88a1-58acc073958b",
    "company": "Mobileye",
    "title": "Ehs Specialist Safety Officer",
@@ -29526,29 +29547,6 @@
    "first_seen": "2026-11-11T21:46:27+00:00"
   },
   {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/technical-project-manager-epgsw/1beaa9a2-6edd-468a-a719-d2f320c7ee70",
-   "company": "Mobileye",
-   "title": "Technical Project Manager Epgsw",
-   "url": "https://careers.mobileye.com/jobs/technical-project-manager-epgsw/1beaa9a2-6edd-468a-a719-d2f320c7ee70",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 10+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-11T21:46:27+00:00"
-  },
-  {
    "id": "Mobileye|https://careers.mobileye.com/jobs/technical-project-manager-epgsw/a0f7bc46-fd68-481a-a646-46c2a943e031",
    "company": "Mobileye",
    "title": "Technical Project Manager Epgsw",
@@ -31420,29 +31418,6 @@
    "first_seen": "2026-11-17T12:21:08+00:00"
   },
   {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/senior-av-product-manager-drive-urban/115adbc6-d6e5-49fc-95e4-8b71e5b15d04",
-   "company": "Mobileye",
-   "title": "Senior Av Product Manager Drive Urban",
-   "url": "https://careers.mobileye.com/jobs/senior-av-product-manager-drive-urban/115adbc6-d6e5-49fc-95e4-8b71e5b15d04",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "full",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-17T12:21:08+00:00"
-  },
-  {
    "id": "Quantum Machines|C8.37D",
    "company": "Quantum Machines",
    "title": "Product Operations",
@@ -33075,6 +33050,28 @@
     "מוליכים למחצה"
    ],
    "first_seen": "2026-11-24T08:57:54+00:00"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/c-embedded-software-team-leader-invehicle-hd-maps/fb6ae5c4-6bcc-46a9-8107-ac537b8a546e",
+   "company": "Mobileye",
+   "title": "C Embedded Software Team Leader Invehicle Hd Maps",
+   "url": "https://careers.mobileye.com/jobs/c-embedded-software-team-leader-invehicle-hd-maps/fb6ae5c4-6bcc-46a9-8107-ac537b8a546e",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-24T09:01:55+00:00"
   }
  ]
 }
