@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:58:55+00:00",
+ "updated": "2026-11-24T15:05:05+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -9171,6 +9171,27 @@
    "first_seen": "2026-11-12T11:34:35+00:00"
   },
   {
+   "id": "Elbit Systems|20898",
+   "company": "Elbit Systems",
+   "title": "סטודנט.ית לשיווק",
+   "url": "https://elbitsystemscareer.com/job/?jid=20898",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-08-03T01:46:00",
+   "score": 1,
+   "reasons": [
+    "משרת סטודנט",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "student",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|21160",
    "company": "Elbit Systems",
    "title": "מנהל.ת תוכנית",
@@ -15301,27 +15322,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20898",
-   "company": "Elbit Systems",
-   "title": "סטודנט.ית לשיווק",
-   "url": "https://elbitsystemscareer.com/job/?jid=20898",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-08-03T01:46:00",
-   "score": 1,
-   "reasons": [
-    "משרת סטודנט",
-    "תחום פחות רלוונטי"
-   ],
-   "kind": "student",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|21014",
    "company": "Elbit Systems",
    "title": "FPGA Engineer",
@@ -19460,29 +19460,6 @@
     "עבודת מעבדה",
     "משרה בכירה",
     "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2024251",
-   "company": "NVIDIA",
-   "title": "Senior Site Reliability Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2024251",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "Python",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 12+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
