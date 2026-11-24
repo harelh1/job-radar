@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:29:06+00:00",
+ "updated": "2026-11-24T22:27:07+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -21315,26 +21315,6 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2029097",
-   "company": "NVIDIA",
-   "title": "Senior SRE Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SRE-Engineer_JR2029097",
-   "location": "Israel, Tel Aviv, Israel, Raanana",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 25+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "NVIDIA|JR2029293",
