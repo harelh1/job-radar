@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:40:59+00:00",
+ "updated": "2026-11-24T06:37:10+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -793,29 +793,6 @@
    "tags": [],
    "first_seen": "2026-11-13T08:25:48+00:00",
    "initial": true
-  },
-  {
-   "id": "Mobileye|https://careers.mobileye.com/jobs/algorithmsoftware-developer-student-rem-west-team/c19f0a29-016b-429c-b4c4-1356b21ab2ad",
-   "company": "Mobileye",
-   "title": "Algorithmsoftware Developer Student Rem West Team",
-   "url": "https://careers.mobileye.com/jobs/algorithmsoftware-developer-student-rem-west-team/c19f0a29-016b-429c-b4c4-1356b21ab2ad",
-   "location": "Israel",
-   "department": "",
-   "posted": "",
-   "score": 45,
-   "reasons": [
-    "משרת סטודנט",
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python",
-    "עבודת מעבדה"
-   ],
-   "kind": "student",
-   "tags": [
-    "רכב",
-    "דימות",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-23T13:56:57+00:00"
   },
   {
    "id": "Marvell|2604486",
@@ -7659,6 +7636,23 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20944",
+   "company": "Elbit Systems",
+   "title": "פלנר.ית",
+   "url": "https://elbitsystemscareer.com/job/?jid=20944",
+   "location": "Shfela, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-08-17T06:46:00",
+   "score": 6,
+   "reasons": [],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Elbit Systems|20876",
    "company": "Elbit Systems",
    "title": "מחווט.ת כבלים ורתמות",
@@ -7675,23 +7669,6 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
-  },
-  {
-   "id": "Elbit Systems|20944",
-   "company": "Elbit Systems",
-   "title": "פלנר.ית",
-   "url": "https://elbitsystemscareer.com/job/?jid=20944",
-   "location": "Shfela, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-08-17T06:46:00",
-   "score": 6,
-   "reasons": [],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "KLA (Orbotech)|2634646-1",
@@ -15238,6 +15215,25 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|19704",
+   "company": "Elbit Systems",
+   "title": "מהנדס.ת מערכת",
+   "url": "https://elbitsystemscareer.com/job/?jid=19704",
+   "location": "Jerusalem Area, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2025-05-22T12:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
    "id": "Elbit Systems|19702",
    "company": "Elbit Systems",
    "title": "R&D Manager",
@@ -15288,25 +15284,6 @@
    "score": 1,
    "reasons": [
     "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
-  },
-  {
-   "id": "Elbit Systems|19704",
-   "company": "Elbit Systems",
-   "title": "מהנדס.ת מערכת",
-   "url": "https://elbitsystemscareer.com/job/?jid=19704",
-   "location": "Jerusalem Area, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2025-05-22T12:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15510,26 +15487,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|19346",
-   "company": "Elbit Systems",
-   "title": "Operations Quality Inspector",
-   "url": "https://elbitsystemscareer.com/job/?jid=19346",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2025-03-27T01:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|20508",
    "company": "Elbit Systems",
    "title": "Mechanical Quality Inspector",
@@ -15540,6 +15497,26 @@
    "score": 1,
    "reasons": [
     "דורש 10+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|19346",
+   "company": "Elbit Systems",
+   "title": "Operations Quality Inspector",
+   "url": "https://elbitsystemscareer.com/job/?jid=19346",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2025-03-27T01:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15633,26 +15610,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20556",
-   "company": "Elbit Systems",
-   "title": "Head of Quality – Electronics Manufacturing Center",
-   "url": "https://elbitsystemscareer.com/job/?jid=20556",
-   "location": "Shfela, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-27T09:46:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19811",
    "company": "Elbit Systems",
    "title": "Design for Testability (DFT) Engineer",
@@ -15664,6 +15621,26 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20556",
+   "company": "Elbit Systems",
+   "title": "Head of Quality – Electronics Manufacturing Center",
+   "url": "https://elbitsystemscareer.com/job/?jid=20556",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-27T09:46:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
@@ -21914,29 +21891,6 @@
    "reasons": [
     "עבודת מעבדה",
     "משרה בכירה"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "NVIDIA|JR2015554-1",
-   "company": "NVIDIA",
-   "title": "Senior Hardware Validation Engineer",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Hardware-Validation-Engineer_JR2015554-1",
-   "location": "Israel, Yokneam",
-   "department": "",
-   "posted": "Posted 30+ Days Ago",
-   "score": 1,
-   "reasons": [
-    "בדיקות/אינטגרציה",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
