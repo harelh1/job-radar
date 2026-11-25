@@ -820,7 +820,9 @@
    "JR0289366-1": "2026-11-23T13:56:57+00:00",
    "JR0289426": "2026-11-24T07:59:38+00:00",
    "JR0289427": "2026-11-24T08:57:54+00:00",
-   "JR0288169": "2026-11-24T10:53:33+00:00"
+   "JR0288169": "2026-11-24T10:53:33+00:00",
+   "JR0289412": "2026-11-25T08:02:00+00:00",
+   "JR0289401": "2026-11-25T08:02:00+00:00"
   },
   "NVIDIA": {
    "JR2017969": "2026-11-09T20:02:53+00:00",
@@ -1315,7 +1317,8 @@
    "2604877": "2026-11-09T20:02:53+00:00",
    "2604546": "2026-11-09T20:02:53+00:00",
    "2604557": "2026-11-15T09:26:05+00:00",
-   "2605442": "2026-11-22T09:17:30+00:00"
+   "2605442": "2026-11-22T09:17:30+00:00",
+   "2604487": "2026-11-25T08:02:00+00:00"
   },
   "HP Indigo": {
    "UNI2641-2": "2026-11-09T20:02:53+00:00",
@@ -1720,7 +1723,8 @@
    "https://careers.mobileye.com/jobs/av-perception-product-manager/52e503fe-c6a7-4df9-bd51-eb187a286716": "2026-11-23T13:56:57+00:00",
    "https://careers.mobileye.com/jobs/c-embedded-software-team-leader-invehicle-hd-maps/fb6ae5c4-6bcc-46a9-8107-ac537b8a546e": "2026-11-24T09:01:55+00:00",
    "https://careers.mobileye.com/jobs/it-devops-team-lead/fffb9601-ec01-4f84-b021-905146110b25": "2026-11-24T11:44:34+00:00",
-   "https://careers.mobileye.com/jobs/data-manager/7a25ec5f-8955-4538-94bd-5c0e847475b4": "2026-11-24T20:32:23+00:00"
+   "https://careers.mobileye.com/jobs/data-manager/7a25ec5f-8955-4538-94bd-5c0e847475b4": "2026-11-24T20:32:23+00:00",
+   "https://careers.mobileye.com/jobs/av-support-specialist/0fda07a5-aa04-431b-9eb1-a1f92f1c6884": "2026-11-25T08:02:00+00:00"
   },
   "Tower Semiconductor": {
    "https://careers.towersemi.com/job-description?job_id=9734": "2026-11-09T20:02:53+00:00",
