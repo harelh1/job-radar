@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:12:48+00:00",
+ "updated": "2026-11-26T09:10:18+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -3231,26 +3231,6 @@
    "first_seen": "2026-11-11T21:46:27+00:00"
   },
   {
-   "id": "NVIDIA|JR2026084-9",
-   "company": "NVIDIA",
-   "title": "Software Engineer - Python, C++, Video Algorithms",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer---Python--C----Video-Algorithms_JR2026084-9",
-   "location": "Israel, Yokneam, Israel, Raanana",
-   "department": "",
-   "posted": "Posted Today",
-   "score": 23,
-   "reasons": [
-    "מו\"פ/אלגוריתמים/עיבוד אותות",
-    "Python"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "פוטוניקה"
-   ],
-   "first_seen": "2026-11-16T11:53:15+00:00"
-  },
-  {
    "id": "Camtek|https://www.camtek.com/careers/open-positions/49.57D/",
    "company": "Camtek",
    "title": "Validation Engineer",
@@ -3329,30 +3309,6 @@
    "tags": [
     "ביטחוני",
     "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "OpticSolution|3W8W3V78",
-   "company": "OpticSolution",
-   "title": "Electro-Optics R&D Team Leader",
-   "url": "https://careers-page.com/opticsolution/job/3W8W3V78",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 22,
-   "reasons": [
-    "אלקטרו-אופטיקה בכותרת",
-    "רקע אלקטרו-אופטי",
-    "עבודת מעבדה",
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
@@ -16895,26 +16851,6 @@
    ],
    "first_seen": "2026-11-09T20:02:53+00:00",
    "initial": true
-  },
-  {
-   "id": "OpticSolution|X985XR3R",
-   "company": "OpticSolution",
-   "title": "Quality Department Manager",
-   "url": "https://careers-page.com/opticsolution/job/X985XR3R",
-   "location": "Jerusalem, Israel",
-   "department": "",
-   "posted": "",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה",
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "אופטיקה",
-    "ירושלים"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
    "id": "Applied Materials|R2631360",
@@ -33331,6 +33267,68 @@
     "מטרולוגיה"
    ],
    "first_seen": "2026-11-26T08:12:48+00:00"
+  },
+  {
+   "id": "OpticSolution|X977357Y",
+   "company": "OpticSolution",
+   "title": "Mechanical Quality Inspector",
+   "url": "https://careers-page.com/opticsolution/job/X977357Y",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-26T09:10:18+00:00"
+  },
+  {
+   "id": "OpticSolution|93VV697Y",
+   "company": "OpticSolution",
+   "title": "Quality Manager for a Mega-Project",
+   "url": "https://careers-page.com/opticsolution/job/93VV697Y",
+   "location": "Jerusalem, Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "אופטיקה",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-26T09:10:18+00:00"
+  },
+  {
+   "id": "Mobileye|https://careers.mobileye.com/jobs/execution-project-manager-algorithm-department-temporary-position-for-9-month/8bf135f8-0f0d-4749-8ce1-a19247db64f4",
+   "company": "Mobileye",
+   "title": "Execution Project Manager Algorithm Department Temporary Position For 9 Month",
+   "url": "https://careers.mobileye.com/jobs/execution-project-manager-algorithm-department-temporary-position-for-9-month/8bf135f8-0f0d-4749-8ce1-a19247db64f4",
+   "location": "Israel",
+   "department": "",
+   "posted": "",
+   "score": 1,
+   "reasons": [
+    "מו\"פ/אלגוריתמים/עיבוד אותות",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "תחום פחות רלוונטי"
+   ],
+   "kind": "full",
+   "tags": [
+    "רכב",
+    "דימות",
+    "ירושלים"
+   ],
+   "first_seen": "2026-11-26T09:10:18+00:00"
   }
  ]
 }
