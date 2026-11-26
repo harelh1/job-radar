@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:43:13+00:00",
+ "updated": "2026-11-26T16:49:26+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -1183,28 +1183,6 @@
    "kind": "student",
    "tags": [],
    "first_seen": "2026-11-17T08:48:45+00:00"
-  },
-  {
-   "id": "KLA (Orbotech)|2643272",
-   "company": "KLA (Orbotech)",
-   "title": "System Integrator, Laser-Based Platforms",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/System-Integrator--Laser-Based-Platforms_2643272",
-   "location": "Yavne, Israel",
-   "department": "",
-   "posted": "Posted 5 Days Ago",
-   "score": 38,
-   "reasons": [
-    "לייזרים/LiDAR",
-    "רקע אלקטרו-אופטי",
-    "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "מוליכים למחצה",
-    "מטרולוגיה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
   },
   {
    "id": "KLA (Orbotech)|2643933-1",
