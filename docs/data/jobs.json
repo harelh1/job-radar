@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:49:46+00:00",
+ "updated": "2026-11-27T14:04:42+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -33410,6 +33410,28 @@
     "פוטוניקה"
    ],
    "first_seen": "2026-11-27T12:49:46+00:00"
+  },
+  {
+   "id": "NVIDIA|JR2029286",
+   "company": "NVIDIA",
+   "title": "Principal Data Analytics and Machine Learning Engineer",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Principal-Data-Analytics-and-Machine-Learning-Engineer_JR2029286",
+   "location": "Israel, Yokneam",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 1,
+   "reasons": [
+    "Python",
+    "עבודת מעבדה",
+    "משרה בכירה",
+    "דורש 15+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה",
+    "פוטוניקה"
+   ],
+   "first_seen": "2026-11-27T14:04:42+00:00"
   }
  ]
 }
