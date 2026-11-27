@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:41:28+00:00",
+ "updated": "2026-11-27T05:40:30+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -6231,6 +6231,27 @@
     "אלקטרו-אופטיקה"
    ],
    "first_seen": "2026-11-16T09:26:01+00:00"
+  },
+  {
+   "id": "Intel|JR0289613",
+   "company": "Intel",
+   "title": "SOC Functional Validation Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Jerusalem/SOC-Functional-Validation-Engineer_JR0289613",
+   "location": "Israel, Jerusalem",
+   "department": "",
+   "posted": "Posted Today",
+   "score": 9,
+   "reasons": [
+    "בדיקות/אינטגרציה",
+    "Python",
+    "עבודת מעבדה",
+    "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "מוליכים למחצה"
+   ],
+   "first_seen": "2026-11-27T05:40:30+00:00"
   },
   {
    "id": "Elbit Systems|19550",
