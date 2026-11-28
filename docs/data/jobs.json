@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T14:31:10+00:00",
+ "updated": "2026-11-28T14:35:20+00:00",
  "alert_min_score": 55,
  "jobs": [
   {
@@ -14939,13 +14939,13 @@
    "first_seen": "2026-11-09T20:02:53+00:00"
   },
   {
-   "id": "Elbit Systems|19482",
+   "id": "Elbit Systems|20828",
    "company": "Elbit Systems",
-   "title": "הנדסאי.ת ייצור",
-   "url": "https://elbitsystemscareer.com/job/?jid=19482",
-   "location": "Sharon, Israel",
+   "title": "הנדסאי.ת לתחזוקת מתקני בדיקה",
+   "url": "https://elbitsystemscareer.com/job/?jid=20828",
+   "location": "Shfela, Israel",
    "department": "יבשה ותעש",
-   "posted": "2025-05-21T07:46:00",
+   "posted": "2026-07-08T08:46:00",
    "score": 1,
    "reasons": [
     "משרת טכנאי/הנדסאי"
@@ -15122,26 +15122,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20770",
-   "company": "Elbit Systems",
-   "title": "קניין.ית טכנולוגי.ת",
-   "url": "https://elbitsystemscareer.com/job/?jid=20770",
-   "location": "North, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2026-07-01T01:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19985",
    "company": "Elbit Systems",
    "title": "ראש.ת תחום מערכות אלקטרומכניות",
@@ -15152,6 +15132,26 @@
    "score": 1,
    "reasons": [
     "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20770",
+   "company": "Elbit Systems",
+   "title": "קניין.ית טכנולוגי.ת",
+   "url": "https://elbitsystemscareer.com/job/?jid=20770",
+   "location": "North, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2026-07-01T01:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15284,25 +15284,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|19704",
-   "company": "Elbit Systems",
-   "title": "מהנדס.ת מערכת",
-   "url": "https://elbitsystemscareer.com/job/?jid=19704",
-   "location": "Jerusalem Area, Israel",
-   "department": "יבשה ותעש",
-   "posted": "2025-05-22T12:46:00",
-   "score": 1,
-   "reasons": [
-    "דורש 5+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00"
-  },
-  {
    "id": "Elbit Systems|19702",
    "company": "Elbit Systems",
    "title": "R&D Manager",
@@ -15353,6 +15334,25 @@
    "score": 1,
    "reasons": [
     "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00"
+  },
+  {
+   "id": "Elbit Systems|19704",
+   "company": "Elbit Systems",
+   "title": "מהנדס.ת מערכת",
+   "url": "https://elbitsystemscareer.com/job/?jid=19704",
+   "location": "Jerusalem Area, Israel",
+   "department": "יבשה ותעש",
+   "posted": "2025-05-22T12:46:00",
+   "score": 1,
+   "reasons": [
+    "דורש 5+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15535,26 +15535,6 @@
    "initial": true
   },
   {
-   "id": "Elbit Systems|20508",
-   "company": "Elbit Systems",
-   "title": "Mechanical Quality Inspector",
-   "url": "https://elbitsystemscareer.com/job/?jid=20508",
-   "location": "Center, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-18T12:16:00",
-   "score": 1,
-   "reasons": [
-    "דורש 10+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
    "id": "Elbit Systems|19346",
    "company": "Elbit Systems",
    "title": "Operations Quality Inspector",
@@ -15565,6 +15545,26 @@
    "score": 1,
    "reasons": [
     "דורש 3+ שנות ניסיון"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
+   "id": "Elbit Systems|20508",
+   "company": "Elbit Systems",
+   "title": "Mechanical Quality Inspector",
+   "url": "https://elbitsystemscareer.com/job/?jid=20508",
+   "location": "Center, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-18T12:16:00",
+   "score": 1,
+   "reasons": [
+    "דורש 10+ שנות ניסיון"
    ],
    "kind": "full",
    "tags": [
@@ -15637,6 +15637,26 @@
    "initial": true
   },
   {
+   "id": "Elbit Systems|20556",
+   "company": "Elbit Systems",
+   "title": "Head of Quality – Electronics Manufacturing Center",
+   "url": "https://elbitsystemscareer.com/job/?jid=20556",
+   "location": "Shfela, Israel",
+   "department": "מודיעין ול\"א",
+   "posted": "2026-05-27T09:46:00",
+   "score": 1,
+   "reasons": [
+    "משרה בכירה"
+   ],
+   "kind": "full",
+   "tags": [
+    "ביטחוני",
+    "אלקטרו-אופטיקה"
+   ],
+   "first_seen": "2026-11-09T20:02:53+00:00",
+   "initial": true
+  },
+  {
    "id": "Elbit Systems|19811",
    "company": "Elbit Systems",
    "title": "Design for Testability (DFT) Engineer",
@@ -15648,26 +15668,6 @@
    "reasons": [
     "בדיקות/אינטגרציה",
     "דורש 3+ שנות ניסיון"
-   ],
-   "kind": "full",
-   "tags": [
-    "ביטחוני",
-    "אלקטרו-אופטיקה"
-   ],
-   "first_seen": "2026-11-09T20:02:53+00:00",
-   "initial": true
-  },
-  {
-   "id": "Elbit Systems|20556",
-   "company": "Elbit Systems",
-   "title": "Head of Quality – Electronics Manufacturing Center",
-   "url": "https://elbitsystemscareer.com/job/?jid=20556",
-   "location": "Shfela, Israel",
-   "department": "מודיעין ול\"א",
-   "posted": "2026-05-27T09:46:00",
-   "score": 1,
-   "reasons": [
-    "משרה בכירה"
    ],
    "kind": "full",
    "tags": [
